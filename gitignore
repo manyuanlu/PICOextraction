@@ -1,0 +1,36 @@
+# ── Data outputs (large files, not for version control) ──────────────────────
+glp1_corpus.csv
+glp1_corpus.json
+pico_results.csv
+annotations.csv
+glp1_database.csv
+glp1_database.xlsx
+
+# ── Checkpoints ───────────────────────────────────────────────────────────────
+checkpoint.json
+annotation_checkpoint.json
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.txt
+
+# ── API keys (never commit these) ────────────────────────────────────────────
+.env
+*.env
+secrets.py
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# ── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── IDEs ─────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project

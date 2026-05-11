@@ -1,0 +1,89 @@
+2026-05-11 17:56:57,479  INFO  ============================================================
+2026-05-11 17:56:57,479  INFO  Phase 3b: Build Database -- 2026-05-11T17:56:57.479408
+2026-05-11 17:56:57,479  INFO  ============================================================
+2026-05-11 17:56:57,479  INFO  Loading PICO results...
+2026-05-11 17:56:57,519  INFO    2341 rows in pico_results.csv
+2026-05-11 17:56:57,519  INFO  Loading annotations...
+2026-05-11 17:56:57,531  INFO    2341 rows in annotations.csv
+2026-05-11 17:56:57,533  INFO    Merged: 2341 rows
+2026-05-11 17:56:57,533  INFO  Normalizing drug names...
+2026-05-11 17:56:57,541  INFO  Normalizing indications...
+2026-05-11 17:56:57,545  INFO  Linking ClinicalTrials.gov (best-effort, this may take a few minutes)...
+2026-05-11 17:58:09,055  INFO    CT lookup: 100/2341
+2026-05-11 17:59:20,675  INFO    CT lookup: 200/2341
+2026-05-11 18:00:32,153  INFO    CT lookup: 300/2341
+2026-05-11 18:01:44,218  INFO    CT lookup: 400/2341
+2026-05-11 18:02:55,878  INFO    CT lookup: 500/2341
+2026-05-11 18:04:08,417  INFO    CT lookup: 600/2341
+2026-05-11 18:05:21,036  INFO    CT lookup: 700/2341
+2026-05-11 18:06:33,171  INFO    CT lookup: 800/2341
+2026-05-11 18:07:45,205  INFO    CT lookup: 900/2341
+2026-05-11 18:08:57,879  INFO    CT lookup: 1000/2341
+2026-05-11 18:10:09,955  INFO    CT lookup: 1100/2341
+2026-05-11 18:11:21,653  INFO    CT lookup: 1200/2341
+2026-05-11 18:12:33,694  INFO    CT lookup: 1300/2341
+2026-05-11 18:13:45,918  INFO    CT lookup: 1400/2341
+2026-05-11 18:14:57,898  INFO    CT lookup: 1500/2341
+2026-05-11 18:16:10,513  INFO    CT lookup: 1600/2341
+2026-05-11 18:17:22,784  INFO    CT lookup: 1700/2341
+2026-05-11 18:18:34,971  INFO    CT lookup: 1800/2341
+2026-05-11 18:19:47,025  INFO    CT lookup: 1900/2341
+2026-05-11 18:20:59,101  INFO    CT lookup: 2000/2341
+2026-05-11 18:22:11,299  INFO    CT lookup: 2100/2341
+2026-05-11 18:23:24,034  INFO    CT lookup: 2200/2341
+2026-05-11 18:24:36,935  INFO    CT lookup: 2300/2341
+2026-05-11 18:25:07,150  INFO    Linked 1201/2341 papers to ClinicalTrials.gov records
+2026-05-11 18:25:07,180  INFO  Saved CSV -> glp1_database.csv (2341 rows)
+2026-05-11 18:25:07,180  INFO  Building Excel workbook...
+2026-05-11 18:26:39,842  INFO  ============================================================
+2026-05-11 18:26:39,843  INFO  Phase 3b: Build Database -- 2026-05-11T18:26:39.843018
+2026-05-11 18:26:39,843  INFO  ============================================================
+2026-05-11 18:26:39,843  INFO  Loading PICO results...
+2026-05-11 18:26:39,863  INFO    2341 rows in pico_results.csv
+2026-05-11 18:26:39,863  INFO  Loading annotations...
+2026-05-11 18:26:39,870  INFO    2341 rows in annotations.csv
+2026-05-11 18:26:39,872  INFO    Merged: 2341 rows
+2026-05-11 18:26:39,872  INFO  Normalizing drug names...
+2026-05-11 18:26:39,879  INFO  Normalizing indications...
+2026-05-11 18:26:39,882  INFO  Linking ClinicalTrials.gov (best-effort, this may take a few minutes)...
+2026-05-11 18:27:51,515  INFO    CT lookup: 100/2341
+2026-05-11 18:29:03,409  INFO    CT lookup: 200/2341
+2026-05-11 18:30:15,443  INFO    CT lookup: 300/2341
+2026-05-11 18:31:27,623  INFO    CT lookup: 400/2341
+2026-05-11 18:32:40,357  INFO    CT lookup: 500/2341
+2026-05-11 18:33:52,504  INFO    CT lookup: 600/2341
+2026-05-11 18:35:04,491  INFO    CT lookup: 700/2341
+2026-05-11 18:36:16,951  INFO    CT lookup: 800/2341
+2026-05-11 18:37:28,886  INFO    CT lookup: 900/2341
+2026-05-11 18:38:41,621  INFO    CT lookup: 1000/2341
+2026-05-11 18:39:55,017  INFO    CT lookup: 1100/2341
+2026-05-11 18:41:07,822  INFO    CT lookup: 1200/2341
+2026-05-11 18:42:20,115  INFO    CT lookup: 1300/2341
+2026-05-11 18:43:32,478  INFO    CT lookup: 1400/2341
+2026-05-11 18:44:45,264  INFO    CT lookup: 1500/2341
+2026-05-11 18:45:57,400  INFO    CT lookup: 1600/2341
+2026-05-11 18:47:10,110  INFO    CT lookup: 1700/2341
+2026-05-11 18:48:22,900  INFO    CT lookup: 1800/2341
+2026-05-11 18:49:35,232  INFO    CT lookup: 1900/2341
+2026-05-11 18:50:47,221  INFO    CT lookup: 2000/2341
+2026-05-11 18:51:59,321  INFO    CT lookup: 2100/2341
+2026-05-11 18:53:11,586  INFO    CT lookup: 2200/2341
+2026-05-11 18:54:23,695  INFO    CT lookup: 2300/2341
+2026-05-11 18:54:54,004  INFO    Linked 1201/2341 papers to ClinicalTrials.gov records
+2026-05-11 18:54:54,035  INFO  Saved CSV -> glp1_database.csv (2341 rows)
+2026-05-11 18:54:54,035  INFO  Building Excel workbook...
+2026-05-11 18:54:59,724  INFO  Saved Excel -> glp1_database.xlsx
+2026-05-11 18:54:59,724  INFO    Sheets: All Trials | Sex Data Available | Summary | 355 indication sheets
+2026-05-11 18:54:59,725  INFO  
+============================================================
+2026-05-11 18:54:59,725  INFO  DATABASE SUMMARY
+2026-05-11 18:54:59,725  INFO    Total trials:             2341
+2026-05-11 18:54:59,725  INFO    Unique drugs:             10
+2026-05-11 18:54:59,725  INFO    Unique indications:       356
+2026-05-11 18:54:59,725  INFO    CT.gov linked:            1201 (51%)
+2026-05-11 18:54:59,726  INFO    Women-only trials:        77
+2026-05-11 18:54:59,726  INFO    Sex-stratified outcomes:  34
+2026-05-11 18:54:59,727  INFO    Female % reported:        435
+2026-05-11 18:54:59,727  INFO  ============================================================
+2026-05-11 18:54:59,727  INFO  
+Phase 3 complete.
