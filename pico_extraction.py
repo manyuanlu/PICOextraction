@@ -31,14 +31,14 @@ from pathlib import Path
 
 # ── Configuration ──────────────────────────────────────────────────────────────
 
-ANTHROPIC_API_KEY = "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"  # or paste key here
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")  # or paste key here
 
 INPUT_CSV      = "glp1_corpus.csv"       # output from Phase 1
 OUTPUT_CSV     = "pico_results.csv"      # final results
 CHECKPOINT     = "checkpoint.json"       # tracks last completed PMID
 LOG_FILE       = "extraction_log.txt"
 
-BATCH_SIZE     = 41      # how many papers to process per run (adjust as needed)
+BATCH_SIZE     = 50      # how many papers to process per run (adjust as needed)
                           # run the script multiple times to process more
 REQUEST_DELAY  = 1.0     # seconds between API calls (be gentle on rate limits)
 MAX_RETRIES    = 3       # retries per paper on API failure

@@ -28,7 +28,7 @@ from datetime import datetime
 
 # ─── Configuration ────────────────────────────────────────────────────────────
 
-NCBI_API_KEY = "181e16b0a165e7b344e102f902e15e045108"  # Set via env var
+NCBI_API_KEY = os.environ.get("NCBI_API_KEY", "")  # Set via env var
 
 ESEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 EFETCH_URL  = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
