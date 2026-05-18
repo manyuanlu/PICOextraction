@@ -35,19 +35,19 @@ from pathlib import Path
 
 # ── Configuration ──────────────────────────────────────────────────────────────
 
-ANTHROPIC_API_KEY = ""  # or paste key here
+ANTHROPIC_API_KEY = "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"  # or paste key here
 
 INPUT_CSV      = "glp1_corpus.csv"
 OUTPUT_CSV     = "annotations.csv"
 CHECKPOINT     = "annotation_checkpoint.json"
 LOG_FILE       = "annotation_log.txt"
 
-BATCH_SIZE     = 791       # papers per run; increase once validated
+BATCH_SIZE     = 800       # papers per run; increase once validated
 REQUEST_DELAY  = 1.0      # seconds between API calls
 MAX_RETRIES    = 3
 RETRY_BACKOFF  = 5
 
-MODEL          = "claude-opus-4-5"
+MODEL          = "claude-opus-4-5-20251101"  # pinned snapshot for reproducibility
 MAX_TOKENS     = 1500
 
 FULLTEXT_CHAR_LIMIT = 60000

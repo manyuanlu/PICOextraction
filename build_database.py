@@ -89,7 +89,9 @@ DRUG_MAP = {
 def normalize_drug(text: str) -> str:
     text_lower = text.lower()
     found = []
-    for keyword, canonical in DRUG_MAP.items():
+    # Sort by keyword length descending so longer/more-specific keys match first
+    # (e.g. 'oral semaglutide' before 'semaglutide', 'bydureon bcise' before 'bydureon')
+    for keyword, canonical in sorted(DRUG_MAP.items(), key=lambda x: len(x[0]), reverse=True):
         if keyword in text_lower and canonical not in found:
             found.append(canonical)
     return "; ".join(found) if found else "Other/NR"
@@ -176,7 +178,7 @@ def is_patient_centered(flag: str) -> bool:
 
 SUBGROUP_COLS = [
     "subgroup_elderly", "subgroup_pediatric", "subgroup_racial_ethnic",
-    "subgroup_sex_specific", "subgroup_renal_hepatic",
+    "subgroup_sex_specific", "subgroup_renal_hepatic", "subgroup_other",
 ]
 
 
@@ -186,17 +188,18 @@ def has_any_subgroup(row) -> bool:
 
 
 def missing_subgroups(row) -> str:
-    """Return comma-separated list of subgroup dimensions with no/unclear."""
+    """Return semicolon-separated list of subgroup dimensions with no/unclear."""
     missing = []
     labels = {
-        "subgroup_elderly": "Elderly",
-        "subgroup_pediatric": "Pediatric",
+        "subgroup_elderly":       "Elderly",
+        "subgroup_pediatric":     "Pediatric",
         "subgroup_racial_ethnic": "Racial/Ethnic",
-        "subgroup_sex_specific": "Sex-specific",
+        "subgroup_sex_specific":  "Sex-specific",
         "subgroup_renal_hepatic": "Renal/Hepatic",
+        "subgroup_other":         "Other",
     }
     for col, label in labels.items():
-        if str(row.get(col, "")).lower() in ("no", "unclear", "nr", ""):
+        if str(row.get(col, "")).lower() in ("no", "unclear", "nr", "none", ""):
             missing.append(label)
     return "; ".join(missing)
 
@@ -204,22 +207,44 @@ def missing_subgroups(row) -> str:
 
 CT_API = "https://clinicaltrials.gov/api/v2/studies"
 
+# Tracks whether the CT.gov API is reachable; set to False on first hard failure
+# so we skip remaining lookups instead of burning time on 2000+ blocked requests.
+_ct_api_reachable: bool = True
+
 
 def lookup_ct_by_pmid(pmid: str) -> dict:
-    """Best-effort lookup of a ClinicalTrials.gov record by PMID."""
+    """Best-effort lookup of a ClinicalTrials.gov record by PMID.
+
+    Uses the correct v2 API filter: AREA[ReferencePMID]<pmid>.
+    Logs a warning on any failure and sets _ct_api_reachable=False on hard
+    HTTP errors (403/429/503) so the caller can abort the loop early.
+    """
+    global _ct_api_reachable
     empty = {"nct_id": "", "ct_status": "", "ct_phase": "", "ct_enrollment": ""}
+
+    if not _ct_api_reachable:
+        return empty
+
     try:
+        # Correct v2 query: filter by reference PMID stored on the trial record
         params = {
-            "query.term": f"PMID{pmid}",
-            "fields": "NCTId,OverallStatus,Phase,EnrollmentCount",
-            "pageSize": 1,
+            "query.term": f"AREA[ReferencePMID]{pmid}",
+            "fields":     "NCTId,OverallStatus,Phase,EnrollmentCount",
+            "pageSize":   1,
         }
         resp = requests.get(CT_API, params=params, timeout=10)
+
+        if resp.status_code in (403, 429, 503):
+            log.warning(f"  CT.gov API returned {resp.status_code} — skipping remaining lookups.")
+            _ct_api_reachable = False
+            return empty
+
         resp.raise_for_status()
         data    = resp.json()
         studies = data.get("studies", [])
         if not studies:
             return empty
+
         s = studies[0].get("protocolSection", {})
         return {
             "nct_id":        s.get("identificationModule", {}).get("nctId", ""),
@@ -227,7 +252,9 @@ def lookup_ct_by_pmid(pmid: str) -> dict:
             "ct_phase":      "; ".join(s.get("designModule", {}).get("phases", [])),
             "ct_enrollment": str(s.get("designModule", {}).get("enrollmentInfo", {}).get("count", "")),
         }
-    except Exception:
+
+    except Exception as e:
+        log.warning(f"  CT.gov lookup failed for PMID {pmid}: {e}")
         return empty
 
 # ── Excel helpers ──────────────────────────────────────────────────────────────
@@ -311,7 +338,7 @@ def run():
 
     # ── Subgroup gap columns ──────────────────────────────────────────────────
     log.info("Computing subgroup gap flags...")
-    df["has_any_subgroup"]  = df.apply(has_any_subgroup, axis=1)
+    df["has_any_subgroup"]  = df.apply(has_any_subgroup, axis=1).astype(bool)
     df["missing_subgroups"] = df.apply(missing_subgroups, axis=1)
 
     # ── ClinicalTrials.gov linkage ────────────────────────────────────────────
@@ -321,6 +348,14 @@ def run():
         if i % 100 == 0:
             log.info(f"  CT lookup: {i}/{len(df)}")
         ct_records.append(lookup_ct_by_pmid(pmid))
+        if not _ct_api_reachable:
+            # Pad remaining rows with empty records and abort
+            ct_records.extend(
+                [{"nct_id": "", "ct_status": "", "ct_phase": "", "ct_enrollment": ""}]
+                * (len(df) - len(ct_records))
+            )
+            log.warning("  CT.gov linkage aborted — all remaining rows set to empty.")
+            break
         time.sleep(CT_REQUEST_DELAY)
 
     ct_df = pd.DataFrame(ct_records)
@@ -351,7 +386,9 @@ def run():
 
         # Sheet 3: Underrepresented Populations (NEW)
         # Trials missing at least 3 subgroup dimensions (i.e. under-studied populations)
-        under_df = df[df["missing_subgroups"].str.count(";") >= 2].copy()
+        under_df = df[
+            df["missing_subgroups"].str.split(";").str.len() >= 3
+        ].copy()
         write_sheet(writer, under_df, "Underrepresented Populations")
 
         # Sheet 4: Surrogate-Heavy Trials (NEW)

@@ -38,8 +38,7 @@ NCBI_API_KEY = os.environ.get("NCBI_API_KEY", "")  # Set via env var
 
 ESEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 EFETCH_URL  = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
-PMC_FETCH_URL  = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
-PMC_OA_URL     = "https://www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi"  # OAI-PMH for full XML
+PMC_FETCH_URL  = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"  # same endpoint as EFETCH_URL, used for PMC full-text (db=pmc)
 
 BATCH_SIZE      = 100   # PMIDs per EFetch call (NCBI max recommended)
 REQUEST_DELAY   = 0.4   # seconds between requests (stay under rate limit)
@@ -452,7 +451,7 @@ def run():
 
     # ── 2. Fetch + parse in batches ──────────────────────────────────────────
     records = []
-    skipped_no_abstract = 0
+    skipped_parse_error = 0
     skipped_not_rct     = 0
     parse_errors        = 0
 
@@ -473,7 +472,7 @@ def run():
             rec = parse_record(article_xml)
 
             if rec is None:
-                skipped_no_abstract += 1
+                skipped_parse_error += 1
                 continue
 
             if not is_rct(rec):
@@ -492,13 +491,13 @@ def run():
             deduped.append(r)
             
     log.info(f"\nPubMed pass complete: {len(deduped)} RCTs retained "
-             f"(skipped: {skipped_no_abstract} no-abstract, "
-             f"{skipped_not_rct} non-RCT, {parse_errors} errors)")
+             f"(skipped: {skipped_parse_error} unparseable records, "
+             f"{skipped_not_rct} non-RCT, {parse_errors} batch errors)")
  
     # 3. PMC full-text enrichment
     enrich_with_fulltext(deduped)
 
- # 4. Summary + save
+    # 4. Summary + save
     ft_count  = sum(1 for r in deduped if r["text_source"] == "fulltext")
     abs_count = len(deduped) - ft_count
  

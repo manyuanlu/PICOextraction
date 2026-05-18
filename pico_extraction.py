@@ -27,6 +27,7 @@ import anthropic
 import csv
 import json
 import os
+import re
 import time
 import logging
 from datetime import datetime
@@ -34,20 +35,19 @@ from pathlib import Path
 
 # ── Configuration ──────────────────────────────────────────────────────────────
 
-ANTHROPIC_API_KEY = "" 
+ANTHROPIC_API_KEY = "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" 
 
 INPUT_CSV      = "glp1_corpus.csv"       # output from Phase 1
 OUTPUT_CSV     = "pico_results.csv"      # final results
 CHECKPOINT     = "checkpoint.json"       # tracks last completed PMID
 LOG_FILE       = "extraction_log.txt"
 
-BATCH_SIZE     = 2391      # how many papers to process per run (adjust as needed)
-                          # run the script multiple times to process more
+BATCH_SIZE     = 800      # papers per run — adjust as needed; script resumes via checkpoint
 REQUEST_DELAY  = 1.0     # seconds between API calls (be gentle on rate limits)
 MAX_RETRIES    = 3       # retries per paper on API failure
 RETRY_BACKOFF  = 5       # seconds for first retry; doubles each attempt
 
-MODEL          = "claude-opus-4-5"
+MODEL          = "claude-opus-4-5-20251101"  # pinned snapshot for reproducibility
 MAX_TOKENS     = 1500
 
 # Approximate character limit before we switch to section extraction.
@@ -87,6 +87,7 @@ Respond ONLY with a valid JSON object in this exact format, no preamble, no mark
 }"""
 
 USER_TEMPLATE = """Title: {title}
+Year: {year}
 Journal: {journal}
 Source: {text_source}
 
@@ -251,11 +252,8 @@ def extract_pico(client: anthropic.Anthropic, record: dict) -> dict:
             raw = response.content[0].text.strip()
 
             # Strip markdown fences if model adds them despite instructions
-            if raw.startswith("```"):
-                raw = raw.split("```")[1]
-                if raw.startswith("json"):
-                    raw = raw[4:]
-                raw = raw.strip()
+            raw = re.sub(r"^```json\s*", "", raw)
+            raw = re.sub(r"\s*```$", "", raw)
 
             pico = json.loads(raw)
 
@@ -299,6 +297,9 @@ def run():
 
     # if not ANTHROPIC_API_KEY:
     #     raise ValueError("ANTHROPIC_API_KEY is not set. Add it to the script or set as environment variable.")
+
+    if not ANTHROPIC_API_KEY:
+        raise ValueError("ANTHROPIC_API_KEY is not set. Add it to the script or set as environment variable.")
 
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
