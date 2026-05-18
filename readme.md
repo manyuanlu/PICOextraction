@@ -1,6 +1,6 @@
 # GLP-1 RCT Evidence Pipeline
 
-A three-phase computational pipeline for systematic retrieval, structured extraction, and database construction of GLP-1 receptor agonist randomized controlled trial evidence from PubMed.
+A four-phase computational pipeline for systematic retrieval, structured extraction, annotation, and database construction of GLP-1 receptor agonist randomized controlled trial evidence from PubMed.
 
 ---
 
@@ -8,13 +8,17 @@ A three-phase computational pipeline for systematic retrieval, structured extrac
 
 | Metric | Value |
 |--------|-------|
-| Total RCTs retrieved | 2,341 |
-| Unique GLP-1 drugs identified | 10 |
+| Total RCTs retrieved | 2,392 |
+| Unique GLP-1 drugs identified | 27 |
+| Unique indications | 28 |
 | Extraction failure rate | 0% |
-| ClinicalTrials.gov linkage | 1,201 / 2,341 (51%) |
-| Women-only trials | 77 (3.3%) |
-| Sex-stratified outcomes reported | 34 (1.5%) |
-| Female enrollment % reported | 435 (18.6%) |
+| ClinicalTrials.gov linkage | 1,219 / 2,392 (50%) |
+| Women-only trials | 80 (3.3%) |
+| Sex-stratified outcomes reported | 100 (4.2%) |
+| Female enrollment % reported | 862 (36.0%) |
+| Trials with subgroup data | 618 (25.8%) |
+| Surrogate-heavy trials | 1,888 (78.9%) |
+| Patient-centered trials | 179 (7.5%) |
 
 ---
 
@@ -23,11 +27,13 @@ A three-phase computational pipeline for systematic retrieval, structured extrac
 ```
 PubMed (3 queries)
        ↓
-Phase 1: Literature Retrieval        → 2,390 PMIDs → 2,341 abstracts
+Phase 1: Literature Retrieval        → 2,392 papers (957 full-text, 1,435 abstract-only)
        ↓
-Phase 2: PICO Extraction (LLM)       → 2,341 structured PICO records
+Phase 2: PICO Extraction (LLM)       → 2,392 structured PICO records
        ↓
-Phase 3: Database Construction       → glp1_database.csv + .xlsx
+Phase 3a: Annotation Extraction (LLM) → 2,392 structured annotation records
+       ↓
+Phase 3b: Database Construction      → glp1_database.csv + .xlsx
 ```
 
 ---
@@ -46,7 +52,9 @@ Queries PubMed via the NCBI E-utilities API (ESearch + EFetch) using three compl
 
 All queries filtered to: `"Randomized Controlled Trial"[pt]` + `"humans"[mh]` + `English[la]`
 
-**Results:** 2,390 unique PMIDs after deduplication → **2,341 papers** after excluding 47 records with no abstract and 2 non-RCT records on post-retrieval verification.
+For papers with a PubMed Central ID (PMCID), full text is retrieved via the NCBI EFetch API (`db=pmc`). Papers without open-access full text fall back to abstract only.
+
+**Results:** 2,392 papers — 957 full-text (40%), 1,435 abstract-only (60%).
 
 ### Setup
 
@@ -71,7 +79,7 @@ python pubmed_retrieval.py
 
 **Script:** `pico_extraction.py`
 
-Sends each abstract to Claude (`claude-opus-4-5`) via the Anthropic API and extracts structured PICO fields as JSON. Runs in configurable batches with checkpoint-and-resume — safe to interrupt at any time.
+Sends each paper's full text (or abstract where full text is unavailable) to Claude (`claude-opus-4-5-20251101`) via the Anthropic API and extracts structured PICO fields as JSON. Runs in configurable batches with checkpoint-and-resume — safe to interrupt at any time.
 
 **Extracted fields:**
 
@@ -84,7 +92,7 @@ Sends each abstract to Claude (`claude-opus-4-5`) via the Anthropic API and extr
 | `outcomes_secondary` | Secondary outcome definitions |
 | `extraction_notes` | Flags for ambiguity or missing fields |
 
-**Results:** 2,341 / 2,341 papers extracted successfully. **0 failures.**
+**Results:** 2,392 / 2,392 papers extracted successfully. **0 failures.**
 
 ### Setup
 
@@ -96,7 +104,7 @@ pip install anthropic
 # pico_extraction.py — line 38
 ANTHROPIC_API_KEY = "your_key_here"   # console.anthropic.com → API Keys
 
-BATCH_SIZE = 50   # increase after validating first batch
+BATCH_SIZE = 800   # script resumes via checkpoint; run repeatedly until complete
 ```
 
 ```bash
@@ -115,7 +123,7 @@ Two scripts: annotate first, then build.
 
 **Script:** `annotate.py`
 
-Second LLM pass over all abstracts to extract structured metadata fields:
+Second LLM pass (`claude-opus-4-5-20251101`) over all papers to extract structured metadata fields:
 
 | Field | Description |
 |-------|-------------|
@@ -123,11 +131,20 @@ Second LLM pass over all abstracts to extract structured metadata fields:
 | `trial_phase` | Phase 2 / 3 / 4 / NR |
 | `enrollment_size` | Total randomized participants |
 | `female_pct` | Female enrollment percentage |
-| `follow_up_duration` | Duration as stated in abstract |
+| `follow_up_duration` | Duration as stated in text |
 | `comparator_type` | Placebo / Active Comparator / Dose Comparison / NR |
 | `women_only_trial` | yes / no |
 | `sex_stratified_outcomes` | yes / no / unclear |
 | `female_enrollment_reported` | yes / no |
+| `subgroup_elderly` | yes / no / unclear |
+| `subgroup_pediatric` | yes / no / unclear |
+| `subgroup_racial_ethnic` | yes / no / unclear |
+| `subgroup_sex_specific` | yes / no / unclear |
+| `subgroup_renal_hepatic` | yes / no / unclear |
+| `subgroup_other` | Free text or none |
+| `patient_centered_outcomes` | Comma-separated list |
+| `surrogate_outcomes` | Comma-separated list |
+| `patient_centeredness_flag` | all_patient_centered / mixed / all_surrogate / etc. |
 
 Same batch/checkpoint pattern as Phase 2.
 
@@ -148,15 +165,15 @@ pip install pandas openpyxl requests
 python build_database.py
 ```
 
-**Drug normalization** — 10 canonical drug names mapped from brand names and synonyms (e.g. Ozempic → Semaglutide, Mounjaro → Tirzepatide).
+**Drug normalization** — 27 canonical drug names mapped from brand names and synonyms (e.g. Ozempic → Semaglutide, Mounjaro → Tirzepatide, Rybelsus → Semaglutide (oral)).
 
-**ClinicalTrials.gov linkage** — best-effort PMID lookup via CT.gov API v2. Appends: NCT ID, study status, registered phase, registered enrollment.
+**ClinicalTrials.gov linkage** — best-effort PMID lookup via CT.gov API v2 (`AREA[ReferencePMID]`). Appends: NCT ID, study status, registered phase, registered enrollment.
 
 **Outputs:**
 
 | File | Description |
 |------|-------------|
-| `glp1_database.csv` | Flat 2,341-row database, 24 columns |
+| `glp1_database.csv` | Flat 2,392-row database |
 | `glp1_database.xlsx` | Excel workbook with auto-filter + frozen headers |
 
 Excel sheets:
@@ -165,6 +182,7 @@ Excel sheets:
 |-------|----------|
 | All Trials | Full database |
 | Sex Data Available | Trials with any sex-specific data |
+| Underrepresented Populations | Trials missing ≥3 subgroup dimensions |
 | Summary | Per-indication aggregate statistics |
 | *(one per indication)* | Filtered subsets |
 
@@ -174,16 +192,21 @@ Excel sheets:
 
 ### Sex-Disaggregated Reporting Gap
 
-Of 2,341 GLP-1 RA RCTs:
-- Only **34 trials (1.5%)** reported sex-stratified outcomes
-- Only **77 trials (3.3%)** were women-only
-- **435 trials (18.6%)** reported female enrollment percentage at all
+Of 2,392 GLP-1 RA RCTs:
+- Only **100 trials (4.2%)** reported sex-stratified outcomes
+- Only **80 trials (3.3%)** were women-only
+- **862 trials (36.0%)** reported female enrollment percentage at all
 
 This gap motivates the downstream sex-stratified simulation analysis this pipeline was built to support.
 
+### Outcome Type Distribution
+
+- **1,888 trials (78.9%)** were surrogate-heavy (primary endpoints: HbA1c, body weight, biomarkers)
+- Only **179 trials (7.5%)** were patient-centered (mortality, MACE, hospitalization, QoL)
+
 ### CT.gov Coverage
 
-51% of papers (1,201/2,341) were successfully linked to ClinicalTrials.gov records. The remaining 49% could not be automatically matched, likely due to incomplete PMID registration in the CT.gov database.
+50% of papers (1,219/2,392) were successfully linked to ClinicalTrials.gov records via PMID. The remaining 50% could not be automatically matched, likely due to incomplete PMID registration in the CT.gov database.
 
 ---
 
@@ -191,19 +214,19 @@ This gap motivates the downstream sex-stratified simulation analysis this pipeli
 
 ```
 PICOextraction/
-├── pubmed_retrieval.py       # Phase 1: PubMed retrieval
-├── pico_extraction.py        # Phase 2: PICO extraction
-├── annotate.py               # Phase 3a: annotation extraction
-├── build_database.py         # Phase 3b: database builder
+├── pubmed_retrieval.py        # Phase 1: PubMed retrieval + PMC full-text
+├── pico_extraction.py         # Phase 2: PICO extraction
+├── annotate.py                # Phase 3a: annotation extraction
+├── build_database.py          # Phase 3b: database builder
 │
-├── glp1_corpus.csv           # Phase 1 output
-├── glp1_corpus.json          # Phase 1 output (JSON)
-├── pico_results.csv          # Phase 2 output
-├── annotations.csv           # Phase 3a output
-├── glp1_database.csv         # Final database (CSV)
-├── glp1_database.xlsx        # Final database (Excel)
+├── glp1_corpus.csv            # Phase 1 output
+├── glp1_corpus.json           # Phase 1 output (JSON)
+├── pico_results.csv           # Phase 2 output
+├── annotations.csv            # Phase 3a output
+├── glp1_database.csv          # Final database (CSV)
+├── glp1_database.xlsx         # Final database (Excel)
 │
-├── checkpoint.json           # Phase 2 resume checkpoint
+├── checkpoint.json            # Phase 2 resume checkpoint
 ├── annotation_checkpoint.json # Phase 3a resume checkpoint
 │
 ├── retrieval_log.txt
@@ -227,7 +250,7 @@ openpyxl
 pip install requests anthropic pandas openpyxl
 ```
 
-Python 3.10+ required. Developed and tested on Python 3.14 / Windows 11.
+Python 3.10+ required. Developed and tested on Python 3.12 / Windows 11.
 
 ---
 
@@ -238,14 +261,14 @@ Python 3.10+ required. Developed and tested on Python 3.14 / Windows 11.
 | NCBI API key | [ncbi.nlm.nih.gov/account](https://www.ncbi.nlm.nih.gov/account/) | `pubmed_retrieval.py` line 30 |
 | Anthropic API key | [console.anthropic.com](https://console.anthropic.com) → API Keys | `pico_extraction.py` line 38 and `annotate.py` line 38 |
 
-> **Cost estimate:** Approximately $5–15 USD in Anthropic API credits for the full 2,341-paper extraction (Phase 2 + Phase 3a combined).
+> **Cost estimate:** Approximately $5–15 USD in Anthropic API credits for the full 2,392-paper extraction (Phase 2 + Phase 3a combined).
 
 ---
 
 ## Limitations
 
 - Search restricted to PubMed/MEDLINE; Embase and CENTRAL not included
-- Extraction based on abstract text only; full-text data not captured
+- Full text available for 40% of papers via PMC open access; remaining 60% use abstract only
 - LLM extraction may introduce systematic errors on ambiguous abstracts
-- CT.gov linkage achieved 51% coverage; 49% unmatched
-- Indication normalization from 356 raw LLM labels involved automated string matching; multi-indication trials may be miscategorized
+- CT.gov linkage achieved 50% coverage; 50% unmatched due to incomplete PMID registration
+- Indication normalization involved automated string matching; multi-indication trials may be miscategorized

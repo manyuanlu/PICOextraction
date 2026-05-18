@@ -35,7 +35,7 @@ from pathlib import Path
 
 # ── Configuration ──────────────────────────────────────────────────────────────
 
-ANTHROPIC_API_KEY = "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" 
+ANTHROPIC_API_KEY = "" 
 
 INPUT_CSV      = "glp1_corpus.csv"       # output from Phase 1
 OUTPUT_CSV     = "pico_results.csv"      # final results
