@@ -1,0 +1,24 @@
+Drug,Indication,N Trials,Median FU (mo),% PCO,Priority Score
+Liraglutide,NASH,7,4.4,0.0,18.6
+Dulaglutide,NASH,1,5.5,0.0,15.3
+Exenatide,NASH,4,5.5,0.0,15.3
+Exenatide,Obesity,54,5.5,1.9,15.0
+Lixisenatide,T2D,80,5.5,5.0,14.5
+Tirzepatide,NASH,1,6.0,0.0,14.3
+Liraglutide,Obesity,118,6.0,1.7,14.0
+Exenatide,T2D,237,6.0,5.9,13.4
+Liraglutide,T2D,314,6.0,7.3,13.2
+Dulaglutide,Obesity,2,9.0,0.0,10.0
+Tirzepatide,T2D,42,12.0,2.4,7.5
+Semaglutide,T2D,82,12.0,8.5,7.0
+Dulaglutide,T2D,79,12.0,11.4,6.8
+Semaglutide,Obesity,85,12.5,14.1,6.4
+Albiglutide,T2D,24,12.0,20.8,6.1
+Semaglutide,Cardiovascular,35,12.0,34.3,5.1
+Tirzepatide,Obesity,50,16.6,12.0,5.0
+Semaglutide,NASH,6,16.6,16.7,4.7
+Tirzepatide,Cardiovascular,9,18.0,55.6,2.3
+Liraglutide,Cardiovascular,41,45.6,46.3,1.2
+Exenatide,Cardiovascular,21,38.4,57.1,1.1
+Dulaglutide,Cardiovascular,15,64.8,46.7,0.8
+Albiglutide,Cardiovascular,6,19.2,83.3,0.8

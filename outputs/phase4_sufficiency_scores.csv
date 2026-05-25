@@ -1,0 +1,10 @@
+Scenario,N Trials,Score,Verdict
+Semaglutide for Obesity,99,95,SUFFICIENT
+Tirzepatide for Obesity,53,95,SUFFICIENT
+Liraglutide for Obesity,124,95,SUFFICIENT
+Semaglutide for T2D,140,95,SUFFICIENT
+Liraglutide for T2D,354,95,SUFFICIENT
+Dulaglutide for T2D,99,95,SUFFICIENT
+Any GLP-1 for Cardiovascular,152,95,SUFFICIENT
+Any GLP-1 for NASH,22,70,SUFFICIENT
+Women-Specific Obesity Evidence,152,95,SUFFICIENT

@@ -1,0 +1,81 @@
+snomed_code,snomed_label,domain,patient_centered,confidence,n_trials,n_mappings,pct_of_corpus
+000000000,Not specified,Other,no,low,100,120,4.18
+000000000,Unspecified measurement,Other,no,low,65,79,2.72
+000000000,Unknown,Other,no,low,47,53,1.96
+000000000,Unknown concept,Other,no,low,37,40,1.55
+000000000,Unknown concept,Metabolic,no,low,28,37,1.17
+000000000,HOMA insulin resistance index,Metabolic,no,low,22,22,0.92
+000000000,HOMA beta cell function index,Metabolic,no,low,11,11,0.46
+000000000,GLP-1 measurement,Metabolic,no,low,10,11,0.42
+000000000,Unknown,Metabolic,no,low,10,10,0.42
+000000000,Unknown SNOMED concept,Metabolic,no,low,9,9,0.38
+000000000,Appetite assessment,Patient-Reported,yes,low,9,9,0.38
+000000000,Tolerability,Safety,yes,low,8,8,0.33
+000000000,UNMAPPED,Other,no,low,8,10,0.33
+000000000,Unknown outcome,Other,no,low,7,7,0.29
+000000000,GIP measurement,Metabolic,no,low,5,5,0.21
+000000000,Gene expression measurement,Other,no,low,5,7,0.21
+000000000,Food reward,Patient-Reported,yes,low,3,3,0.13
+000000000,Unknown concept,Cardiovascular,no,low,3,3,0.13
+000000000,Unknown,Renal,no,low,3,3,0.13
+000000000,,Other,no,low,3,3,0.13
+000000000,Peptide YY measurement,Metabolic,no,low,3,3,0.13
+000000000,MicroRNA expression,Other,no,low,2,2,0.08
+000000000,Unknown measurement,Other,no,low,2,2,0.08
+000000000,Unknown,Anthropometric,no,low,2,2,0.08
+000000000,Unknown,Other,partial,low,2,2,0.08
+000000000,Glucose-dependent insulinotropic polypeptide measurement,Metabolic,no,low,2,2,0.08
+000000000,Peptide YY measurement,Metabolic,no,medium,2,2,0.08
+000000000,C-terminal telopeptide measurement,Other,no,low,2,2,0.08
+000000000,Food tolerance,Other,no,low,1,1,0.04
+000000000,GDF15 measurement,Other,no,low,1,1,0.04
+000000000,Area under curve,Other,no,low,1,1,0.04
+000000000,Appetite regulating hormone measurement,Metabolic,no,low,1,1,0.04
+000000000,Apolipoprotein measurement,Cardiovascular,no,low,1,1,0.04
+000000000,Amylin measurement,Metabolic,no,low,1,1,0.04
+000000000,Unknown,Patient-Reported,yes,low,1,1,0.04
+000000000,Protein expression,Other,no,low,1,1,0.04
+000000000,Postprandial physiological response,Other,no,low,1,1,0.04
+000000000,Unknown target achievement,Other,no,low,1,1,0.04
+000000000,Unknown measurement,Metabolic,no,low,1,1,0.04
+000000000,Unknown endpoint,Other,no,low,1,1,0.04
+000000000,Unknown concept,Patient-Reported,yes,low,1,1,0.04
+000000000,Unknown concept,Other,partial,low,1,1,0.04
+000000000,Unknown concept,Cardiovascular,yes,low,1,1,0.04
+000000000,Unknown SNOMED concept,Other,no,low,1,1,0.04
+000000000,Unknown,Cardiovascular,no,low,1,1,0.04
+000000000,Total body water measurement,Anthropometric,no,low,1,1,0.04
+000000000,Titration period,Other,no,low,1,1,0.04
+000000000,Timed up and go test,Other,partial,low,1,1,0.04
+000000000,Time to reach maximum secretion speed,Other,no,low,1,1,0.04
+000000000,Study feasibility,Other,no,low,1,1,0.04
+000000000,Statistical equivalence measure,Other,no,low,1,1,0.04
+000000000,Receptor expression,Other,no,low,1,1,0.04
+000000000,Postprandial measurement,Metabolic,no,low,1,1,0.04
+000000000,Pharmacokinetic outcome,Other,no,low,1,1,0.04
+000000000,Not applicable,Other,no,low,1,1,0.04
+000000000,No-reflow phenomenon,Cardiovascular,yes,low,1,1,0.04
+000000000,Nicotine dependence assessment,Other,no,low,1,1,0.04
+000000000,Insulin to glucagon ratio,Metabolic,no,low,1,1,0.04
+000000000,Hormone measurement,Other,no,low,1,1,0.04
+000000000,Hepatic fat fraction,Metabolic,no,low,1,1,0.04
+000000000,Healthcare cost,Other,partial,low,1,1,0.04
+000000000,HOMA insulin sensitivity index,Metabolic,no,low,1,1,0.04
+000000000,Drug effect,Other,no,low,1,1,0.04
+000000000,Focus group findings,Patient-Reported,yes,low,1,1,0.04
+000000000,Feeding behavior,Other,no,low,1,1,0.04
+000000000,Ghrelin measurement,Metabolic,no,low,1,1,0.04
+000000000,AKT protein level,Other,no,low,1,1,0.04
+000000000,Brain activity measurement,Other,no,low,1,1,0.04
+000000000,Bile acid measurement,Metabolic,no,low,1,1,0.04
+000000000,Augmentation index,Cardiovascular,no,low,1,1,0.04
+000000000,Area under curve measurement,Other,no,low,1,1,0.04
+000000000,Fatty acid measurement,Other,no,low,1,1,0.04
+000000000,Fat intake,Metabolic,no,low,1,1,0.04
+000000000,Extracellular vesicle analysis,Other,no,low,1,1,0.04
+000000000,Food reinforcement,Patient-Reported,yes,low,1,1,0.04
+000000000,Gut microbiota composition,Other,no,low,1,1,0.04
+000000000,Gut hormone measurement,Metabolic,no,low,1,1,0.04
+000000000,Glucose release measurement,Metabolic,no,low,1,1,0.04
+000000000,Glomerular pressure measurement,Renal,no,low,1,1,0.04
+000000000,Ghrelin measurement,Metabolic,no,medium,1,1,0.04

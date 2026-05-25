@@ -1,0 +1,633 @@
+snomed_code,snomed_label,domain,patient_centered,confidence,n_trials,n_mappings,pct_of_corpus,gap_severity
+302866003,Hypoglycemia,Metabolic,yes,high,23,24,0.96,Moderate
+89362005,Weight loss,Anthropometric,yes,high,23,27,0.96,Moderate
+62014003,Adverse reaction caused by drug,Safety,yes,high,22,22,0.92,Moderate
+84114007,Heart failure,Cardiovascular,yes,high,19,27,0.79,High
+422587007,Nausea,Safety,yes,high,19,19,0.79,High
+162008003,Satiety,Patient-Reported,yes,high,17,18,0.71,High
+182840001,Drug treatment stopped,Safety,yes,high,16,16,0.67,High
+165263003,Six minute walk test,Patient-Reported,yes,high,15,15,0.63,High
+162059005,Upset stomach,Safety,yes,high,14,14,0.59,High
+182836005,Review of adverse reaction to drug,Safety,yes,medium,14,14,0.59,High
+22298006,Myocardial infarction,Cardiovascular,yes,high,13,14,0.54,High
+62014003,Adverse event,Safety,yes,high,12,12,0.5,High
+782515006,Patient reported outcome measure,Patient-Reported,yes,high,10,10,0.42,High
+311465003,Cognitive function,Patient-Reported,yes,high,10,10,0.42,High
+182804009,Composite outcome measure,Cardiovascular,partial,high,10,10,0.42,High
+33747003,"Glucose measurement, fasting",Patient-Reported,yes,medium,10,10,0.42,High
+33747003,Appetite,Patient-Reported,yes,medium,10,10,0.42,High
+162076009,Excessive upper gastrointestinal gas,Safety,yes,medium,10,10,0.42,High
+182964004,Patient satisfaction,Patient-Reported,yes,high,9,9,0.38,High
+609328004,Allergic disposition,Safety,yes,medium,9,9,0.38,High
+68130003,Physical activity,Patient-Reported,yes,high,9,9,0.38,High
+230690007,Stroke,Cardiovascular,yes,high,9,12,0.38,High
+276746005,Cardiovascular death,Cardiovascular,yes,high,9,9,0.38,High
+0,Appetite assessment,Patient-Reported,yes,low,9,9,0.38,High
+182817000,Drug-related side effect,Safety,yes,high,9,9,0.38,High
+106148006,Sensory perception,Patient-Reported,yes,medium,8,8,0.33,High
+271327008,Hypoglycemia,Safety,yes,high,8,9,0.33,High
+273302005,Quality of life score,Patient-Reported,yes,high,8,8,0.33,High
+0,Tolerability,Safety,yes,low,8,8,0.33,High
+182840001,Diabetic control,Metabolic,partial,high,8,8,0.33,High
+182954008,Patient satisfaction,Patient-Reported,yes,high,8,8,0.33,High
+363870007,Quality of life,Patient-Reported,yes,medium,7,7,0.29,High
+226479002,Eating behavior,Patient-Reported,yes,high,7,7,0.29,High
+182840001,Drug reaction,Safety,yes,high,7,7,0.29,High
+419620001,Death,Cardiovascular,yes,high,7,8,0.29,High
+62014003,Adverse drug reaction,Safety,yes,high,7,7,0.29,High
+80394007,Hyperglycemia,Metabolic,yes,high,7,7,0.29,High
+8276006,Injection site reaction,Safety,yes,high,6,6,0.25,High
+90708001,Kidney disease,Renal,yes,high,6,6,0.25,High
+439588008,Patient global impression,Patient-Reported,yes,high,6,7,0.25,High
+278061009,Remission phase,Metabolic,yes,high,6,6,0.25,High
+57054005,Myocardial infarction,Cardiovascular,yes,high,6,6,0.25,High
+272379006,Event,Safety,yes,high,6,6,0.25,High
+197321007,Steatohepatitis,Other,yes,high,6,6,0.25,High
+22253000,Pain,Patient-Reported,yes,high,6,6,0.25,High
+72366004,Eating behavior,Patient-Reported,yes,high,5,6,0.21,Critical
+72042002,Hunger,Patient-Reported,yes,high,5,5,0.21,Critical
+75694006,Pancreatitis,Safety,yes,high,5,6,0.21,Critical
+182836005,Review of drug treatment,Safety,partial,medium,5,5,0.21,Critical
+35489007,Depression,Patient-Reported,yes,high,5,7,0.21,Critical
+9659006,Food preference,Patient-Reported,yes,high,5,5,0.21,Critical
+129006008,Walking,Patient-Reported,yes,high,5,5,0.21,Critical
+49049000,Parkinson's disease,Patient-Reported,yes,high,5,5,0.21,Critical
+276746005,Cardiovascular event,Cardiovascular,yes,medium,5,5,0.21,Critical
+32398004,Hospitalization,Cardiovascular,yes,high,4,4,0.17,Critical
+421725003,Severe hypoglycemia,Safety,yes,high,4,4,0.17,Critical
+35489007,Depressive disorder,Patient-Reported,yes,high,4,4,0.17,Critical
+106126000,Mood,Patient-Reported,yes,high,4,4,0.17,Critical
+80274001,Glomerular filtration rate,Renal,partial,high,4,5,0.17,Critical
+118565006,Volume,Other,partial,medium,4,5,0.17,Critical
+397745006,Cardiovascular death,Cardiovascular,yes,high,4,4,0.17,Critical
+276654001,Liver fibrosis,Other,yes,high,4,4,0.17,Critical
+44054006,Diabetes mellitus type 2,Metabolic,yes,high,4,5,0.17,Critical
+129006008,Physical function,Patient-Reported,yes,high,4,4,0.17,Critical
+709044004,Chronic kidney disease,Renal,yes,high,4,5,0.17,Critical
+248579005,Apnea hypopnea index,Other,partial,high,4,4,0.17,Critical
+73211009,Diabetes mellitus,Metabolic,yes,high,4,4,0.17,Critical
+72670004,Hunger,Patient-Reported,yes,high,4,4,0.17,Critical
+0,Food reward,Patient-Reported,yes,low,3,3,0.13,Critical
+95695004,Retinal disorder,Other,yes,high,3,3,0.13,Critical
+90688005,Chronic kidney disease,Renal,partial,high,3,3,0.13,Critical
+90688005,Chronic kidney disease,Renal,yes,high,3,3,0.13,Critical
+248092003,Food craving,Patient-Reported,yes,high,3,4,0.13,Critical
+24184005,Severe hypoglycemia,Metabolic,yes,high,3,3,0.13,Critical
+230690007,Cerebrovascular accident,Cardiovascular,yes,high,3,3,0.13,Critical
+230690007,Stroke,Patient-Reported,yes,high,3,3,0.13,Critical
+228918008,Walking distance,Patient-Reported,yes,high,3,3,0.13,Critical
+226553002,Energy intake,Patient-Reported,yes,medium,3,3,0.13,Critical
+273542002,Sleep assessment,Patient-Reported,yes,high,3,3,0.13,Critical
+311465003,Cognitive assessment,Patient-Reported,yes,high,3,3,0.13,Critical
+62315008,Gastrointestinal disorder,Safety,yes,high,3,3,0.13,Critical
+32485007,Hospital admission,Cardiovascular,yes,high,3,3,0.13,Critical
+32485007,Hospital admission,Patient-Reported,yes,high,3,5,0.13,Critical
+225339009,Patient reported outcome,Patient-Reported,yes,high,3,3,0.13,Critical
+33747001,Appetite,Patient-Reported,yes,high,3,3,0.13,Critical
+182836005,Adverse reaction,Safety,yes,high,3,3,0.13,Critical
+609328004,Allergic disposition,Safety,yes,high,3,3,0.13,Critical
+197456007,Acute pancreatitis,Safety,yes,high,3,3,0.13,Critical
+224130005,Life expectancy,Patient-Reported,yes,high,3,3,0.13,Critical
+116223007,Complication,Safety,yes,high,3,4,0.13,Critical
+4855003,Retinopathy due to diabetes mellitus,Other,yes,high,3,3,0.13,Critical
+53619000,Disorder of digestive system,Safety,yes,high,3,3,0.13,Critical
+113014004,Cognitive assessment,Patient-Reported,yes,high,3,4,0.13,Critical
+370901008,Safety,Safety,yes,high,3,3,0.13,Critical
+386033004,Neuropathy,Other,yes,high,3,3,0.13,Critical
+386584000,Vibration sensation,Other,partial,high,3,3,0.13,Critical
+386806002,Impaired cognition,Patient-Reported,yes,high,3,3,0.13,Critical
+106148006,Taste sensation quality,Patient-Reported,partial,medium,3,3,0.13,Critical
+182836005,Review of patient safety,Safety,partial,high,3,3,0.13,Critical
+182879007,Medication adverse reaction,Safety,yes,high,3,3,0.13,Critical
+182840001,Procedure by method,Safety,partial,low,3,3,0.13,Critical
+182840001,Weight maintenance,Anthropometric,partial,high,3,3,0.13,Critical
+182840001,Glucose control,Metabolic,yes,high,3,3,0.13,Critical
+106060009,Bowel function,Patient-Reported,yes,high,3,3,0.13,Critical
+182840001,Medication adherence,Other,partial,high,3,3,0.13,Critical
+182836005,Review of medication,Safety,yes,medium,3,3,0.13,Critical
+43396009,Hemoglobin A1c measurement,Metabolic,partial,high,3,4,0.13,Critical
+44054006,Type 2 diabetes mellitus,Metabolic,yes,high,3,3,0.13,Critical
+162056007,Feeling of fullness,Patient-Reported,yes,high,3,3,0.13,Critical
+80394007,Hyperglycemia,Metabolic,partial,high,3,3,0.13,Critical
+80394007,Hyperglycemia,Patient-Reported,yes,high,3,3,0.13,Critical
+258158006,Sleep,Patient-Reported,yes,high,2,2,0.08,Critical
+236425005,End stage renal failure,Renal,yes,high,2,2,0.08,Critical
+72366004,Eating disorder,Patient-Reported,yes,medium,2,2,0.08,Critical
+72552008,Appetite,Patient-Reported,yes,high,2,2,0.08,Critical
+72670004,Appetite,Patient-Reported,partial,high,2,2,0.08,Critical
+76505004,Taste,Patient-Reported,yes,medium,2,2,0.08,Critical
+76797004,Physical performance,Patient-Reported,yes,high,2,2,0.08,Critical
+73430006,Sleep apnea,Patient-Reported,yes,high,2,2,0.08,Critical
+77386006,Pregnancy,Other,yes,high,2,2,0.08,Critical
+79143009,Appetite,Patient-Reported,yes,high,2,2,0.08,Critical
+182840001,Drug therapy,Other,partial,medium,2,2,0.08,Critical
+43396009,Haemoglobin A1c measurement,Metabolic,partial,high,2,3,0.08,Critical
+43396009,HbA1c measurement,Metabolic,partial,medium,2,2,0.08,Critical
+422400008,Vomiting,Safety,yes,high,2,2,0.08,Critical
+42658009,Peripheral neuropathy,Other,yes,high,2,2,0.08,Critical
+40733004,Infection,Safety,yes,high,2,2,0.08,Critical
+404946009,Sleep study,Patient-Reported,yes,high,2,2,0.08,Critical
+405516008,Patient satisfaction with treatment,Patient-Reported,yes,high,2,2,0.08,Critical
+182840001,Drug therapy,Other,yes,medium,2,2,0.08,Critical
+419620001,Death,Cardiovascular,partial,medium,2,2,0.08,Critical
+420816009,Functional capacity,Patient-Reported,yes,high,2,2,0.08,Critical
+182836005,Review of cardiovascular system,Safety,yes,medium,2,2,0.08,Critical
+182836005,Review of drug treatment,Safety,yes,high,2,2,0.08,Critical
+182868007,Treatment-emergent adverse event,Safety,partial,high,2,2,0.08,Critical
+182879007,Medication side effects present,Safety,yes,high,2,2,0.08,Critical
+386053000,Evaluation procedure,Patient-Reported,yes,medium,2,2,0.08,Critical
+405503005,Modified Rankin scale,Patient-Reported,yes,high,2,3,0.08,Critical
+182840001,Treatment response,Other,yes,medium,2,2,0.08,Critical
+182840006,Remission phase,Metabolic,yes,high,2,2,0.08,Critical
+394659003,Acute coronary syndrome,Cardiovascular,yes,high,2,2,0.08,Critical
+182840001,Glucose monitoring,Metabolic,partial,medium,2,2,0.08,Critical
+182868002,Long term outcome,Other,yes,high,2,2,0.08,Critical
+46177005,Kidney failure,Renal,yes,high,2,2,0.08,Critical
+365949003,Finding of well-being,Patient-Reported,yes,high,2,2,0.08,Critical
+370901008,Serious reportable event,Safety,partial,medium,2,2,0.08,Critical
+386359008,Insulin therapy,Metabolic,partial,high,2,2,0.08,Critical
+183797002,Length of stay,Other,yes,high,2,2,0.08,Critical
+108369006,Neoplasm,Safety,yes,high,2,4,0.08,Critical
+111989001,Stool frequency,Patient-Reported,yes,high,2,2,0.08,Critical
+365786009,Hormone measurement,Metabolic,partial,medium,2,2,0.08,Critical
+182836005,Review of insulin therapy,Metabolic,yes,medium,2,2,0.08,Critical
+4855003,Diabetic retinopathy,Other,yes,high,2,2,0.08,Critical
+49436004,Atrial fibrillation,Cardiovascular,yes,high,2,2,0.08,Critical
+49601007,Cardiovascular disease,Cardiovascular,yes,high,2,2,0.08,Critical
+53741008,Coronary atherosclerosis,Cardiovascular,yes,high,2,2,0.08,Critical
+33747003,Insulin measurement,Metabolic,partial,medium,2,2,0.08,Critical
+118185001,Pregnancy outcome,Other,yes,high,2,2,0.08,Critical
+33747003,Glucose measurement,Metabolic,partial,medium,2,2,0.08,Critical
+182954008,Patient satisfaction,Patient-Reported,yes,medium,2,2,0.08,Critical
+60621009,Body mass index,Anthropometric,yes,high,2,3,0.08,Critical
+57054005,Myocardial infarction,Cardiovascular,yes,medium,2,2,0.08,Critical
+57534004,Diabetic autonomic neuropathy,Cardiovascular,yes,high,2,2,0.08,Critical
+70407001,Myocardial infarction,Cardiovascular,yes,high,2,2,0.08,Critical
+226529007,Food intake,Other,partial,high,2,2,0.08,Critical
+284018005,Hand grip strength,Other,yes,high,2,2,0.08,Critical
+118247008,Physical function,Patient-Reported,yes,high,2,2,0.08,Critical
+226479002,Eating behavior,Patient-Reported,yes,medium,2,2,0.08,Critical
+226307002,Food intake,Patient-Reported,yes,high,2,2,0.08,Critical
+302866003,Hypoglycaemia,Safety,yes,high,2,2,0.08,Critical
+302866003,Hypoglycemia,Patient-Reported,yes,high,2,2,0.08,Critical
+62315008,Diarrhea,Safety,yes,high,2,2,0.08,Critical
+63846006,Albuminuria,Renal,partial,high,2,2,0.08,Critical
+6769007,Attention,Patient-Reported,yes,high,2,2,0.08,Critical
+72042002,Satiety,Patient-Reported,yes,high,2,2,0.08,Critical
+226524000,Eating behavior,Patient-Reported,yes,medium,2,2,0.08,Critical
+273529006,Dementia rating scale,Patient-Reported,yes,high,2,2,0.08,Critical
+277022003,Remission phase,Metabolic,yes,high,2,3,0.08,Critical
+162076009,Excessive appetite,Other,partial,low,2,2,0.08,Critical
+162076009,Excessive upper gastrointestinal gas,Patient-Reported,yes,medium,2,2,0.08,Critical
+273302005,Disability assessment,Patient-Reported,yes,medium,2,2,0.08,Critical
+0,Unknown,Other,partial,low,2,2,0.08,Critical
+714628002,Prediabetes,Metabolic,yes,high,2,2,0.08,Critical
+27113001,Body weight,Anthropometric,partial,high,2,2,0.08,Critical
+162076009,Digestive symptom,Patient-Reported,yes,medium,2,2,0.08,Critical
+226553002,Food preference,Patient-Reported,yes,medium,2,2,0.08,Critical
+271782001,Drowsiness,Patient-Reported,yes,high,2,2,0.08,Critical
+271327008,Hypoglycemia,Safety,yes,medium,2,2,0.08,Critical
+272379006,Event,Other,partial,low,2,2,0.08,Critical
+273249006,Assessment scales,Patient-Reported,yes,medium,2,2,0.08,Critical
+271062006,Hypoglycemia,Metabolic,yes,high,2,2,0.08,Critical
+228918008,Walking distance,Patient-Reported,yes,medium,2,2,0.08,Critical
+247372009,Thirst,Patient-Reported,yes,high,2,2,0.08,Critical
+14304000,Thyroid disorder,Safety,yes,high,2,2,0.08,Critical
+14669001,Acute kidney injury,Renal,yes,high,2,2,0.08,Critical
+90688005,Chronic renal failure,Renal,yes,high,2,2,0.08,Critical
+89362005,Weight loss,Anthropometric,yes,medium,2,2,0.08,Critical
+9014002,Psoriasis,Other,yes,high,2,2,0.08,Critical
+90708001,Kidney disease,Renal,partial,medium,2,2,0.08,Critical
+251913005,Exercise tolerance,Other,partial,medium,2,2,0.08,Critical
+160573003,Alcohol consumption,Other,yes,high,2,2,0.08,Critical
+127013003,Diabetic nephropathy,Renal,yes,high,2,3,0.08,Critical
+90688005,Kidney disease,Renal,partial,high,1,1,0.04,Critical
+162059005,Upset stomach,Patient-Reported,yes,medium,1,1,0.04,Critical
+162059005,Gastrointestinal symptom,Safety,yes,high,1,2,0.04,Critical
+162059005,Gastrointestinal symptom,Patient-Reported,yes,high,1,1,0.04,Critical
+162031009,Epigastric pain,Patient-Reported,yes,medium,1,1,0.04,Critical
+160685001,Sedentary lifestyle,Other,partial,high,1,1,0.04,Critical
+160617001,Smoking cessation,Patient-Reported,yes,high,1,1,0.04,Critical
+160592001,Alcohol consumption,Patient-Reported,yes,high,1,1,0.04,Critical
+160573003,Alcohol intake,Patient-Reported,yes,medium,1,1,0.04,Critical
+160573003,Alcohol intake,Patient-Reported,yes,high,1,1,0.04,Critical
+248254009,Sleep efficiency,Patient-Reported,yes,high,1,1,0.04,Critical
+90688005,Chronic kidney disease,Renal,yes,medium,1,1,0.04,Critical
+250043002,Left ventricular systolic dysfunction,Cardiovascular,yes,high,1,1,0.04,Critical
+249566008,Straining,Patient-Reported,yes,medium,1,1,0.04,Critical
+160573003,Alcohol intake,Other,yes,medium,1,1,0.04,Critical
+248957007,Menstrual frequency,Other,yes,medium,1,1,0.04,Critical
+248957007,Menstrual frequency,Other,partial,high,1,1,0.04,Critical
+250537006,Laboratory finding,Patient-Reported,yes,low,1,2,0.04,Critical
+251146004,Cardiac function,Cardiovascular,partial,medium,1,1,0.04,Critical
+25064002,Headache,Safety,yes,high,1,1,0.04,Critical
+25064002,Headache,Patient-Reported,yes,high,1,1,0.04,Critical
+248220008,Sleep quality,Patient-Reported,yes,high,1,1,0.04,Critical
+247787006,Appetite,Patient-Reported,yes,medium,1,1,0.04,Critical
+247592009,Short term memory,Patient-Reported,yes,high,1,1,0.04,Critical
+247398009,Neuropathic pain,Patient-Reported,yes,high,1,1,0.04,Critical
+250834002,Exercise tolerance,Other,yes,high,1,1,0.04,Critical
+252524003,Gastrointestinal transit time,Other,partial,high,1,1,0.04,Critical
+251913007,Exercise capacity,Patient-Reported,yes,high,1,1,0.04,Critical
+250834004,Maximum oxygen uptake,Other,partial,high,1,1,0.04,Critical
+248254009,Sleep disorder,Patient-Reported,yes,high,1,1,0.04,Critical
+160573003,Alcohol consumption,Patient-Reported,yes,high,1,1,0.04,Critical
+160573003,Alcohol consumption,Other,partial,high,1,1,0.04,Critical
+15776009,Pancreatic disorder,Safety,yes,medium,1,1,0.04,Critical
+15776009,Pancreatic disorder,Other,yes,medium,1,1,0.04,Critical
+263844007,Survival rate,Patient-Reported,yes,high,1,1,0.04,Critical
+263756000,Fibrosis,Other,yes,high,1,1,0.04,Critical
+263707001,Vascular complication,Cardiovascular,yes,high,1,1,0.04,Critical
+263493007,Clinical status,Patient-Reported,yes,medium,1,3,0.04,Critical
+236423003,Renal failure,Renal,yes,high,1,2,0.04,Critical
+235919008,Cholelithiasis,Safety,yes,high,1,1,0.04,Critical
+248300009,Body composition measure,Anthropometric,partial,medium,1,1,0.04,Critical
+248279007,Frailty,Patient-Reported,yes,high,1,1,0.04,Critical
+248254009,Sleep efficiency,Patient-Reported,yes,medium,1,1,0.04,Critical
+23426006,Rating of perceived exertion,Patient-Reported,yes,high,1,1,0.04,Critical
+267384006,Hypoglycemic episode,Safety,yes,high,1,1,0.04,Critical
+267036007,Dyspnea,Safety,yes,low,1,1,0.04,Critical
+266919005,Never smoked tobacco,Patient-Reported,yes,medium,1,1,0.04,Critical
+265764009,Renal replacement therapy,Renal,yes,high,1,1,0.04,Critical
+271061004,Blood glucose decreased,Metabolic,yes,high,1,1,0.04,Critical
+24484000,Severe nausea,Safety,yes,high,1,1,0.04,Critical
+23695003,Appetite,Patient-Reported,yes,high,1,1,0.04,Critical
+236535009,Microangiopathy,Cardiovascular,yes,high,1,1,0.04,Critical
+233914008,Myocardial stunning,Cardiovascular,yes,high,1,1,0.04,Critical
+230686003,Toxic nephropathy,Safety,yes,medium,1,1,0.04,Critical
+246453008,Disease progression,Patient-Reported,yes,high,1,2,0.04,Critical
+14140009,Hyperkalemia,Safety,yes,high,1,1,0.04,Critical
+1386000,Intracranial hemorrhage,Safety,yes,high,1,1,0.04,Critical
+13645005,Chronic obstructive lung disease,Patient-Reported,yes,high,1,1,0.04,Critical
+134401001,Left ventricular dysfunction,Cardiovascular,yes,high,1,1,0.04,Critical
+134401001,Left ventricular dysfunction,Cardiovascular,partial,high,1,1,0.04,Critical
+23426006,Exercise tolerance test,Patient-Reported,yes,high,1,1,0.04,Critical
+235856003,Disease of biliary tract,Safety,yes,high,1,1,0.04,Critical
+235675008,Gastroparesis,Safety,yes,high,1,1,0.04,Critical
+235596003,Disorder of esophageal motility,Other,yes,medium,1,1,0.04,Critical
+23475006,Exercise capacity,Cardiovascular,yes,high,1,1,0.04,Critical
+27113001,Body weight,Cardiovascular,partial,high,1,1,0.04,Critical
+27113001,Body weight,Anthropometric,partial,medium,1,1,0.04,Critical
+272379006,Serious adverse event,Safety,yes,high,1,1,0.04,Critical
+272124002,Taste sensation,Patient-Reported,yes,medium,1,1,0.04,Critical
+271681002,Stomach ache,Patient-Reported,yes,medium,1,1,0.04,Critical
+271672002,Semen analysis,Other,yes,high,1,1,0.04,Critical
+228158008,Functional assessment,Patient-Reported,yes,medium,1,1,0.04,Critical
+273302005,Neurological assessment,Patient-Reported,yes,medium,1,1,0.04,Critical
+273302005,Disability rating scale,Patient-Reported,yes,medium,1,1,0.04,Critical
+273302005,Disability rating scale,Patient-Reported,yes,high,1,1,0.04,Critical
+273302005,Disability assessment,Patient-Reported,yes,high,1,1,0.04,Critical
+273302005,Clinical dementia rating scale,Patient-Reported,yes,high,1,1,0.04,Critical
+273302005,Assessment scale,Patient-Reported,yes,medium,1,1,0.04,Critical
+273249006,Assessment of satisfaction,Patient-Reported,yes,medium,1,1,0.04,Critical
+273249006,Assessment of disability,Patient-Reported,yes,medium,1,1,0.04,Critical
+273249006,Assessment of disability,Patient-Reported,yes,high,1,1,0.04,Critical
+273275007,Depression rating scale,Patient-Reported,yes,high,1,1,0.04,Critical
+273424008,Neuropsychological test,Patient-Reported,yes,high,1,1,0.04,Critical
+273421001,Activities of daily living,Patient-Reported,yes,high,1,1,0.04,Critical
+273339008,Cognitive assessment,Patient-Reported,yes,high,1,1,0.04,Critical
+273302005,Physical functional capacity,Patient-Reported,yes,high,1,1,0.04,Critical
+273302005,Patient global assessment,Patient-Reported,yes,high,1,1,0.04,Critical
+230589001,Wound infection,Safety,yes,high,1,1,0.04,Critical
+230572002,Diabetic neuropathy,Patient-Reported,yes,high,1,1,0.04,Critical
+230572002,Diabetic foot ulcer,Other,yes,high,1,1,0.04,Critical
+126851005,Neoplasm of pancreas,Safety,yes,high,1,1,0.04,Critical
+126067009,Neoplasm of thyroid gland,Safety,yes,high,1,1,0.04,Critical
+125605004,Fracture of bone,Safety,yes,high,1,2,0.04,Critical
+125605004,Fracture,Safety,yes,high,1,1,0.04,Critical
+2776000,Delirium,Safety,yes,high,1,1,0.04,Critical
+276361009,Waist circumference,Anthropometric,partial,high,1,1,0.04,Critical
+275498002,Respiratory tract infection,Safety,yes,high,1,1,0.04,Critical
+274667000,Injection site pain,Safety,yes,high,1,1,0.04,Critical
+273799006,Questionnaire response,Patient-Reported,yes,medium,1,1,0.04,Critical
+273724008,Patient satisfaction,Patient-Reported,yes,high,1,1,0.04,Critical
+273546003,Global assessment of disease severity,Patient-Reported,yes,high,1,1,0.04,Critical
+273302005,Assessment scale,Patient-Reported,yes,high,1,1,0.04,Critical
+226479007,Fluid intake,Other,partial,medium,1,1,0.04,Critical
+281647001,Serious adverse event,Safety,yes,high,1,1,0.04,Critical
+160573003,Alcohol intake,Other,partial,high,1,2,0.04,Critical
+162408000,Symptom,Patient-Reported,yes,medium,1,1,0.04,Critical
+162408000,General symptom,Safety,yes,medium,1,1,0.04,Critical
+162246009,Appetite,Patient-Reported,yes,medium,1,1,0.04,Critical
+162239005,Satiety,Patient-Reported,yes,high,1,1,0.04,Critical
+162123002,Satiety,Patient-Reported,yes,high,1,1,0.04,Critical
+162116003,Gastric retention,Safety,yes,medium,1,1,0.04,Critical
+162076009,Excessive weight loss,Safety,yes,medium,1,1,0.04,Critical
+162076009,Excessive upper gastrointestinal gas,Patient-Reported,yes,high,1,1,0.04,Critical
+277022003,Remission phase,Metabolic,yes,medium,1,1,0.04,Critical
+277022003,Remission,Other,yes,high,1,1,0.04,Critical
+281184008,Executive function,Patient-Reported,yes,high,1,1,0.04,Critical
+278316002,Neurological recovery,Patient-Reported,yes,high,1,1,0.04,Critical
+298005009,Wound healing,Other,yes,high,1,1,0.04,Critical
+286641001,Mood symptom,Patient-Reported,yes,medium,1,1,0.04,Critical
+285854004,Emotion,Patient-Reported,yes,high,1,1,0.04,Critical
+284545001,Ability to perform activities of daily living,Patient-Reported,yes,high,1,1,0.04,Critical
+300049000,Gastrointestinal adverse effect,Safety,yes,high,1,1,0.04,Critical
+118692001,Physical functional capacity,Patient-Reported,yes,high,1,1,0.04,Critical
+226529007,Food intake,Patient-Reported,yes,medium,1,1,0.04,Critical
+226529007,Food intake,Patient-Reported,yes,high,1,1,0.04,Critical
+302866003,Hypoglycemic symptom,Safety,yes,medium,1,1,0.04,Critical
+302866003,Hypoglycemia,Safety,yes,medium,1,1,0.04,Critical
+32485007,Hospital admission,Other,yes,medium,1,1,0.04,Critical
+32398004,Metabolic function,Metabolic,partial,low,1,1,0.04,Critical
+308335008,Patient encounter procedure,Other,partial,medium,1,1,0.04,Critical
+304088006,Hunger,Patient-Reported,yes,medium,1,1,0.04,Critical
+312975006,Microalbuminuria,Renal,partial,high,1,1,0.04,Critical
+312975006,Macroalbuminuria,Renal,yes,high,1,1,0.04,Critical
+312909004,Hypoglycemic unawareness,Safety,yes,high,1,1,0.04,Critical
+311465003,Perception,Patient-Reported,yes,medium,1,1,0.04,Critical
+32485007,Hospital admission,Patient-Reported,yes,medium,1,1,0.04,Critical
+226061009,Food preference,Patient-Reported,yes,medium,1,1,0.04,Critical
+226029000,Exercise tolerance,Patient-Reported,yes,high,1,1,0.04,Critical
+225624000,Fear,Patient-Reported,yes,medium,1,1,0.04,Critical
+225397003,Patient preference,Patient-Reported,yes,high,1,1,0.04,Critical
+225339009,Patient reported outcome,Patient-Reported,yes,medium,1,1,0.04,Critical
+225338004,Risk assessment,Other,partial,medium,1,1,0.04,Critical
+34008004,Ovulation,Other,yes,high,1,1,0.04,Critical
+34000006,Crohn's disease,Patient-Reported,yes,high,1,1,0.04,Critical
+33911006,Appetite,Patient-Reported,yes,high,1,1,0.04,Critical
+33747008,Appetite,Patient-Reported,yes,medium,1,1,0.04,Critical
+118215003,Pregnancy rate,Other,yes,high,1,1,0.04,Critical
+118185001,Finding relating to pregnancy,Other,yes,high,1,1,0.04,Critical
+32230006,Malabsorption,Other,yes,high,1,1,0.04,Critical
+225314003,Risk reduction,Cardiovascular,yes,high,1,1,0.04,Critical
+225060002,Psychological assessment,Patient-Reported,yes,medium,1,1,0.04,Critical
+224892003,Physical activity satisfaction,Patient-Reported,yes,medium,1,1,0.04,Critical
+22253000,Pain,Safety,yes,high,1,4,0.04,Critical
+22253000,Pain,Patient-Reported,yes,medium,1,1,0.04,Critical
+20376005,Benign neoplasm,Safety,yes,high,1,1,0.04,Critical
+2030006,Cerebral edema,Other,yes,high,1,1,0.04,Critical
+33747003,"Glucose measurement, fasting",Metabolic,yes,medium,1,1,0.04,Critical
+33747003,"Glucose measurement, fasting",Metabolic,partial,high,1,1,0.04,Critical
+364075005,Vital signs,Other,partial,medium,1,1,0.04,Critical
+33747005,Appetite,Patient-Reported,yes,high,1,1,0.04,Critical
+111989001,Bowel movement,Safety,yes,high,1,1,0.04,Critical
+111989001,Bowel function,Other,yes,medium,1,1,0.04,Critical
+11665008,Craving,Patient-Reported,yes,high,1,1,0.04,Critical
+116002009,Postoperative nausea and vomiting,Safety,yes,high,1,1,0.04,Critical
+363478007,Malignant neoplasm of thyroid gland,Safety,yes,high,1,1,0.04,Critical
+363346000,Malignant neoplastic disease,Safety,yes,high,1,1,0.04,Critical
+363346000,Malignant neoplastic disease,Other,yes,high,1,1,0.04,Critical
+363346000,Malignant neoplasm,Safety,yes,medium,1,1,0.04,Critical
+363269002,Withdrawal syndrome,Patient-Reported,yes,high,1,1,0.04,Critical
+364644000,Functional status,Patient-Reported,yes,high,1,1,0.04,Critical
+365771007,Pancreatic enzyme measurement,Safety,yes,high,1,1,0.04,Critical
+363908000,Craving,Patient-Reported,yes,high,1,1,0.04,Critical
+363892008,Taste sensation,Patient-Reported,yes,medium,1,1,0.04,Critical
+365545006,Craving,Patient-Reported,yes,high,1,1,0.04,Critical
+365512000,Activities of daily living,Patient-Reported,yes,high,1,1,0.04,Critical
+364667003,Physical ability,Patient-Reported,yes,high,1,1,0.04,Critical
+364667003,Ability to perform general activities,Patient-Reported,yes,high,1,1,0.04,Critical
+364644000,Task performance,Other,partial,medium,1,1,0.04,Critical
+197321007,Steatohepatitis,Other,yes,medium,1,1,0.04,Critical
+197279005,Hepatic fibrosis,Other,yes,high,1,1,0.04,Critical
+197270009,Non-alcoholic steatohepatitis,Other,yes,medium,1,1,0.04,Critical
+19687001,Extrapyramidal symptom,Safety,yes,high,1,1,0.04,Critical
+194828000,Angina,Patient-Reported,yes,high,1,1,0.04,Critical
+190745003,Malabsorption,Safety,yes,high,1,1,0.04,Critical
+190331003,Diabetic ketoacidosis,Safety,yes,high,1,1,0.04,Critical
+185350003,Medical consultation,Other,yes,high,1,1,0.04,Critical
+225336008,Symptom assessment,Patient-Reported,yes,medium,1,1,0.04,Critical
+182964004,Health status,Other,partial,medium,1,1,0.04,Critical
+113014004,Cognitive assessment,Patient-Reported,yes,medium,1,1,0.04,Critical
+111989001,Stool consistency,Patient-Reported,yes,high,1,1,0.04,Critical
+197321007,Steatosis of liver,Other,partial,high,1,1,0.04,Critical
+16404004,Gastric emptying,Other,partial,high,1,1,0.04,Critical
+182856006,Drug costs,Other,yes,high,1,1,0.04,Critical
+111989001,Defecation,Other,partial,high,1,1,0.04,Critical
+365845004,Area under curve,Patient-Reported,yes,high,1,1,0.04,Critical
+373930000,Neurological improvement,Other,yes,high,1,1,0.04,Critical
+370901008,Serious reportable event,Safety,partial,low,1,1,0.04,Critical
+368581000119106,Neuropathy due to diabetes mellitus,Other,yes,high,1,1,0.04,Critical
+111989001,Stool consistency,Other,partial,medium,1,1,0.04,Critical
+182954008,Treatment satisfaction,Patient-Reported,yes,high,1,1,0.04,Critical
+162076009,Defecation frequency,Patient-Reported,yes,high,1,1,0.04,Critical
+385644000,Requested,Patient-Reported,yes,medium,1,1,0.04,Critical
+38341003,Hypertensive disorder,Cardiovascular,yes,high,1,1,0.04,Critical
+366085009,Exercise,Patient-Reported,yes,high,1,1,0.04,Critical
+365952006,Sexual function,Patient-Reported,yes,high,1,1,0.04,Critical
+365854008,Assessment scale,Patient-Reported,yes,medium,1,4,0.04,Critical
+365853002,Metabolic measurement,Metabolic,partial,medium,1,1,0.04,Critical
+38018009,Atherosclerotic cardiovascular disease,Cardiovascular,yes,high,1,1,0.04,Critical
+38716007,Atherosclerotic disease,Cardiovascular,yes,high,1,1,0.04,Critical
+386807006,Behavioral assessment,Patient-Reported,yes,medium,1,1,0.04,Critical
+386806002,Cognitive function,Patient-Reported,yes,high,1,1,0.04,Critical
+386692008,Menstrual bleeding,Patient-Reported,yes,medium,1,1,0.04,Critical
+386482000,Food preference,Patient-Reported,yes,high,1,1,0.04,Critical
+386134007,Gastrointestinal tract function,Other,partial,medium,1,1,0.04,Critical
+371142006,Apnea-hypopnea index,Other,yes,high,1,1,0.04,Critical
+370992007,Dyslipidemia,Cardiovascular,yes,high,1,1,0.04,Critical
+370903001,Adverse event,Safety,yes,high,1,1,0.04,Critical
+370901008,Serious reportable event,Safety,yes,high,1,1,0.04,Critical
+385676005,Patient satisfaction,Patient-Reported,yes,high,1,1,0.04,Critical
+385669000,Successful,Other,partial,medium,1,1,0.04,Critical
+182849000,Patient compliance,Safety,yes,high,1,1,0.04,Critical
+183797002,Length of stay in hospital,Other,yes,medium,1,1,0.04,Critical
+183797002,Length of stay in hospital,Other,yes,high,1,1,0.04,Critical
+183240000,Self-care of diabetes,Patient-Reported,yes,medium,1,1,0.04,Critical
+182985004,Patient reported outcome,Patient-Reported,yes,high,1,1,0.04,Critical
+182964004,Treatment satisfaction,Patient-Reported,yes,medium,1,1,0.04,Critical
+182964004,Treatment satisfaction,Patient-Reported,yes,high,1,1,0.04,Critical
+182964004,Treatment efficacy,Other,yes,medium,1,1,0.04,Critical
+182964004,Patient treatment compliance,Patient-Reported,yes,medium,1,1,0.04,Critical
+182964004,Healthcare resource utilization,Other,partial,medium,1,1,0.04,Critical
+182964004,Health status,Patient-Reported,yes,medium,1,1,0.04,Critical
+38102005,Cholecystectomy,Safety,yes,high,1,1,0.04,Critical
+390157004,6 minute walk test distance,Patient-Reported,yes,high,1,1,0.04,Critical
+387713003,Surgical procedure,Other,yes,high,1,1,0.04,Critical
+106148006,Sensory perception,Other,partial,medium,1,1,0.04,Critical
+106136008,Memory function,Patient-Reported,yes,high,1,1,0.04,Critical
+106131003,Mood,Patient-Reported,yes,medium,1,1,0.04,Critical
+106126000,Emotional state,Patient-Reported,yes,high,1,1,0.04,Critical
+386053000,Evaluation procedure,Safety,yes,medium,1,2,0.04,Critical
+182856006,Drug compliance,Patient-Reported,yes,medium,1,1,0.04,Critical
+182856000,Withdrawal of feeding,Other,yes,medium,1,1,0.04,Critical
+182840001,Smoking cessation,Other,yes,high,1,1,0.04,Critical
+182840001,Remission of diabetes mellitus,Metabolic,yes,high,1,1,0.04,Critical
+182890002,Patient refusal of treatment,Patient-Reported,yes,medium,1,1,0.04,Critical
+182856008,Pain relief,Patient-Reported,yes,high,1,1,0.04,Critical
+182856006,Relief of pain,Patient-Reported,yes,high,1,1,0.04,Critical
+182856006,Drug treatment preferences,Patient-Reported,yes,high,1,1,0.04,Critical
+394656005,Acute coronary syndrome,Cardiovascular,yes,high,1,1,0.04,Critical
+405171008,Neurological assessment,Other,yes,high,1,1,0.04,Critical
+396441000,Sperm count,Other,partial,high,1,2,0.04,Critical
+182842009,Glucose variability,Metabolic,partial,medium,1,1,0.04,Critical
+182840001,Use of insulin,Other,yes,high,1,1,0.04,Critical
+182840001,Treatment discontinuation,Safety,yes,high,1,1,0.04,Critical
+182840001,Treatment discontinuation,Safety,partial,high,1,1,0.04,Critical
+182840001,Drug therapy discontinued,Other,yes,medium,1,1,0.04,Critical
+397803000,Erectile dysfunction,Patient-Reported,yes,high,1,1,0.04,Critical
+397693008,Erectile function,Patient-Reported,yes,high,1,1,0.04,Critical
+405143004,Assessment using modified Rankin scale,Patient-Reported,yes,high,1,1,0.04,Critical
+405094008,Craving for tobacco,Patient-Reported,yes,high,1,1,0.04,Critical
+405053002,Functional assessment,Patient-Reported,yes,high,1,1,0.04,Critical
+405052009,Patient satisfaction,Patient-Reported,yes,high,1,1,0.04,Critical
+399915001,Taste sensation,Other,partial,medium,1,1,0.04,Critical
+399013008,Hirsutism,Other,yes,high,1,1,0.04,Critical
+182840001,Drug withdrawal,Safety,yes,medium,1,1,0.04,Critical
+182840001,Drug treatment stopped,Safety,yes,medium,1,1,0.04,Critical
+40617009,Mechanical ventilation,Safety,yes,high,1,1,0.04,Critical
+40617009,Artificial respiration,Other,yes,medium,1,1,0.04,Critical
+405613005,Neurological finding,Patient-Reported,yes,medium,1,1,0.04,Critical
+405508009,Patient satisfaction with treatment,Patient-Reported,yes,high,1,1,0.04,Critical
+405508009,Patient satisfaction,Patient-Reported,yes,high,1,1,0.04,Critical
+405508009,Patient experience,Patient-Reported,yes,high,1,1,0.04,Critical
+405503005,Rankin scale,Patient-Reported,yes,high,1,1,0.04,Critical
+418004005,Postprandial glucose,Metabolic,partial,high,1,1,0.04,Critical
+417005,Hospital re-admission,Patient-Reported,yes,high,1,1,0.04,Critical
+414916001,Obesity,Anthropometric,partial,high,1,1,0.04,Critical
+414585002,Work performance,Patient-Reported,yes,medium,1,2,0.04,Critical
+419199007,Allergy to substance,Safety,yes,high,1,1,0.04,Critical
+418799008,Symptom,Safety,yes,medium,1,1,0.04,Critical
+418714002,Medication adherence,Other,partial,high,1,1,0.04,Critical
+418714002,Adherence to treatment,Other,partial,high,1,1,0.04,Critical
+418633004,Medication adherence,Other,yes,high,1,1,0.04,Critical
+418285008,Revascularization,Cardiovascular,yes,high,1,1,0.04,Critical
+182840001,Drug therapy discontinued,Other,partial,low,1,1,0.04,Critical
+182840001,Drug therapy discontinued,Other,partial,high,1,1,0.04,Critical
+182840001,Drug therapy discontinued,Metabolic,yes,medium,1,1,0.04,Critical
+182840001,Drug therapy cost,Other,partial,medium,1,1,0.04,Critical
+182840001,Drug therapy,Safety,partial,medium,1,1,0.04,Critical
+182840001,Procedure by method,Other,yes,low,1,1,0.04,Critical
+182840001,Procedure by method,Metabolic,partial,medium,1,1,0.04,Critical
+182840001,Intervention feasibility,Safety,yes,medium,1,1,0.04,Critical
+106019003,Neurological examination,Patient-Reported,yes,medium,1,1,0.04,Critical
+105579009,Conduction disorder of the heart,Cardiovascular,yes,high,1,1,0.04,Critical
+422504002,Ischemic stroke,Cardiovascular,yes,high,1,1,0.04,Critical
+421890007,Glucagon-like peptide 1,Metabolic,partial,high,1,1,0.04,Critical
+420422005,Diabetic foot ulcer,Safety,yes,high,1,1,0.04,Critical
+420270002,Severe hypoglycaemia,Safety,yes,high,1,1,0.04,Critical
+419620001,Death,Safety,yes,high,1,1,0.04,Critical
+432102000,Administration of insulin,Metabolic,partial,high,1,1,0.04,Critical
+431857002,Chronic kidney disease,Renal,partial,medium,1,1,0.04,Critical
+429040005,Ulcer,Safety,yes,high,1,1,0.04,Critical
+429040005,Ulcer,Patient-Reported,yes,high,1,1,0.04,Critical
+427058005,Six-minute walk test,Patient-Reported,yes,high,1,1,0.04,Critical
+182840001,Drug compliance,Metabolic,yes,medium,1,1,0.04,Critical
+182840001,Drug adherence,Patient-Reported,yes,medium,1,1,0.04,Critical
+182840001,Drug adherence,Patient-Reported,yes,high,1,1,0.04,Critical
+182840001,Diabetic monitoring,Metabolic,partial,medium,1,1,0.04,Critical
+182840001,Drug therapy finding,Safety,yes,medium,1,1,0.04,Critical
+432102000,Administration of substance abuse screening questionnaire,Patient-Reported,yes,medium,1,1,0.04,Critical
+103740009,Executive function,Patient-Reported,yes,high,1,1,0.04,Critical
+182840001,Drug therapy,Patient-Reported,yes,medium,1,1,0.04,Critical
+43396009,HbA1c measurement,Metabolic,yes,high,1,1,0.04,Critical
+43396009,Haemoglobin A1c measurement,Metabolic,partial,medium,1,1,0.04,Critical
+43396009,Haemoglobin A1c level,Metabolic,partial,high,1,1,0.04,Critical
+43339004,Hypokalemia,Safety,yes,high,1,1,0.04,Critical
+4341006,Liver fibrosis,Other,partial,high,1,1,0.04,Critical
+43396009,Hemoglobin A1c measurement,Metabolic,partial,medium,1,1,0.04,Critical
+182840001,Change of medication,Other,partial,medium,1,1,0.04,Critical
+44469004,Suicidal ideation,Safety,yes,high,1,2,0.04,Critical
+182836005,Review of treatment,Other,yes,medium,1,2,0.04,Critical
+182836005,Review of patient safety,Safety,yes,medium,1,1,0.04,Critical
+45007003,Low blood pressure,Cardiovascular,yes,medium,1,1,0.04,Critical
+45007003,Hypotension,Cardiovascular,yes,high,1,1,0.04,Critical
+44873008,Renal function finding,Renal,partial,medium,1,1,0.04,Critical
+444367000,Neurological assessment,Patient-Reported,yes,medium,1,1,0.04,Critical
+443961001,Medullary carcinoma of thyroid gland,Safety,yes,high,1,1,0.04,Critical
+4525004,Emergency department patient visit,Patient-Reported,yes,high,1,1,0.04,Critical
+45007003,Low blood pressure,Safety,yes,high,1,1,0.04,Critical
+48263008,Eating,Patient-Reported,yes,medium,1,1,0.04,Critical
+48263008,Eating,Other,partial,medium,1,1,0.04,Critical
+48030007,Patient satisfaction,Patient-Reported,yes,high,1,1,0.04,Critical
+182836005,Treatment withdrawal,Safety,yes,high,1,1,0.04,Critical
+182836005,Treatment outcome,Other,partial,medium,1,1,0.04,Critical
+182836005,Treatment choice,Patient-Reported,yes,medium,1,1,0.04,Critical
+182836005,Safety assessment,Safety,yes,high,1,1,0.04,Critical
+47268002,Gastroesophageal reflux disease,Safety,yes,high,1,1,0.04,Critical
+49601007,Disorder of cardiovascular system,Cardiovascular,yes,high,1,1,0.04,Critical
+48761009,Physical activity,Patient-Reported,yes,high,1,1,0.04,Critical
+58214004,Schizophrenia,Patient-Reported,yes,high,1,1,0.04,Critical
+52767006,Reactive hypoglycemia,Safety,yes,high,1,1,0.04,Critical
+56905009,Myocardial infarction size,Cardiovascular,yes,high,1,1,0.04,Critical
+182836005,Patient preference,Patient-Reported,yes,high,1,1,0.04,Critical
+182836005,Pain relief,Patient-Reported,yes,high,1,1,0.04,Critical
+182836005,Drug therapy,Cardiovascular,partial,medium,1,1,0.04,Critical
+182836005,Drug safety,Safety,yes,high,1,1,0.04,Critical
+182836005,Review of medication,Patient-Reported,yes,medium,1,1,0.04,Critical
+182836005,Review of medication,Other,partial,medium,1,1,0.04,Critical
+55454007,Insulinoma,Other,yes,high,1,1,0.04,Critical
+60621009,Body mass index,Anthropometric,partial,medium,1,1,0.04,Critical
+182836005,Review of adverse reaction to drug,Safety,yes,high,1,1,0.04,Critical
+62479008,Adverse event,Safety,yes,medium,1,1,0.04,Critical
+62479008,Adverse event,Safety,yes,high,1,1,0.04,Critical
+0,Unknown,Patient-Reported,yes,low,1,1,0.04,Critical
+102949005,Pain measurement,Patient-Reported,yes,high,1,1,0.04,Critical
+62014003,Gastrointestinal disorder,Safety,yes,high,1,1,0.04,Critical
+62014003,Adverse reaction,Safety,yes,high,1,1,0.04,Critical
+62014003,Adverse event,Safety,yes,medium,1,1,0.04,Critical
+182836005,Compliance with treatment,Patient-Reported,yes,medium,1,1,0.04,Critical
+182836005,Clinical improvement,Other,yes,medium,1,1,0.04,Critical
+62315008,Dumping syndrome,Patient-Reported,yes,high,1,1,0.04,Critical
+62315008,Diarrhea,Safety,yes,medium,1,1,0.04,Critical
+64572001,Disease,Renal,yes,medium,1,1,0.04,Critical
+62914000,Sleep disorder,Patient-Reported,yes,high,1,2,0.04,Critical
+62484002,Liver fibrosis,Other,partial,high,1,1,0.04,Critical
+0,Unknown concept,Patient-Reported,yes,low,1,1,0.04,Critical
+0,Unknown concept,Other,partial,low,1,1,0.04,Critical
+0,Unknown concept,Cardiovascular,yes,low,1,1,0.04,Critical
+182836005,Cost effectiveness study,Other,partial,medium,1,1,0.04,Critical
+62479008,Diarrhea,Safety,yes,medium,1,1,0.04,Critical
+69079006,Postgastrectomy dumping syndrome,Patient-Reported,yes,high,1,1,0.04,Critical
+68130003,Physical activity,Other,yes,high,1,1,0.04,Critical
+68130003,Physical activity,Other,partial,high,1,1,0.04,Critical
+698247007,Cardiac arrhythmia,Cardiovascular,yes,high,1,1,0.04,Critical
+182816003,Treatment acceptability,Patient-Reported,yes,medium,1,1,0.04,Critical
+70670008,Physical function,Patient-Reported,yes,high,1,1,0.04,Critical
+71181003,Tolerance,Patient-Reported,yes,medium,1,1,0.04,Critical
+72366004,Eating behavior,Patient-Reported,yes,medium,1,1,0.04,Critical
+0,Timed up and go test,Other,partial,low,1,1,0.04,Critical
+72133002,Cognitive function,Patient-Reported,yes,medium,1,1,0.04,Critical
+72133002,Cognitive function,Patient-Reported,yes,high,1,1,0.04,Critical
+72133002,Cognitive assessment,Patient-Reported,yes,high,1,1,0.04,Critical
+720433000,Patient Health Questionnaire-9 score,Patient-Reported,yes,high,1,1,0.04,Critical
+72042002,Incontinence of feces,Safety,yes,high,1,1,0.04,Critical
+72041008,Hunger,Patient-Reported,yes,high,1,1,0.04,Critical
+72715004,Hunger,Patient-Reported,yes,high,1,1,0.04,Critical
+717897006,Apnea hypopnea index,Patient-Reported,yes,high,1,1,0.04,Critical
+712686003,Psoriasis area and severity index,Patient-Reported,yes,high,1,1,0.04,Critical
+16932000,Nausea and vomiting,Safety,yes,high,1,1,0.04,Critical
+167277000,Urine output,Renal,partial,high,1,1,0.04,Critical
+182832007,Reoperation,Safety,yes,high,1,1,0.04,Critical
+182817000,Drug-related side effect,Safety,yes,medium,1,1,0.04,Critical
+182817000,Drug therapy,Cardiovascular,partial,medium,1,1,0.04,Critical
+72210004,Appetite,Patient-Reported,yes,high,1,1,0.04,Critical
+76214003,Taste function,Patient-Reported,yes,medium,1,1,0.04,Critical
+76214003,Taste function,Patient-Reported,yes,high,1,1,0.04,Critical
+72670004,Hunger,Patient-Reported,yes,medium,1,1,0.04,Critical
+72670004,Ghrelin,Metabolic,partial,low,1,1,0.04,Critical
+72616008,Satiety response,Patient-Reported,yes,high,1,1,0.04,Critical
+72616008,Hunger,Patient-Reported,yes,high,1,1,0.04,Critical
+72552008,Appetite,Patient-Reported,yes,medium,1,1,0.04,Critical
+72402008,Satiety,Patient-Reported,yes,high,1,1,0.04,Critical
+74732009,Mental health assessment,Patient-Reported,yes,high,1,1,0.04,Critical
+74732009,Mental disorder,Safety,yes,high,1,1,0.04,Critical
+74732009,Mental disorder,Patient-Reported,yes,high,1,1,0.04,Critical
+78293005,Smell function test,Other,yes,high,1,1,0.04,Critical
+78275009,Sleep apnea syndrome,Other,yes,high,1,2,0.04,Critical
+78275009,Obstructive sleep apnea syndrome,Patient-Reported,yes,high,1,1,0.04,Critical
+74627003,Diabetic complication,Metabolic,yes,high,1,1,0.04,Critical
+72889006,Taste perception,Patient-Reported,yes,medium,1,1,0.04,Critical
+72863001,Hunger,Patient-Reported,yes,medium,1,1,0.04,Critical
+0,No-reflow phenomenon,Cardiovascular,yes,low,1,1,0.04,Critical
+0,Healthcare cost,Other,partial,low,1,1,0.04,Critical
+76214002,Taste sensation,Other,partial,medium,1,1,0.04,Critical
+75694006,Pancreatic disease,Safety,yes,high,1,1,0.04,Critical
+79143009,Hunger,Patient-Reported,yes,high,1,1,0.04,Critical
+182804009,Composite outcome measure,Other,partial,medium,1,1,0.04,Critical
+182804009,Composite outcome measure,Metabolic,partial,medium,1,1,0.04,Critical
+17366009,Atrial arrhythmia,Cardiovascular,yes,high,1,3,0.04,Critical
+17338001,Atrial arrhythmia,Cardiovascular,yes,high,1,1,0.04,Critical
+0,Focus group findings,Patient-Reported,yes,low,1,1,0.04,Critical
+80394007,Hyperglycemia,Safety,yes,high,1,1,0.04,Critical
+80274001,Glomerular filtration rate,Renal,yes,high,1,1,0.04,Critical
+80274001,Glomerular filtration rate,Renal,partial,medium,1,1,0.04,Critical
+8357008,Sexual desire,Patient-Reported,yes,high,1,1,0.04,Critical
+81266008,Revascularization,Cardiovascular,yes,high,1,1,0.04,Critical
+81266008,Heart revascularization,Cardiovascular,yes,high,1,1,0.04,Critical
+95281009,Sudden death,Cardiovascular,yes,high,1,1,0.04,Critical
+91302008,Sepsis,Safety,yes,high,1,1,0.04,Critical
+90708001,Kidney disease,Renal,yes,medium,1,1,0.04,Critical
+90688005,Renal failure,Renal,yes,high,1,1,0.04,Critical
+0,Food reinforcement,Patient-Reported,yes,low,1,1,0.04,Critical

@@ -1,0 +1,4 @@
+GLP-1 RCT Gap Analysis — Manuscript Statistics
+Generated from phase4_pico_analysis_v3.ipynb
+N = 2,392 trials | Date: May 2026
+See notebook output for full breakdown.

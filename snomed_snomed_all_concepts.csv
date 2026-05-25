@@ -1,0 +1,2099 @@
+snomed_code,snomed_label,domain,patient_centered,confidence,n_trials,n_mappings,pct_of_corpus
+27113001.0,Body weight,Anthropometric,no,high,504,573,21.07
+43396009.0,HbA1c measurement,Metabolic,no,high,439,580,18.35
+33747003.0,Glucose measurement,Metabolic,no,high,354,422,14.8
+33747003.0,"Glucose measurement, fasting",Metabolic,no,high,284,293,11.87
+33747003.0,Insulin measurement,Metabolic,no,high,128,130,5.35
+302866003.0,Hypoglycemia,Safety,yes,high,106,130,4.43
+43396009.0,Hemoglobin A1c measurement,Metabolic,no,high,101,102,4.22
+0.0,Not specified,Other,no,low,100,120,4.18
+276746005.0,Cardiovascular event,Cardiovascular,yes,high,92,123,3.85
+363870007.0,Quality of life,Patient-Reported,yes,high,91,120,3.8
+75367002.0,Blood pressure,Cardiovascular,no,high,75,77,3.14
+281647001.0,Adverse reaction,Safety,yes,high,73,73,3.05
+0.0,Unspecified measurement,Other,no,low,65,79,2.72
+43396009.0,HbA1c measurement,Metabolic,partial,high,63,68,2.63
+370901008.0,Serious reportable event,Safety,yes,medium,59,59,2.47
+271062006.0,Insulin secretion,Metabolic,no,high,58,60,2.42
+60621009.0,Body mass index,Anthropometric,no,high,56,73,2.34
+54718008.0,Gastric emptying,Other,no,high,55,56,2.3
+302866003.0,Hypoglycemic symptom,Safety,yes,high,54,54,2.26
+33747008.0,Appetite,Patient-Reported,yes,high,54,54,2.26
+89362005.0,Weight loss,Anthropometric,no,high,54,61,2.26
+3714008.0,Gastric emptying,Other,no,high,51,52,2.13
+182836005.0,Review of adverse reactions,Safety,yes,high,50,50,2.09
+182836005.0,Review of drug treatment,Other,no,medium,50,50,2.09
+431314004.0,Glucagon-like peptide 1 measurement,Metabolic,no,high,49,49,2.05
+33747000.0,Glucose measurement,Metabolic,no,high,49,50,2.05
+226529007.0,Food energy intake,Metabolic,no,high,49,52,2.05
+0.0,Unknown,Other,no,low,47,53,1.96
+33747003.0,Glucose measurement,Metabolic,no,medium,47,55,1.96
+33747003.0,Appetite,Patient-Reported,yes,high,46,48,1.92
+276361009.0,Waist circumference,Anthropometric,no,high,45,46,1.88
+271649006.0,Systolic blood pressure,Cardiovascular,no,high,43,44,1.8
+89362005.0,Weight loss,Anthropometric,partial,high,43,50,1.8
+182836005.0,Review of patient safety,Safety,yes,high,42,42,1.76
+226553002.0,Energy intake,Metabolic,no,high,42,49,1.76
+419620001.0,Death,Patient-Reported,yes,high,41,43,1.71
+33747003.0,"Glucose measurement, fasting",Metabolic,no,medium,41,49,1.71
+33747003.0,Blood glucose measurement,Metabolic,no,high,40,41,1.67
+72405004.0,Appetite,Patient-Reported,yes,high,39,39,1.63
+182836005.0,Review of drug treatment,Safety,yes,medium,38,38,1.59
+46635009.0,Insulin secretion,Metabolic,no,high,38,39,1.59
+0.0,Unknown concept,Other,no,low,37,40,1.55
+271061004.0,Insulin measurement,Metabolic,no,high,37,37,1.55
+43396009.0,Haemoglobin A1c measurement,Metabolic,no,high,37,43,1.55
+412546005.0,Glucagon-like peptide 1,Metabolic,no,high,36,39,1.51
+364075005.0,Heart rate,Cardiovascular,no,high,36,41,1.51
+80274001.0,Glomerular filtration rate,Renal,no,high,33,41,1.38
+182868007.0,Treatment-emergent adverse event,Safety,yes,high,30,30,1.25
+182836005.0,Adverse drug reaction,Safety,yes,high,29,29,1.21
+226379002.0,Food intake,Metabolic,partial,high,29,29,1.21
+0.0,Unknown concept,Metabolic,no,low,28,37,1.17
+33747003.0,C-peptide measurement,Metabolic,no,high,27,28,1.13
+72405004.0,Hunger,Patient-Reported,yes,high,27,27,1.13
+271062006.0,Postprandial glucose measurement,Metabolic,no,high,26,28,1.09
+57142008.0,Glucagon measurement,Metabolic,no,high,25,25,1.05
+182836005.0,Review of medication,Other,no,high,24,24,1.0
+248300009.0,Body composition,Anthropometric,no,high,24,24,1.0
+708035002.0,Glucose-dependent insulinotropic polypeptide measurement,Metabolic,no,high,24,24,1.0
+302866003.0,Hypoglycemia,Metabolic,yes,high,23,24,0.96
+89362005.0,Weight loss,Anthropometric,yes,high,23,27,0.96
+43396009.0,Haemoglobin A1c level,Metabolic,no,high,23,24,0.96
+434251000124100.0,Glucagon-like peptide-1 measurement,Metabolic,no,high,22,22,0.92
+70165005.0,Glucagon-like peptide 1,Metabolic,no,high,22,22,0.92
+0.0,HOMA insulin resistance index,Metabolic,no,low,22,22,0.92
+62014003.0,Adverse reaction caused by drug,Safety,yes,high,22,22,0.92
+166842003.0,Lipid profile,Metabolic,no,high,21,21,0.88
+271061004.0,Insulin measurement,Metabolic,no,medium,21,21,0.88
+365845004.0,Area under curve,Metabolic,no,high,20,24,0.84
+84114007.0,Heart failure,Cardiovascular,yes,high,19,27,0.79
+422587007.0,Nausea,Safety,yes,high,19,19,0.79
+702663006.0,Insulin sensitivity,Metabolic,no,high,18,18,0.75
+9879006.0,Glucagon measurement,Metabolic,no,high,18,18,0.75
+365787002.0,Lipid measurement,Metabolic,no,high,18,18,0.75
+162008003.0,Satiety,Patient-Reported,yes,high,17,18,0.71
+386053000.0,Evaluation procedure,Other,no,low,17,18,0.71
+55235003.0,C-reactive protein measurement,Other,no,high,17,17,0.71
+226553002.0,Energy intake,Other,no,high,16,16,0.67
+30674002.0,Glucagon,Metabolic,no,high,16,16,0.67
+271061004.0,Postprandial glucose level,Metabolic,no,high,16,18,0.67
+271061004.0,Serum insulin measurement,Metabolic,no,high,16,16,0.67
+182840001.0,Drug treatment stopped,Safety,yes,high,16,16,0.67
+166587005.0,Ghrelin measurement,Metabolic,no,medium,16,16,0.67
+250814008.0,Energy expenditure,Metabolic,no,high,16,16,0.67
+165263003.0,Six minute walk test,Patient-Reported,yes,high,15,15,0.63
+385676005.0,Drug action,Other,no,high,15,15,0.63
+166922006.0,Glucose tolerance test normal,Metabolic,no,high,15,15,0.63
+162059005.0,Upset stomach,Safety,yes,high,14,14,0.59
+226403001.0,Energy expenditure,Metabolic,no,high,14,14,0.59
+182836005.0,Review of adverse reaction to drug,Safety,yes,medium,14,14,0.59
+432341007.0,Glucagon-like peptide-1 measurement,Metabolic,no,high,14,14,0.59
+426046008.0,Cholecystokinin measurement,Metabolic,no,high,14,14,0.59
+182840001.0,Drug therapy,Other,no,medium,13,13,0.54
+182840001.0,Diabetic monitoring,Metabolic,no,medium,13,13,0.54
+182840001.0,Drug therapy,Metabolic,no,high,13,13,0.54
+252207007.0,Lipid measurement,Metabolic,no,high,13,13,0.54
+61471006.0,Peptide YY,Metabolic,no,high,13,13,0.54
+22298006.0,Myocardial infarction,Cardiovascular,yes,high,13,14,0.54
+33747003.0,Triglyceride measurement,Metabolic,no,high,13,14,0.54
+431314004.0,Glucagon-like peptide 1,Metabolic,no,high,13,13,0.54
+431313002.0,Ghrelin measurement,Metabolic,no,high,13,13,0.54
+182836005.0,Insulin dose,Metabolic,no,high,12,12,0.5
+166312007.0,Blood chemistry,Other,no,medium,12,12,0.5
+365796007.0,Glucagon-like peptide 1 measurement,Metabolic,no,high,12,12,0.5
+118227000.0,Vital signs,Other,no,high,12,12,0.5
+422274004.0,Endothelial cell function,Cardiovascular,no,high,12,12,0.5
+69266005.0,Glucagon-like peptide 1,Metabolic,no,medium,12,13,0.5
+62014003.0,Adverse event,Safety,yes,high,12,12,0.5
+61538001.0,Peptide YY,Metabolic,no,high,12,12,0.5
+14740000.0,Triglyceride measurement,Metabolic,no,high,12,13,0.5
+271650006.0,Diastolic blood pressure,Cardiovascular,no,high,12,12,0.5
+47541000052108.0,Insulin secretion,Metabolic,no,high,11,11,0.46
+250908004.0,Left ventricular ejection fraction,Cardiovascular,no,high,11,11,0.46
+166830008.0,Serum free fatty acids measurement,Metabolic,no,high,11,11,0.46
+48606007.0,Insulin resistance,Metabolic,no,high,11,11,0.46
+0.0,HOMA beta cell function index,Metabolic,no,low,11,11,0.46
+68793005.0,Antibody measurement,Safety,no,high,11,11,0.46
+248324003.0,Body composition finding,Anthropometric,no,high,11,11,0.46
+248300009.0,Fat mass,Anthropometric,no,high,11,12,0.46
+386053000.0,Evaluation procedure,Other,no,medium,11,11,0.46
+61478007.0,Glucagon-like peptide 1,Metabolic,no,high,10,10,0.42
+182836005.0,Pharmacokinetics,Other,no,high,10,11,0.42
+782515006.0,Patient reported outcome measure,Patient-Reported,yes,high,10,10,0.42
+311465003.0,Cognitive function,Patient-Reported,yes,high,10,10,0.42
+182804009.0,Composite outcome measure,Cardiovascular,partial,high,10,10,0.42
+0.0,GLP-1 measurement,Metabolic,no,low,10,11,0.42
+33747003.0,"Glucose measurement, fasting",Patient-Reported,yes,medium,10,10,0.42
+33747003.0,Appetite,Patient-Reported,yes,medium,10,10,0.42
+162076009.0,Excessive upper gastrointestinal gas,Safety,yes,medium,10,10,0.42
+226370002.0,Food intake,Other,no,high,10,10,0.42
+0.0,Unknown,Metabolic,no,low,10,10,0.42
+118247008.0,Radiologic finding,Other,no,medium,10,11,0.42
+27113001.0,Body weight,Anthropometric,no,medium,10,10,0.42
+182964004.0,Patient satisfaction,Patient-Reported,yes,high,9,9,0.38
+248326004.0,Anthropometric measurement,Anthropometric,no,high,9,9,0.38
+250341006.0,Liver function test,Safety,no,high,9,9,0.38
+609328004.0,Allergic disposition,Safety,yes,medium,9,9,0.38
+68130003.0,Physical activity,Patient-Reported,yes,high,9,9,0.38
+230690007.0,Stroke,Cardiovascular,yes,high,9,12,0.38
+0.0,Unknown SNOMED concept,Metabolic,no,low,9,9,0.38
+410517006.0,Gastrointestinal hormone measurement,Metabolic,no,high,9,9,0.38
+118565006.0,Volume,Other,no,medium,9,9,0.38
+431314004.0,Glucagon-like peptide-1,Metabolic,no,high,9,9,0.38
+33747003.0,Leptin measurement,Metabolic,no,high,9,9,0.38
+276746005.0,Cardiovascular death,Cardiovascular,yes,high,9,9,0.38
+410594000.0,Ghrelin measurement,Metabolic,no,high,9,9,0.38
+365786009.0,Hormone measurement,Metabolic,no,high,9,9,0.38
+365845004.0,Area under curve,Other,no,high,9,9,0.38
+0.0,Appetite assessment,Patient-Reported,yes,low,9,9,0.38
+182817000.0,Drug-related side effect,Safety,yes,high,9,9,0.38
+80690008.0,Functional magnetic resonance imaging,Other,no,medium,9,10,0.38
+113079009.0,Low density lipoprotein cholesterol measurement,Metabolic,no,high,8,8,0.33
+106148006.0,Sensory perception,Patient-Reported,yes,medium,8,8,0.33
+38033009.0,Visceral adipose tissue,Anthropometric,no,high,8,8,0.33
+421890007.0,Glucagon-like peptide 1,Metabolic,no,high,8,8,0.33
+250874002.0,Respiratory function,Other,no,medium,8,8,0.33
+43396009.0,HbA1c measurement,Metabolic,no,medium,8,8,0.33
+250188002.0,Biomarker,Other,no,medium,8,10,0.33
+271327008.0,Hypoglycemia,Safety,yes,high,8,9,0.33
+273302005.0,Quality of life score,Patient-Reported,yes,high,8,8,0.33
+104485008.0,Serum protein measurement,Metabolic,no,medium,8,9,0.33
+226479002.0,Oxidation,Metabolic,no,medium,8,8,0.33
+0.0,Tolerability,Safety,yes,low,8,8,0.33
+226529007.0,Food intake,Other,no,high,8,8,0.33
+0.0,UNMAPPED,Other,no,low,8,10,0.33
+61946003.0,Glucagon,Metabolic,no,high,8,8,0.33
+182840001.0,Diabetic control,Metabolic,partial,high,8,8,0.33
+182954008.0,Patient satisfaction,Patient-Reported,yes,high,8,8,0.33
+707982003.0,Fatty liver,Metabolic,no,high,8,8,0.33
+250537006.0,Laboratory finding,Metabolic,no,medium,8,8,0.33
+365845005.0,Hormone measurement,Metabolic,no,medium,7,8,0.29
+363870007.0,Quality of life,Patient-Reported,yes,medium,7,7,0.29
+365799003.0,Total cholesterol measurement,Cardiovascular,no,high,7,7,0.29
+385676005.0,Drug action,Other,no,medium,7,7,0.29
+364075005.0,Blood pressure,Cardiovascular,no,high,7,7,0.29
+32398004.0,Metabolic function,Metabolic,no,medium,7,7,0.29
+80943009.0,Risk factor,Cardiovascular,no,high,7,7,0.29
+28036006.0,High density lipoprotein cholesterol measurement,Cardiovascular,no,high,7,7,0.29
+33747003.0,Glucose,Metabolic,no,high,7,7,0.29
+226479002.0,Eating behavior,Patient-Reported,yes,high,7,7,0.29
+182840001.0,Drug reaction,Safety,yes,high,7,7,0.29
+47847005.0,Glucose metabolism,Metabolic,no,high,7,7,0.29
+29303009.0,Electrocardiographic procedure,Cardiovascular,no,high,7,8,0.29
+419620001.0,Death,Cardiovascular,yes,high,7,8,0.29
+432102000.0,Administration of substance,Metabolic,no,medium,7,7,0.29
+0.0,Unknown outcome,Other,no,low,7,7,0.29
+62014003.0,Adverse drug reaction,Safety,yes,high,7,7,0.29
+226553002.0,Energy intake,Anthropometric,no,high,7,8,0.29
+80394007.0,Hyperglycemia,Metabolic,yes,high,7,7,0.29
+80394007.0,Hyperglycemia,Metabolic,no,high,7,8,0.29
+55235003.0,C-reactive protein,Metabolic,no,high,7,7,0.29
+52518006.0,Amino acid,Metabolic,no,high,7,8,0.29
+432059004.0,Glucagon-like peptide 1 measurement,Metabolic,no,high,6,6,0.25
+271808006.0,Breath test,Other,no,high,6,6,0.25
+271354006.0,Glucagon-like peptide measurement,Metabolic,no,high,6,6,0.25
+365845006.0,Beta cell function,Metabolic,no,high,6,6,0.25
+312504002.0,Anti-drug antibody,Safety,no,high,6,6,0.25
+302787002.0,Glucose tolerance test,Metabolic,no,high,6,6,0.25
+415158006.0,Glucose-dependent insulinotropic polypeptide measurement,Metabolic,no,high,6,6,0.25
+413651001.0,Glucagon-like peptide 1 measurement,Metabolic,no,high,6,6,0.25
+309822003.0,Microbiological analysis,Other,no,high,6,6,0.25
+405519008.0,Dipeptidyl-peptidase 4,Metabolic,no,medium,6,6,0.25
+410594000.0,Ghrelin measurement,Metabolic,no,medium,6,6,0.25
+8276006.0,Injection site reaction,Safety,yes,high,6,6,0.25
+90708001.0,Kidney disease,Renal,yes,high,6,6,0.25
+61946003.0,Cholecystokinin,Metabolic,no,high,6,6,0.25
+271061004.0,Fasting insulin measurement,Metabolic,no,high,6,6,0.25
+259031006.0,Serum hormone measurement,Metabolic,no,medium,6,6,0.25
+439588008.0,Patient global impression,Patient-Reported,yes,high,6,7,0.25
+278061009.0,Remission phase,Metabolic,yes,high,6,6,0.25
+57054005.0,Myocardial infarction,Cardiovascular,yes,high,6,6,0.25
+250983003.0,Left ventricular function,Cardiovascular,no,high,6,6,0.25
+272379006.0,Event,Safety,yes,high,6,6,0.25
+248300009.0,Body fat,Anthropometric,no,high,6,6,0.25
+182840001.0,Cost,Other,no,high,6,8,0.25
+197321007.0,Steatohepatitis,Other,yes,high,6,6,0.25
+22253000.0,Pain,Patient-Reported,yes,high,6,6,0.25
+78564009.0,Pulse rate,Cardiovascular,no,high,6,6,0.25
+182840001.0,Drug therapy,Other,no,low,6,6,0.25
+71181003.0,Subcutaneous tissue,Anthropometric,no,high,6,6,0.25
+182837001.0,Continuous glucose monitoring,Metabolic,no,high,6,6,0.25
+182836005.0,Review of patient safety,Safety,no,high,6,6,0.25
+182844000.0,Drug dose,Other,no,high,6,6,0.25
+70165005.0,Glucagon-like peptide 1,Metabolic,no,medium,6,6,0.25
+396550006.0,Laboratory test,Other,no,high,6,6,0.25
+59820001.0,Blood glucose,Metabolic,no,high,6,6,0.25
+72366004.0,Eating behavior,Patient-Reported,yes,high,5,6,0.21
+72042002.0,Hunger,Patient-Reported,yes,high,5,5,0.21
+75694006.0,Pancreatitis,Safety,yes,high,5,6,0.21
+182836005.0,Review of drug treatment,Safety,partial,medium,5,5,0.21
+365845004.0,Glucose measurement,Metabolic,no,high,5,5,0.21
+84078007.0,Hormone measurement,Metabolic,no,high,5,5,0.21
+80394007.0,Cardiovascular risk factor,Cardiovascular,no,high,5,5,0.21
+365787002.0,C-peptide measurement,Metabolic,no,high,5,5,0.21
+33747003.0,C-peptide,Metabolic,no,high,5,5,0.21
+33747000.0,Insulin,Metabolic,no,medium,5,5,0.21
+35489007.0,Depression,Patient-Reported,yes,high,5,7,0.21
+410668003.0,Length of time,Other,no,high,5,6,0.21
+410668003.0,Length of time,Other,no,medium,5,5,0.21
+365845007.0,Serum glucose measurement,Metabolic,no,high,5,5,0.21
+365853002.0,Metabolic measurement,Metabolic,no,medium,5,5,0.21
+0.0,GIP measurement,Metabolic,no,low,5,5,0.21
+0.0,Gene expression measurement,Other,no,low,5,7,0.21
+9659006.0,Food preference,Patient-Reported,yes,high,5,5,0.21
+87612001.0,Blood chemistry,Metabolic,no,medium,5,5,0.21
+75524006.0,Urine glucose measurement,Metabolic,no,high,5,5,0.21
+226572002.0,Glucagon-like peptide-1,Metabolic,no,high,5,5,0.21
+248312006.0,Energy expenditure,Metabolic,no,high,5,5,0.21
+71181003.0,Ghrelin,Metabolic,no,medium,5,5,0.21
+226373002.0,Energy intake,Other,no,high,5,5,0.21
+70934008.0,Basal metabolic rate,Metabolic,no,high,5,5,0.21
+226553002.0,Caloric intake,Metabolic,no,high,5,5,0.21
+271062006.0,Glucose tolerance test,Metabolic,no,high,5,5,0.21
+250637000.0,Alanine aminotransferase measurement,Safety,no,high,5,5,0.21
+248497008.0,Thermogenesis,Metabolic,no,high,5,5,0.21
+226540009.0,Glucose absorption,Metabolic,no,high,5,5,0.21
+56218007.0,Brain function,Other,no,medium,5,7,0.21
+129006008.0,Walking,Patient-Reported,yes,high,5,5,0.21
+271063002.0,Serum insulin measurement,Metabolic,no,high,5,5,0.21
+271062006.0,Insulin measurement,Metabolic,no,high,5,5,0.21
+364393001.0,Nutritional finding,Other,no,medium,5,5,0.21
+365845001.0,Proinsulin measurement,Metabolic,no,high,5,5,0.21
+259031006.0,Serum hormone measurement,Other,no,medium,5,5,0.21
+49049000.0,Parkinson's disease,Patient-Reported,yes,high,5,5,0.21
+250188002.0,Biomarker,Metabolic,no,medium,5,6,0.21
+427680000.0,Adiponectin measurement,Metabolic,no,high,5,5,0.21
+11953005.0,Kidney function,Renal,no,high,5,5,0.21
+271381005.0,Triglycerides measurement,Metabolic,no,high,5,5,0.21
+432102000.0,Administration of substance,Safety,no,medium,5,6,0.21
+442982005.0,Oxidative stress,Other,no,high,5,5,0.21
+276746005.0,Cardiovascular event,Cardiovascular,yes,medium,5,5,0.21
+276892008.0,Glucose clearance,Metabolic,no,medium,5,5,0.21
+28225003.0,Fat metabolism,Metabolic,no,high,5,6,0.21
+410668003.0,Length of time,Metabolic,no,high,4,4,0.17
+32398004.0,Hospitalization,Cardiovascular,yes,high,4,4,0.17
+312681000.0,Bone mineral content,Other,no,high,4,4,0.17
+421725003.0,Severe hypoglycemia,Safety,yes,high,4,4,0.17
+116565002.0,Serum glucagon-like peptide,Metabolic,no,medium,4,4,0.17
+35489007.0,Depressive disorder,Patient-Reported,yes,high,4,4,0.17
+33747000.0,Insulin measurement,Metabolic,no,medium,4,4,0.17
+33747003.0,Blood glucose measurement,Metabolic,no,medium,4,4,0.17
+365845009.0,Metabolite,Metabolic,no,medium,4,4,0.17
+166832003.0,Apolipoprotein B measurement,Cardiovascular,no,high,4,4,0.17
+166842003.0,Cholesterol measurement,Metabolic,no,high,4,4,0.17
+166842003.0,Lipid measurement,Cardiovascular,no,high,4,4,0.17
+113091000.0,Magnetic resonance imaging,Other,no,medium,4,4,0.17
+35024006.0,Immunologic test,Safety,no,medium,4,4,0.17
+38888009.0,Adipose tissue,Anthropometric,no,high,4,6,0.17
+106126000.0,Mood,Patient-Reported,yes,high,4,4,0.17
+182836005.0,Continuous glucose monitoring,Metabolic,no,high,4,4,0.17
+80943009.0,Risk factor,Cardiovascular,no,medium,4,4,0.17
+80274001.0,Glomerular filtration rate,Renal,partial,high,4,5,0.17
+431314004.0,Glucagon-like peptide-1,Metabolic,no,medium,4,4,0.17
+118565006.0,Volume,Other,partial,medium,4,5,0.17
+395166001.0,Glucose excursion,Metabolic,no,high,4,4,0.17
+397745006.0,Cardiovascular death,Cardiovascular,yes,high,4,4,0.17
+289555008.0,Gastrointestinal motility,Other,no,medium,4,4,0.17
+104485008.0,Serum protein measurement,Other,no,medium,4,5,0.17
+276746005.0,Cardiovascular event,Cardiovascular,no,medium,4,4,0.17
+276654001.0,Liver fibrosis,Other,yes,high,4,4,0.17
+271062006.0,Insulin level,Metabolic,no,medium,4,5,0.17
+271649006.0,Systolic blood pressure,Cardiovascular,no,medium,4,4,0.17
+271820009.0,Gastrointestinal tract function,Other,no,medium,4,4,0.17
+271379000.0,Free fatty acid measurement,Metabolic,no,high,4,4,0.17
+271062006.0,Insulin level,Metabolic,no,high,4,4,0.17
+58190003.0,Blood flow,Cardiovascular,no,high,4,4,0.17
+102494008.0,Albumin/creatinine ratio measurement,Renal,no,high,4,4,0.17
+250540001.0,C-reactive protein measurement,Other,no,high,4,4,0.17
+250537006.0,Laboratory finding,Other,no,low,4,4,0.17
+251208005.0,QT interval,Cardiovascular,no,high,4,6,0.17
+250901008.0,Flow-mediated dilation,Cardiovascular,no,high,4,4,0.17
+434251000124100.0,Glucagon-like peptide-1 measurement,Metabolic,no,medium,4,4,0.17
+44054006.0,Diabetes mellitus type 2,Metabolic,yes,high,4,5,0.17
+271062006.0,Fasting insulin measurement,Metabolic,no,medium,4,4,0.17
+442085008.0,Ghrelin measurement,Metabolic,no,high,4,4,0.17
+129006008.0,Physical function,Patient-Reported,yes,high,4,4,0.17
+248362000.0,Lean body mass,Anthropometric,no,high,4,4,0.17
+54718008.0,Gastric function,Other,no,medium,4,5,0.17
+248318005.0,Percentage body fat,Anthropometric,no,high,4,4,0.17
+226553002.0,Caloric intake,Anthropometric,no,high,4,4,0.17
+69266005.0,Glucagon-like peptide 1,Metabolic,no,high,4,4,0.17
+709044004.0,Chronic kidney disease,Renal,yes,high,4,5,0.17
+18629005.0,Thermoregulation,Metabolic,no,medium,4,4,0.17
+226370002.0,Free fatty acid,Metabolic,no,high,4,4,0.17
+55235003.0,C-reactive protein,Other,no,high,4,4,0.17
+248579005.0,Apnea hypopnea index,Other,partial,high,4,4,0.17
+70965005.0,Metabolic rate,Metabolic,no,high,4,4,0.17
+182840001.0,Drug treatment failure,Metabolic,no,high,4,4,0.17
+6797001.0,Mean arterial pressure,Cardiovascular,no,high,4,4,0.17
+182839006.0,Insulin dose,Metabolic,no,high,4,4,0.17
+182840001.0,Glucose control,Metabolic,no,high,4,4,0.17
+75367002.0,Blood pressure,Cardiovascular,no,medium,4,4,0.17
+73211009.0,Diabetes mellitus,Metabolic,yes,high,4,4,0.17
+72670004.0,Hunger,Patient-Reported,yes,high,4,4,0.17
+165808002.0,Gastric inhibitory polypeptide measurement,Metabolic,no,high,4,4,0.17
+166522003.0,Liver enzyme measurement,Safety,no,high,4,4,0.17
+182836005.0,Review of medication,Other,no,low,4,4,0.17
+0.0,Food reward,Patient-Reported,yes,low,3,3,0.13
+89177007.0,Nitrotyrosine,Safety,no,medium,3,3,0.13
+87179004.0,Blood flow,Cardiovascular,no,high,3,3,0.13
+95695004.0,Retinal disorder,Other,yes,high,3,3,0.13
+90688005.0,Chronic kidney disease,Renal,partial,high,3,3,0.13
+90688005.0,Chronic kidney disease,Renal,yes,high,3,3,0.13
+248300009.0,Total body fat,Anthropometric,no,high,3,3,0.13
+248092003.0,Food craving,Patient-Reported,yes,high,3,4,0.13
+271061004.0,Insulin level,Metabolic,no,high,3,3,0.13
+237602007.0,Metabolic syndrome,Metabolic,no,high,3,3,0.13
+24184005.0,Severe hypoglycemia,Metabolic,yes,high,3,3,0.13
+243987001.0,Carotid intima-media thickness,Cardiovascular,no,high,3,3,0.13
+182817000.0,Drug exposure,Other,no,medium,3,3,0.13
+169076002.0,Waist hip ratio,Anthropometric,no,high,3,3,0.13
+76679006.0,Arginine stimulation test,Metabolic,no,high,3,3,0.13
+271061004.0,Fasting insulin measurement,Metabolic,no,medium,3,3,0.13
+271062006.0,Insulin sensitivity measurement,Metabolic,no,high,3,3,0.13
+271061004.0,Insulin sensitivity,Metabolic,no,high,3,3,0.13
+230690007.0,Cerebrovascular accident,Cardiovascular,yes,high,3,3,0.13
+230690007.0,Stroke,Patient-Reported,yes,high,3,3,0.13
+271208004.0,C-peptide measurement,Metabolic,no,high,3,3,0.13
+226571009.0,Ghrelin,Metabolic,no,high,3,3,0.13
+228918008.0,Walking distance,Patient-Reported,yes,high,3,3,0.13
+271327009.0,Hormone measurement,Metabolic,no,high,3,3,0.13
+271354006.0,Glucagon-like peptide measurement,Metabolic,no,medium,3,3,0.13
+226553002.0,Energy intake,Metabolic,no,medium,3,3,0.13
+226553002.0,Energy intake,Patient-Reported,yes,medium,3,3,0.13
+182836005.0,Drug concentration,Safety,no,high,3,4,0.13
+182817000.0,Drug dose,Other,no,high,3,3,0.13
+722130001.0,Epicardial fat,Cardiovascular,no,high,3,3,0.13
+226553002.0,Food intake,Other,no,high,3,3,0.13
+273542002.0,Sleep assessment,Patient-Reported,yes,high,3,3,0.13
+276361009.0,Waist circumference,Anthropometric,no,medium,3,4,0.13
+276769007.0,Gastric volume,Other,no,medium,3,3,0.13
+276885007.0,Heart rate variability,Cardiovascular,no,high,3,3,0.13
+281615006.0,Functional brain imaging,Other,no,medium,3,3,0.13
+28230009.0,Sodium excretion,Renal,no,high,3,3,0.13
+28230009.0,Urine output,Renal,no,high,3,3,0.13
+311465003.0,Cognitive assessment,Patient-Reported,yes,high,3,3,0.13
+226529007.0,Carbohydrate intake,Metabolic,no,high,3,3,0.13
+62315008.0,Gastrointestinal disorder,Safety,yes,high,3,3,0.13
+62972009.0,Pancreatic islet cell function,Metabolic,no,medium,3,3,0.13
+0.0,Unknown concept,Cardiovascular,no,low,3,3,0.13
+69678005.0,Gastrointestinal hormone,Metabolic,no,medium,3,3,0.13
+226370002.0,Free fatty acid measurement,Metabolic,no,high,3,3,0.13
+30988006.0,Glucagon measurement,Metabolic,no,high,3,3,0.13
+32394007.0,Insulin resistance,Metabolic,no,high,3,3,0.13
+32485007.0,Hospital admission,Cardiovascular,yes,high,3,3,0.13
+32485007.0,Hospital admission,Patient-Reported,yes,high,3,5,0.13
+226479002.0,Energy expenditure,Metabolic,no,high,3,3,0.13
+225339009.0,Patient reported outcome,Patient-Reported,yes,high,3,3,0.13
+33747003.0,Insulin measurement,Metabolic,no,medium,3,3,0.13
+33747003.0,Lipid measurement,Metabolic,no,high,3,3,0.13
+33747001.0,Appetite,Patient-Reported,yes,high,3,3,0.13
+116686009.0,Glucose-dependent insulinotropic polypeptide,Metabolic,no,high,3,3,0.13
+182836005.0,Adverse reaction,Safety,yes,high,3,3,0.13
+60623009.0,Cerebral metabolism,Other,no,high,3,3,0.13
+61020008.0,Calcitonin measurement,Other,no,high,3,3,0.13
+61404005.0,C-peptide measurement,Metabolic,no,high,3,3,0.13
+59820001.0,Blood vessel structure,Cardiovascular,no,medium,3,3,0.13
+609328004.0,Allergic disposition,Safety,yes,high,3,3,0.13
+0.0,Unknown,Renal,no,low,3,3,0.13
+197456007.0,Acute pancreatitis,Safety,yes,high,3,3,0.13
+21979000.0,Bone metabolism,Other,no,high,3,3,0.13
+224130005.0,Life expectancy,Patient-Reported,yes,high,3,3,0.13
+115471000.0,Angiotensin II measurement,Cardiovascular,no,high,3,3,0.13
+116223007.0,Complication,Safety,yes,high,3,4,0.13
+363789002.0,Fecal weight,Other,no,medium,3,3,0.13
+365773007.0,Serum lipid measurement,Cardiovascular,no,high,3,3,0.13
+364571008.0,Hormone measurement,Metabolic,no,high,3,3,0.13
+365787002.0,Finding of measurement,Other,no,medium,3,3,0.13
+365659009.0,Brain natriuretic peptide measurement,Cardiovascular,no,high,3,3,0.13
+102477000.0,Amino acid measurement,Metabolic,no,high,3,3,0.13
+4855003.0,Retinopathy due to diabetes mellitus,Other,yes,high,3,3,0.13
+53619000.0,Disorder of digestive system,Safety,yes,high,3,3,0.13
+54982006.0,Gastric emptying,Other,no,high,3,4,0.13
+113014004.0,Cognitive assessment,Patient-Reported,yes,high,3,4,0.13
+365845002.0,Insulin sensitivity,Metabolic,no,medium,3,3,0.13
+370901008.0,Safety,Safety,yes,high,3,3,0.13
+365845005.0,Hormone measurement,Metabolic,no,high,3,3,0.13
+365847001.0,Finding related to ability to perform general metabolic function,Metabolic,no,medium,3,3,0.13
+386033004.0,Neuropathy,Other,yes,high,3,3,0.13
+371097007.0,Diastolic function,Cardiovascular,no,high,3,3,0.13
+386584000.0,Vibration sensation,Other,partial,high,3,3,0.13
+386806002.0,Impaired cognition,Patient-Reported,yes,high,3,3,0.13
+386950004.0,Drug level,Other,no,medium,3,3,0.13
+106148006.0,Taste sensation quality,Patient-Reported,partial,medium,3,3,0.13
+108736003.0,Peptide YY,Metabolic,no,high,3,3,0.13
+182836005.0,Review of patient safety,Safety,partial,high,3,3,0.13
+48157000.0,Bone resorption,Other,no,high,3,3,0.13
+182879007.0,Medication adverse reaction,Safety,yes,high,3,3,0.13
+182840001.0,Procedure by method,Safety,partial,low,3,3,0.13
+396176008.0,Glucose tolerance test,Metabolic,no,high,3,3,0.13
+397669002.0,Arterial stiffness,Cardiovascular,no,high,3,3,0.13
+182840001.0,Weight maintenance,Anthropometric,partial,high,3,3,0.13
+182840001.0,Glucose control,Metabolic,yes,high,3,3,0.13
+408102007.0,Dose of medication,Other,no,high,3,3,0.13
+418775008.0,Metabolic parameter,Metabolic,no,medium,3,3,0.13
+106060009.0,Bowel function,Patient-Reported,yes,high,3,3,0.13
+182840001.0,Medication adherence,Other,partial,high,3,3,0.13
+182840001.0,Drug therapy cost,Other,no,medium,3,3,0.13
+424897005.0,Glucagon-like peptide 2,Metabolic,no,high,3,3,0.13
+428622007.0,Glucagon-like peptide-1 measurement,Metabolic,no,high,3,3,0.13
+431314004.0,Ghrelin measurement,Metabolic,no,high,3,3,0.13
+182837008.0,Blood glucose monitoring,Metabolic,no,high,3,5,0.13
+182836005.0,Review of medication,Safety,yes,medium,3,3,0.13
+43396009.0,Hemoglobin A1c measurement,Metabolic,partial,high,3,4,0.13
+442364006.0,Forearm blood flow,Cardiovascular,no,high,3,5,0.13
+446225009.0,N-terminal pro-brain natriuretic peptide measurement,Cardiovascular,no,high,3,3,0.13
+182836005.0,Review of medication,Other,no,medium,3,3,0.13
+182840001.0,Drug dose,Other,no,high,3,3,0.13
+104000008.0,Lipoprotein measurement,Metabolic,no,high,3,3,0.13
+44054006.0,Type 2 diabetes mellitus,Metabolic,yes,high,3,3,0.13
+182837001.0,Drug concentration,Other,no,medium,3,3,0.13
+0.0,,Other,no,low,3,3,0.13
+162056007.0,Feeling of fullness,Patient-Reported,yes,high,3,3,0.13
+14740000.0,Triglyceride measurement,Cardiovascular,no,high,3,3,0.13
+248334005.0,Lean body mass,Anthropometric,no,medium,3,4,0.13
+248300009.0,Body fat percentage,Anthropometric,no,high,3,3,0.13
+250507003.0,High sensitivity C-reactive protein measurement,Metabolic,no,high,3,3,0.13
+250748004.0,Left ventricular function,Cardiovascular,no,high,3,3,0.13
+250908004.0,Left atrial function,Cardiovascular,no,high,3,3,0.13
+0.0,Peptide YY measurement,Metabolic,no,low,3,3,0.13
+167217005.0,Urine albumin level,Renal,no,high,3,3,0.13
+80394007.0,Hyperglycemia,Metabolic,partial,high,3,3,0.13
+80394007.0,Hyperglycemia,Patient-Reported,yes,high,3,3,0.13
+87878005.0,Left ventricular function,Cardiovascular,no,medium,3,3,0.13
+258158006.0,Sleep,Patient-Reported,yes,high,2,2,0.08
+248300009.0,Body composition measure,Anthropometric,no,high,2,2,0.08
+236425005.0,End stage renal failure,Renal,yes,high,2,2,0.08
+182817007.0,Drug dose change,Other,no,medium,2,2,0.08
+182823000.0,Insulin administration,Other,no,high,2,2,0.08
+72366004.0,Eating disorder,Patient-Reported,yes,medium,2,2,0.08
+72552008.0,Appetite,Patient-Reported,yes,high,2,2,0.08
+72670004.0,Appetite,Patient-Reported,partial,high,2,2,0.08
+763017007.0,Pulse wave velocity,Cardiovascular,no,high,2,2,0.08
+76505004.0,Taste,Patient-Reported,yes,medium,2,2,0.08
+76797004.0,Physical performance,Patient-Reported,yes,high,2,2,0.08
+73430006.0,Sleep apnea,Patient-Reported,yes,high,2,2,0.08
+74613005.0,Pancreatic polypeptide measurement,Metabolic,no,high,2,2,0.08
+77386006.0,Pregnancy,Other,yes,high,2,2,0.08
+79143009.0,Appetite,Patient-Reported,yes,high,2,2,0.08
+0.0,MicroRNA expression,Other,no,low,2,2,0.08
+166312007.0,Blood chemistry,Metabolic,no,medium,2,2,0.08
+182840001.0,Drug treatment,Other,no,medium,2,2,0.08
+182840001.0,Drug treatment,Safety,no,medium,2,2,0.08
+182840001.0,Drug therapy,Other,partial,medium,2,2,0.08
+431314004.0,Glucose-dependent insulinotropic polypeptide measurement,Metabolic,no,high,2,2,0.08
+43148006.0,Glucagon-like peptide,Other,no,medium,2,2,0.08
+431744004.0,Global longitudinal strain,Cardiovascular,no,high,2,2,0.08
+43396009.0,Haemoglobin A1c measurement,Metabolic,partial,high,2,3,0.08
+43396009.0,HbA1c measurement,Metabolic,partial,medium,2,2,0.08
+182836005.0,Safety assessment,Safety,no,medium,2,2,0.08
+182837001.0,Drug dose,Other,no,medium,2,2,0.08
+182837001.0,Glucose variability,Metabolic,no,high,2,2,0.08
+182837003.0,Drug bioavailability,Other,no,medium,2,2,0.08
+16101009.0,Gastric acid secretion,Other,no,high,2,2,0.08
+162050007.0,Satiety,Metabolic,no,medium,2,2,0.08
+248967002.0,Oxidation,Metabolic,no,medium,2,2,0.08
+422400008.0,Vomiting,Safety,yes,high,2,2,0.08
+415158006.0,Glucose-dependent insulinotropic polypeptide measurement,Metabolic,no,medium,2,2,0.08
+431314004.0,Incretin measurement,Metabolic,no,medium,2,2,0.08
+426274009.0,Ghrelin measurement,Metabolic,no,medium,2,2,0.08
+42658009.0,Peripheral neuropathy,Other,yes,high,2,2,0.08
+42801009.0,Beta cell function,Metabolic,no,medium,2,2,0.08
+431314004.0,Gastric inhibitory peptide,Metabolic,no,high,2,2,0.08
+441742003.0,Cytokine,Other,no,high,2,2,0.08
+441742003.0,Evaluation of protein,Metabolic,no,low,2,2,0.08
+441742003.0,Gene expression,Other,no,medium,2,2,0.08
+434911002.0,Plasma glucose level,Metabolic,no,high,2,3,0.08
+442113004.0,Ghrelin measurement,Metabolic,no,high,2,2,0.08
+442282002.0,Procollagen type I N-terminal propeptide,Other,no,high,2,2,0.08
+441689006.0,Citrulline measurement,Metabolic,no,high,2,2,0.08
+44652006.0,Gluconeogenesis,Metabolic,no,high,2,2,0.08
+449567003.0,Coronary artery calcification,Cardiovascular,no,high,2,2,0.08
+40701008.0,Echocardiography,Cardiovascular,no,high,2,2,0.08
+40733004.0,Infection,Safety,yes,high,2,2,0.08
+404946009.0,Sleep study,Patient-Reported,yes,high,2,2,0.08
+405516008.0,Patient satisfaction with treatment,Patient-Reported,yes,high,2,2,0.08
+405904009.0,Leptin measurement,Metabolic,no,high,2,2,0.08
+410668003.0,Economic evaluation,Other,no,high,2,2,0.08
+418633004.0,Medication adherence,Other,no,high,2,2,0.08
+105000003.0,Troponin measurement,Cardiovascular,no,high,2,3,0.08
+104485008.0,Amino acid measurement,Metabolic,no,high,2,2,0.08
+182840001.0,Drug therapy,Other,yes,medium,2,2,0.08
+182840001.0,Intervention feasibility,Safety,no,medium,2,2,0.08
+182840001.0,Procedure by method,Other,no,low,2,2,0.08
+182840001.0,Drug therapy discontinued,Other,no,low,2,2,0.08
+182840001.0,Drug therapy discontinued,Other,no,medium,2,2,0.08
+419620001.0,Death,Cardiovascular,partial,medium,2,2,0.08
+420816009.0,Functional capacity,Patient-Reported,yes,high,2,2,0.08
+104157003.0,Lipid measurement,Metabolic,no,high,2,2,0.08
+104157003.0,Protein measurement,Metabolic,no,medium,2,3,0.08
+182836005.0,Review of cardiovascular system,Safety,yes,medium,2,2,0.08
+182836005.0,Review of drug treatment,Safety,yes,high,2,2,0.08
+182836005.0,Review of glucose control,Metabolic,no,high,2,3,0.08
+182868007.0,Treatment-emergent adverse event,Safety,partial,high,2,2,0.08
+182879007.0,Medication side effects present,Safety,yes,high,2,2,0.08
+386053000.0,Evaluation procedure,Patient-Reported,yes,medium,2,2,0.08
+396061003.0,Cortisol measurement,Metabolic,no,high,2,2,0.08
+396205007.0,Insulin sensitivity,Metabolic,no,high,2,2,0.08
+396428006.0,Area under curve,Other,no,medium,2,2,0.08
+405503005.0,Modified Rankin scale,Patient-Reported,yes,high,2,3,0.08
+396550006.0,Laboratory test,Safety,no,high,2,2,0.08
+182840001.0,Treatment response,Other,yes,medium,2,2,0.08
+182840006.0,Remission phase,Metabolic,yes,high,2,2,0.08
+182840001.0,Glucose monitoring,Metabolic,no,high,2,2,0.08
+38888009.0,Adipose tissue,Metabolic,no,high,2,2,0.08
+391040000.0,Bone mineral density,Other,no,high,2,2,0.08
+39156001.0,Body mass index,Anthropometric,no,high,2,2,0.08
+394659003.0,Acute coronary syndrome,Cardiovascular,yes,high,2,2,0.08
+182840001.0,Glucose monitoring,Metabolic,partial,medium,2,2,0.08
+182856006.0,Drug treatment cost,Other,no,medium,2,2,0.08
+182868002.0,Long term outcome,Other,yes,high,2,2,0.08
+166676003.0,Ketone body measurement,Metabolic,no,high,2,2,0.08
+16404004.0,Gastric emptying,Other,no,high,2,2,0.08
+45896001.0,Aspartate aminotransferase measurement,Safety,no,high,2,2,0.08
+46177005.0,Kidney failure,Renal,yes,high,2,2,0.08
+46635009.0,Insulin measurement,Metabolic,no,medium,2,2,0.08
+444254009.0,Postprandial glucose measurement,Metabolic,no,high,2,2,0.08
+47274006.0,Glucagon measurement,Metabolic,no,high,2,3,0.08
+48263008.0,Eating,Other,no,medium,2,2,0.08
+104001.0,Renal plasma flow,Renal,no,high,2,2,0.08
+366157002.0,C-peptide measurement,Metabolic,no,high,2,2,0.08
+365845005.0,Assessment scale,Metabolic,no,medium,2,2,0.08
+365845005.0,Hormone measurement,Other,no,medium,2,2,0.08
+365845006.0,Glucose level,Metabolic,no,medium,2,2,0.08
+365847001.0,Hormone level,Metabolic,no,medium,2,2,0.08
+38033009.0,Adipose tissue,Anthropometric,no,high,2,2,0.08
+365949003.0,Finding of well-being,Patient-Reported,yes,high,2,2,0.08
+370901008.0,Serious reportable event,Safety,partial,medium,2,2,0.08
+386359008.0,Insulin therapy,Metabolic,partial,high,2,2,0.08
+183797002.0,Length of stay,Other,yes,high,2,2,0.08
+182849000.0,Patient compliance,Other,no,high,2,2,0.08
+106148006.0,Sensory perception,Other,no,medium,2,2,0.08
+108369006.0,Neoplasm,Safety,yes,high,2,4,0.08
+104957004.0,Osteocalcin measurement,Metabolic,no,high,2,2,0.08
+386065005.0,Pharmacokinetics,Other,no,high,2,2,0.08
+387517004.0,Paracetamol measurement,Other,no,high,2,2,0.08
+54820008.0,Gastric acid,Other,no,high,2,2,0.08
+55235003.0,C-reactive protein,Metabolic,no,medium,2,2,0.08
+182836005.0,Drug therapy,Other,no,medium,2,2,0.08
+365748003.0,Finding of bone turnover,Other,no,medium,2,2,0.08
+197321007.0,Fatty liver,Metabolic,no,high,2,2,0.08
+197321007.0,Steatosis of liver,Other,no,medium,2,2,0.08
+111989001.0,Stool frequency,Patient-Reported,yes,high,2,2,0.08
+113091000.0,Magnetic resonance imaging,Other,no,high,2,2,0.08
+106125003.0,Ghrelin measurement,Metabolic,no,high,2,2,0.08
+365835005.0,C-peptide measurement,Metabolic,no,high,2,2,0.08
+365845002.0,Glucose metabolism,Metabolic,no,medium,2,2,0.08
+365786009.0,Hormone measurement,Metabolic,no,medium,2,2,0.08
+365786009.0,Hormone measurement,Metabolic,partial,medium,2,2,0.08
+165084003.0,Gastric emptying,Other,no,high,2,2,0.08
+165111000.0,Small bowel transit measurement,Other,no,high,2,2,0.08
+165445009.0,Hormone measurement,Metabolic,no,medium,2,2,0.08
+61946003.0,Motilin,Metabolic,no,high,2,2,0.08
+226370002.0,Fatty acid,Other,no,high,2,2,0.08
+33747003.0,Hormone measurement,Metabolic,no,high,2,2,0.08
+1153593007.0,Body mass index z-score,Anthropometric,no,high,2,2,0.08
+116312005.0,Lipogenesis,Metabolic,no,medium,2,2,0.08
+35516002.0,Antibody measurement,Safety,no,high,2,2,0.08
+364062003.0,Cardiac function,Cardiovascular,no,high,2,2,0.08
+182836005.0,Review of insulin therapy,Metabolic,yes,medium,2,2,0.08
+182836005.0,Review of medication,Metabolic,no,low,2,2,0.08
+4855003.0,Diabetic retinopathy,Other,yes,high,2,2,0.08
+49436004.0,Atrial fibrillation,Cardiovascular,yes,high,2,2,0.08
+49601007.0,Cardiovascular disease,Cardiovascular,yes,high,2,2,0.08
+51761003.0,Glycogenolysis,Metabolic,no,high,2,2,0.08
+52518006.0,Amino acid,Metabolic,no,medium,2,2,0.08
+53741008.0,Coronary atherosclerosis,Cardiovascular,yes,high,2,2,0.08
+59799008.0,Glucagon-like peptide-1,Metabolic,no,high,2,2,0.08
+33747003.0,Hormone measurement,Metabolic,no,medium,2,2,0.08
+33747003.0,Insulin measurement,Metabolic,partial,medium,2,2,0.08
+33747003.0,Leptin measurement,Metabolic,no,medium,2,2,0.08
+313526009.0,Serum C-peptide level,Metabolic,no,high,2,2,0.08
+118185001.0,Pregnancy outcome,Other,yes,high,2,2,0.08
+33747003.0,Glucose measurement,Metabolic,partial,medium,2,2,0.08
+182954008.0,Patient satisfaction,Patient-Reported,yes,medium,2,2,0.08
+226370002.0,Energy intake,Metabolic,no,high,2,2,0.08
+60621009.0,BMI,Anthropometric,no,high,2,2,0.08
+60621009.0,Body mass index,Anthropometric,yes,high,2,3,0.08
+57054005.0,Myocardial infarction,Cardiovascular,yes,medium,2,2,0.08
+57534004.0,Diabetic autonomic neuropathy,Cardiovascular,yes,high,2,2,0.08
+102492008.0,Leucine measurement,Metabolic,no,high,2,2,0.08
+102616008.0,Urine sodium measurement,Renal,no,high,2,2,0.08
+103575008.0,Albumin/creatinine ratio,Renal,no,high,2,2,0.08
+67079006.0,Insulin,Metabolic,no,medium,2,2,0.08
+70106000.0,Lipid measurement,Metabolic,no,high,2,2,0.08
+702666008.0,Glucagon-like peptide 1 level,Metabolic,no,high,2,2,0.08
+70407001.0,Myocardial infarction,Cardiovascular,yes,high,2,2,0.08
+226529007.0,Food intake,Other,partial,high,2,2,0.08
+284018005.0,Hand grip strength,Other,yes,high,2,2,0.08
+313146003.0,Tumor necrosis factor alpha measurement,Metabolic,no,high,2,2,0.08
+303642007.0,Glucagon measurement,Metabolic,no,high,2,2,0.08
+309425004.0,Glycated albumin measurement,Metabolic,no,high,2,2,0.08
+32764006.0,Pancreatic beta cell function,Metabolic,no,high,2,2,0.08
+312480006.0,Bone mineral content,Other,no,high,2,2,0.08
+312681000.0,Bone density,Other,no,high,2,2,0.08
+118246004.0,Laboratory test,Other,no,high,2,2,0.08
+118247008.0,Physical function,Patient-Reported,yes,high,2,2,0.08
+226479002.0,Eating behavior,Patient-Reported,yes,medium,2,2,0.08
+226007002.0,Hepatic steatosis,Metabolic,no,medium,2,2,0.08
+226307002.0,Food intake,Patient-Reported,yes,high,2,2,0.08
+118555000.0,Pharmacokinetic parameter,Other,no,medium,2,3,0.08
+118565006.0,Volume,Other,no,low,2,2,0.08
+302383004.0,Renal plasma flow,Renal,no,high,2,2,0.08
+302866003.0,Hypoglycaemia,Safety,yes,high,2,2,0.08
+302866003.0,Hypoglycemia,Patient-Reported,yes,high,2,2,0.08
+303325008.0,Glucose absorption,Metabolic,no,medium,2,2,0.08
+226317004.0,Metabolism of substrate,Metabolic,no,high,2,2,0.08
+62315008.0,Diarrhea,Safety,yes,high,2,2,0.08
+182817000.0,Drug dose,Other,no,medium,2,2,0.08
+166842003.0,Free fatty acid measurement,Metabolic,no,high,2,2,0.08
+0.0,Unknown measurement,Other,no,low,2,2,0.08
+63846006.0,Albuminuria,Renal,partial,high,2,2,0.08
+64156001.0,Inflammation,Cardiovascular,no,medium,2,2,0.08
+6769007.0,Attention,Patient-Reported,yes,high,2,2,0.08
+708027006.0,Metabolic panel,Metabolic,no,medium,2,2,0.08
+69352005.0,Hormone measurement,Metabolic,no,medium,2,2,0.08
+72042002.0,Satiety,Patient-Reported,yes,high,2,2,0.08
+226524000.0,Eating behavior,Patient-Reported,yes,medium,2,2,0.08
+273529006.0,Dementia rating scale,Patient-Reported,yes,high,2,2,0.08
+273979006.0,Oral glucose tolerance test,Metabolic,no,high,2,2,0.08
+277671004.0,Systolic function,Cardiovascular,no,high,2,2,0.08
+276769001.0,Pulse wave velocity,Cardiovascular,no,high,2,2,0.08
+276885007.0,Pressure,Other,no,medium,2,2,0.08
+276965007.0,Left ventricular diastolic function,Cardiovascular,no,high,2,2,0.08
+277022003.0,Remission phase,Metabolic,yes,high,2,3,0.08
+162076009.0,Excessive appetite,Other,partial,low,2,2,0.08
+162076009.0,Excessive upper gastrointestinal gas,Patient-Reported,yes,medium,2,2,0.08
+162117000.0,Gastric emptying,Other,no,high,2,2,0.08
+277495005.0,Left atrial volume,Cardiovascular,no,high,2,2,0.08
+289120003.0,Gastrointestinal motility,Other,no,medium,2,2,0.08
+289555008.0,Gastrointestinal motility,Other,no,high,2,2,0.08
+278395004.0,Brain function,Other,no,medium,2,3,0.08
+271650006.0,Renin measurement,Cardiovascular,no,high,2,2,0.08
+273302005.0,Disability assessment,Patient-Reported,yes,medium,2,2,0.08
+226529007.0,Water intake,Other,no,high,2,2,0.08
+226553002.0,Energy intake,Anthropometric,no,medium,2,2,0.08
+17177006.0,Renal blood flow,Renal,no,medium,2,2,0.08
+182836005.0,Drug bioavailability,Other,no,medium,2,2,0.08
+70813002.0,Amino acid,Metabolic,no,medium,2,2,0.08
+0.0,Unknown,Anthropometric,no,low,2,2,0.08
+0.0,Unknown,Other,partial,low,2,2,0.08
+70919007.0,Incretin hormone,Metabolic,no,high,2,2,0.08
+71181003.0,Subcutaneous tissue,Anthropometric,no,medium,2,2,0.08
+71181003.0,Ventricular filling,Cardiovascular,no,high,2,2,0.08
+714628002.0,Prediabetes,Metabolic,yes,high,2,2,0.08
+716579001.0,Glucagon-like peptide 1 measurement,Metabolic,no,medium,2,2,0.08
+717749002.0,Glucagon-like peptide 1 measurement,Metabolic,no,high,2,2,0.08
+71878006.0,Calcitonin measurement,Metabolic,no,high,2,2,0.08
+118743005.0,Visceral fat,Anthropometric,no,high,2,2,0.08
+271062006.0,Insulin measurement,Metabolic,no,medium,2,2,0.08
+271062006.0,Insulin sensitivity,Metabolic,no,high,2,2,0.08
+271105004.0,Glucagon-like peptide,Metabolic,no,medium,2,2,0.08
+27113001.0,Body weight,Anthropometric,partial,high,2,2,0.08
+271229000.0,Liver function test,Other,no,medium,2,2,0.08
+271231000.0,Ketone measurement,Metabolic,no,high,2,2,0.08
+162076009.0,Digestive symptom,Patient-Reported,yes,medium,2,2,0.08
+226553002.0,Food preference,Patient-Reported,yes,medium,2,2,0.08
+226646000.0,Bile acid,Metabolic,no,high,2,2,0.08
+271782001.0,Drowsiness,Patient-Reported,yes,high,2,2,0.08
+271327008.0,Hypoglycemia,Safety,yes,medium,2,2,0.08
+271327008.0,Insulin sensitivity,Metabolic,no,high,2,2,0.08
+271327009.0,Insulin measurement,Metabolic,no,high,2,2,0.08
+272379006.0,Event,Other,partial,low,2,2,0.08
+273249006.0,Assessment scales,Patient-Reported,yes,medium,2,2,0.08
+271062006.0,Glucose measurement,Metabolic,no,high,2,2,0.08
+271062006.0,Glucose measurement,Metabolic,no,medium,2,2,0.08
+271062006.0,Hypoglycemia,Metabolic,yes,high,2,2,0.08
+271026005.0,Laboratory test,Safety,no,high,2,2,0.08
+271061004.0,Fasting insulin level,Metabolic,no,high,2,2,0.08
+271061004.0,Glucose tolerance test,Metabolic,no,high,2,2,0.08
+271062006.0,Postprandial glucose measurement,Metabolic,no,medium,2,2,0.08
+271087007.0,Pancreatic hormone measurement,Metabolic,no,medium,2,2,0.08
+271061004.0,Insulin resistance,Metabolic,no,medium,2,2,0.08
+228918008.0,Walking distance,Patient-Reported,yes,medium,2,2,0.08
+2472002.0,Subcutaneous fat,Anthropometric,no,high,2,2,0.08
+247372009.0,Thirst,Patient-Reported,yes,high,2,2,0.08
+23426006.0,Pulmonary function test,Other,no,high,2,2,0.08
+271062006.0,Fasting insulin measurement,Metabolic,no,high,2,2,0.08
+14304000.0,Thyroid disorder,Safety,yes,high,2,2,0.08
+14669001.0,Acute kidney injury,Renal,yes,high,2,2,0.08
+9879006.0,Glucagon measurement,Metabolic,no,medium,2,2,0.08
+90688005.0,Chronic renal failure,Renal,yes,high,2,2,0.08
+0.0,Glucose-dependent insulinotropic polypeptide measurement,Metabolic,no,low,2,2,0.08
+88878007.0,Protein metabolism,Other,no,medium,2,2,0.08
+91138005.0,Vasodilation,Cardiovascular,no,high,2,2,0.08
+89362005.0,Weight loss,Anthropometric,yes,medium,2,2,0.08
+9014002.0,Psoriasis,Other,yes,high,2,2,0.08
+91097005.0,Microcirculation,Cardiovascular,no,high,2,2,0.08
+90708001.0,Kidney disease,Renal,partial,medium,2,2,0.08
+248326004.0,Body composition,Anthropometric,no,high,2,2,0.08
+251913005.0,Exercise tolerance,Other,partial,medium,2,2,0.08
+251992000.0,Fluid intake,Metabolic,no,high,2,2,0.08
+250939007.0,Bone formation,Other,no,high,2,2,0.08
+14740000.0,Triglyceride measurement,Metabolic,no,medium,2,2,0.08
+160573003.0,Alcohol consumption,Other,yes,high,2,2,0.08
+127013003.0,Diabetic nephropathy,Renal,yes,high,2,3,0.08
+250591002.0,Insulin sensitivity,Metabolic,no,high,2,2,0.08
+250599008.0,Insulin sensitivity,Metabolic,no,high,2,2,0.08
+250264003.0,Metabolite measurement,Metabolic,no,medium,2,2,0.08
+250908004.0,Left ventricular function,Cardiovascular,no,high,2,2,0.08
+250604002.0,Measurement of C-reactive protein,Other,no,high,2,2,0.08
+0.0,Peptide YY measurement,Metabolic,no,medium,2,2,0.08
+167217005.0,Urine lithium measurement,Renal,no,high,2,2,0.08
+80274001.0,Glomerular filtration rate,Renal,no,medium,2,3,0.08
+80394007.0,Hyperglycemia,Metabolic,no,medium,2,2,0.08
+84890008.0,Peptide YY measurement,Metabolic,no,medium,2,2,0.08
+85756007.0,Triacylglycerol,Metabolic,no,high,2,2,0.08
+87878005.0,Left ventricular function,Cardiovascular,no,high,2,2,0.08
+84698008.0,Cholesterol measurement,Metabolic,no,high,2,2,0.08
+167217005.0,Urine sodium measurement,Renal,no,high,2,2,0.08
+167217005.0,Urine sodium/creatinine ratio,Renal,no,high,2,2,0.08
+0.0,C-terminal telopeptide measurement,Other,no,low,2,2,0.08
+90688005.0,Kidney disease,Renal,partial,high,1,1,0.04
+0.0,Food tolerance,Other,no,low,1,1,0.04
+0.0,GDF15 measurement,Other,no,low,1,1,0.04
+0.0,Area under curve,Other,no,low,1,1,0.04
+0.0,Appetite regulating hormone measurement,Metabolic,no,low,1,1,0.04
+0.0,Apolipoprotein measurement,Cardiovascular,no,low,1,1,0.04
+0.0,Amylin measurement,Metabolic,no,low,1,1,0.04
+166832002.0,Apolipoprotein B measurement,Cardiovascular,no,high,1,1,0.04
+167242009.0,Urine uric acid measurement,Renal,no,high,1,1,0.04
+167217005.0,Urine protein test,Renal,no,medium,1,1,0.04
+167217005.0,Urine osmolality,Renal,no,medium,1,1,0.04
+87612001.0,Blood volume,Cardiovascular,no,medium,1,1,0.04
+84878005.0,Leptin,Metabolic,no,high,1,1,0.04
+84737005.0,B-type natriuretic peptide measurement,Cardiovascular,no,high,1,1,0.04
+84640000.0,Ventricle structure,Other,no,medium,1,1,0.04
+84614005.0,Bone turnover,Other,no,medium,1,1,0.04
+84116009.0,Nerve fiber,Other,no,medium,1,1,0.04
+88878007.0,Protein metabolism,Metabolic,no,high,1,1,0.04
+88878007.0,Protein measurement,Other,no,high,1,2,0.04
+248300009.0,Percentage body fat,Anthropometric,no,high,1,1,0.04
+248300009.0,Muscle structure,Anthropometric,no,medium,1,1,0.04
+14740000.0,Lipid measurement,Metabolic,no,high,1,1,0.04
+162059005.0,Upset stomach,Patient-Reported,yes,medium,1,1,0.04
+162059005.0,Gastrointestinal symptom,Safety,yes,high,1,2,0.04
+162059005.0,Gastrointestinal symptom,Patient-Reported,yes,high,1,1,0.04
+162031009.0,Epigastric pain,Patient-Reported,yes,medium,1,1,0.04
+160685001.0,Sedentary lifestyle,Other,partial,high,1,1,0.04
+160617001.0,Smoking cessation,Patient-Reported,yes,high,1,1,0.04
+160592001.0,Alcohol consumption,Patient-Reported,yes,high,1,1,0.04
+160573003.0,Alcohol intake,Patient-Reported,yes,medium,1,1,0.04
+160573003.0,Alcohol intake,Patient-Reported,yes,high,1,1,0.04
+248254009.0,Sleep efficiency,Patient-Reported,yes,high,1,1,0.04
+90688005.0,Chronic kidney disease,Renal,yes,medium,1,1,0.04
+90096001.0,Stroke volume,Cardiovascular,no,high,1,1,0.04
+8943002.0,Weight gain,Anthropometric,no,high,1,1,0.04
+250043002.0,Left ventricular systolic dysfunction,Cardiovascular,yes,high,1,1,0.04
+249566008.0,Straining,Patient-Reported,yes,medium,1,1,0.04
+250572002.0,Noradrenaline measurement,Other,no,high,1,1,0.04
+160573003.0,Alcohol intake,Other,yes,medium,1,1,0.04
+248300009.0,Body fat mass,Anthropometric,no,high,1,1,0.04
+249559005.0,Gallbladder motility,Other,no,medium,1,1,0.04
+248957007.0,Menstrual frequency,Other,yes,medium,1,1,0.04
+248957007.0,Menstrual frequency,Other,partial,high,1,1,0.04
+248644002.0,Gastric volume,Other,no,medium,1,1,0.04
+248366005.0,Body fat mass,Anthropometric,no,high,1,1,0.04
+248362008.0,Body composition,Anthropometric,no,high,1,1,0.04
+248362002.0,Lean body mass,Anthropometric,no,high,1,1,0.04
+248362001.0,Body fat distribution,Anthropometric,no,high,1,1,0.04
+248361005.0,Body fat,Anthropometric,no,high,1,1,0.04
+248361005.0,Adipose tissue,Anthropometric,no,medium,1,1,0.04
+248334005.0,Lean body mass,Anthropometric,no,high,1,1,0.04
+250537006.0,Inflammatory marker,Metabolic,no,medium,1,1,0.04
+250533002.0,Colony-stimulating factor,Other,no,high,1,1,0.04
+250770003.0,Liver function test,Other,no,medium,1,1,0.04
+250767009.0,Diastolic function,Cardiovascular,no,high,1,1,0.04
+250767004.0,Oxygen consumption measurement,Other,no,high,1,1,0.04
+250751001.0,Lactate measurement,Metabolic,no,high,1,1,0.04
+250662002.0,Secretion,Other,no,medium,1,1,0.04
+250509003.0,C-reactive protein measurement,Cardiovascular,no,medium,1,1,0.04
+250459009.0,Tumor necrosis factor,Cardiovascular,no,high,1,1,0.04
+250448007.0,Gallbladder volume,Other,no,medium,1,1,0.04
+250445008.0,Biomarker,Other,no,high,1,1,0.04
+250413003.0,Lean body mass,Anthropometric,no,high,1,1,0.04
+250264003.0,Metabolite measurement,Other,no,medium,1,2,0.04
+250171008.0,C-reactive protein measurement,Cardiovascular,no,medium,1,1,0.04
+250138002.0,Liver function test,Safety,no,high,1,1,0.04
+250101002.0,Free testosterone measurement,Other,no,high,1,1,0.04
+250637003.0,Atrial natriuretic peptide measurement,Cardiovascular,no,high,1,1,0.04
+250632002.0,Plasminogen activator inhibitor-1,Cardiovascular,no,high,1,1,0.04
+250631006.0,Angiotensinogen measurement,Renal,no,high,1,1,0.04
+250908004.0,Left ventricular systolic dysfunction,Cardiovascular,no,medium,1,1,0.04
+250908004.0,Left ventricular mass,Cardiovascular,no,high,1,1,0.04
+250908004.0,Ejection fraction,Cardiovascular,no,high,1,1,0.04
+250907007.0,Left ventricular mass,Cardiovascular,no,high,1,1,0.04
+250844005.0,Intracranial pressure,Other,no,high,1,1,0.04
+250540008.0,Inflammatory marker,Safety,no,medium,1,1,0.04
+250537006.0,Protein measurement,Other,no,medium,1,1,0.04
+250537006.0,Laboratory finding,Patient-Reported,yes,low,1,2,0.04
+250537006.0,Laboratory finding,Cardiovascular,no,low,1,1,0.04
+250537006.0,Interleukin-6,Safety,no,medium,1,1,0.04
+250537006.0,Interleukin-1 beta,Other,no,medium,1,1,0.04
+250537006.0,Inflammatory response,Other,no,medium,1,1,0.04
+250537006.0,Inflammatory marker,Other,no,medium,1,1,0.04
+251146004.0,Cardiac function,Cardiovascular,partial,medium,1,1,0.04
+251120003.0,Electrocardiogram abnormal,Cardiovascular,no,high,1,1,0.04
+251074009.0,Arterial stiffness,Cardiovascular,no,high,1,1,0.04
+251061009.0,Pulse wave velocity,Cardiovascular,no,high,1,1,0.04
+251061008.0,Pulse wave velocity,Cardiovascular,no,high,1,1,0.04
+251005.0,Time,Metabolic,no,low,1,1,0.04
+250998008.0,Left ventricular mass,Cardiovascular,no,high,1,1,0.04
+250984009.0,Left ventricular systolic function,Cardiovascular,no,high,1,1,0.04
+250982008.0,Exercise tolerance test,Cardiovascular,no,medium,1,2,0.04
+250965001.0,Wall motion abnormality of cardiac ventricle,Cardiovascular,no,medium,1,1,0.04
+250955004.0,Left atrial volume,Cardiovascular,no,high,1,1,0.04
+250662002.0,Secretion,Metabolic,no,medium,1,1,0.04
+25064002.0,Headache,Safety,yes,high,1,1,0.04
+25064002.0,Headache,Patient-Reported,yes,high,1,1,0.04
+250637004.0,Protein measurement,Other,no,medium,1,1,0.04
+250637004.0,Protein measurement,Other,no,high,1,1,0.04
+248220008.0,Sleep quality,Patient-Reported,yes,high,1,1,0.04
+248146005.0,Energy expenditure,Metabolic,no,high,1,1,0.04
+248103004.0,Energy expenditure,Other,no,high,1,1,0.04
+247787006.0,Appetite,Patient-Reported,yes,medium,1,1,0.04
+247592009.0,Short term memory,Patient-Reported,yes,high,1,1,0.04
+247398009.0,Neuropathic pain,Patient-Reported,yes,high,1,1,0.04
+248326004.0,Length,Anthropometric,no,medium,1,1,0.04
+248326004.0,Anthropometric measurement,Anthropometric,no,medium,1,1,0.04
+248319002.0,Abdominal fat,Anthropometric,no,high,1,1,0.04
+248316003.0,Body fat percentage,Anthropometric,no,high,1,1,0.04
+248304000.0,Lean body mass,Anthropometric,no,high,1,1,0.04
+246158007.0,Neck circumference,Anthropometric,no,high,1,1,0.04
+250834002.0,Exercise tolerance,Other,yes,high,1,1,0.04
+250832004.0,Heart rate variability,Cardiovascular,no,high,1,1,0.04
+250817008.0,Forced vital capacity,Other,no,high,1,1,0.04
+250775008.0,Transcutaneous oxygen tension,Cardiovascular,no,high,1,1,0.04
+14740000.0,Triglycerides measurement,Cardiovascular,no,high,1,1,0.04
+250927001.0,QT interval,Cardiovascular,no,high,1,1,0.04
+250911002.0,Systolic function,Cardiovascular,no,high,1,1,0.04
+250908004.0,Ventricular function,Cardiovascular,no,high,1,1,0.04
+252524003.0,Gastrointestinal transit time,Other,partial,high,1,1,0.04
+252453009.0,Skin conductance measurement,Other,no,medium,1,1,0.04
+252447008.0,Respiratory quotient,Metabolic,no,high,1,1,0.04
+252282001.0,Heart rate variability,Cardiovascular,no,high,1,1,0.04
+252154008.0,Coronary flow velocity reserve,Cardiovascular,no,high,1,1,0.04
+251913007.0,Exercise capacity,Patient-Reported,yes,high,1,1,0.04
+251894007.0,Peripheral perfusion,Cardiovascular,no,medium,1,1,0.04
+251894007.0,Peripheral perfusion,Cardiovascular,no,high,1,1,0.04
+251845008.0,Bioelectrical impedance measurement,Anthropometric,no,medium,1,1,0.04
+251844008.0,Capillary perfusion,Cardiovascular,no,high,1,1,0.04
+250834004.0,Maximum oxygen uptake,Other,partial,high,1,1,0.04
+248254009.0,Sleep disorder,Patient-Reported,yes,high,1,1,0.04
+258749005.0,Normoglycemia,Metabolic,no,high,1,1,0.04
+258666001.0,Incretin,Metabolic,no,high,1,1,0.04
+258162000.0,Tanner stage,Other,no,high,1,1,0.04
+271004006.0,C-peptide measurement,Metabolic,no,high,1,1,0.04
+251208005.0,QT interval,Cardiovascular,no,medium,1,1,0.04
+1269001.0,Area measurement,Cardiovascular,no,medium,1,1,0.04
+160573003.0,Alcohol consumption,Patient-Reported,yes,high,1,1,0.04
+160573003.0,Alcohol consumption,Other,partial,high,1,1,0.04
+160573003.0,Alcohol consumption,Other,no,high,1,1,0.04
+15776009.0,Pancreatic structure,Other,no,medium,1,1,0.04
+15776009.0,Pancreatic disorder,Safety,yes,medium,1,1,0.04
+15776009.0,Pancreatic disorder,Other,yes,medium,1,1,0.04
+15120001.0,Liver function test,Other,no,medium,1,1,0.04
+14775008.0,Urine albumin measurement,Renal,no,high,1,1,0.04
+14743008.0,Albumin/creatinine ratio,Renal,no,medium,1,1,0.04
+14740000.0,Triglycerides measurement,Metabolic,no,high,1,1,0.04
+264395009.0,pH measurement,Other,no,medium,1,1,0.04
+263898009.0,Central retinal thickness,Other,no,high,1,1,0.04
+263844007.0,Survival rate,Patient-Reported,yes,high,1,1,0.04
+263756000.0,Fibrosis,Other,yes,high,1,1,0.04
+263707001.0,Vascular complication,Cardiovascular,yes,high,1,1,0.04
+251148003.0,Body composition,Anthropometric,no,high,1,1,0.04
+26352002.0,Tumor necrosis factor,Other,no,medium,1,1,0.04
+263493007.0,Clinical status,Patient-Reported,yes,medium,1,3,0.04
+262561005.0,Oxidative stress,Other,no,medium,1,1,0.04
+260373001.0,C-reactive protein,Other,no,high,1,1,0.04
+259877003.0,Interleukin-6,Metabolic,no,high,1,1,0.04
+259850009.0,Enolase,Other,no,medium,1,1,0.04
+259725004.0,Bile acid measurement,Metabolic,no,medium,1,1,0.04
+259725004.0,Bile acid measurement,Metabolic,no,high,1,1,0.04
+259679007.0,Protein measurement,Other,no,medium,1,1,0.04
+259031006.0,Transit time,Other,no,medium,1,1,0.04
+236423003.0,Renal failure,Renal,yes,high,1,2,0.04
+235919008.0,Cholelithiasis,Safety,yes,high,1,1,0.04
+248300009.0,Body composition measure,Anthropometric,partial,medium,1,1,0.04
+248300009.0,Body composition measure,Anthropometric,no,medium,1,1,0.04
+248279007.0,Frailty,Patient-Reported,yes,high,1,1,0.04
+248254009.0,Sleep efficiency,Patient-Reported,yes,medium,1,1,0.04
+23426006.0,Rating of perceived exertion,Patient-Reported,yes,high,1,1,0.04
+271000000.0,Insulin secretion,Metabolic,no,medium,1,1,0.04
+27084002.0,Gastric acid measurement,Other,no,medium,1,1,0.04
+269981006.0,Tolerance test,Other,no,medium,1,1,0.04
+269820000.0,Ketone body measurement,Metabolic,no,high,1,1,0.04
+267384006.0,Hypoglycemic episode,Safety,yes,high,1,1,0.04
+267036007.0,Dyspnea,Safety,yes,low,1,1,0.04
+266948004.0,Substance use,Other,no,medium,1,1,0.04
+266919005.0,Never smoked tobacco,Patient-Reported,yes,medium,1,1,0.04
+265764009.0,Renal replacement therapy,Renal,yes,high,1,1,0.04
+271062006.0,Postprandial glucose,Metabolic,no,high,1,1,0.04
+271062006.0,Insulin sensitivity measurement,Metabolic,no,medium,1,1,0.04
+271061004.0,"Glucose measurement, post-meal",Metabolic,no,high,1,1,0.04
+271061004.0,Cerebral blood flow,Cardiovascular,no,high,1,1,0.04
+271061004.0,Blood glucose decreased,Metabolic,yes,high,1,1,0.04
+271060003.0,Metformin measurement,Other,no,high,1,1,0.04
+271059008.0,Glucagon measurement,Metabolic,no,high,1,1,0.04
+271054005.0,Insulin sensitivity,Metabolic,no,high,1,2,0.04
+271050006.0,Serum high density lipoprotein cholesterol level,Cardiovascular,no,high,1,1,0.04
+271030009.0,Calorimetry,Other,no,high,1,1,0.04
+271062006.0,Glucose tolerance test,Metabolic,no,medium,1,1,0.04
+271000000.0,Urine albumin/creatinine ratio,Renal,no,high,1,1,0.04
+24484000.0,Severe nausea,Safety,yes,high,1,1,0.04
+23695003.0,Appetite,Patient-Reported,yes,high,1,1,0.04
+236535009.0,Microangiopathy,Cardiovascular,yes,high,1,1,0.04
+236423003.0,Renal impairment,Renal,no,high,1,1,0.04
+23426006.0,Exercise stress test,Cardiovascular,no,high,1,1,0.04
+233914008.0,Myocardial stunning,Cardiovascular,yes,high,1,1,0.04
+233838007.0,Coronary arteritis,Cardiovascular,no,medium,1,1,0.04
+230686003.0,Toxic nephropathy,Safety,yes,medium,1,1,0.04
+23061005.0,Pancreatic structure,Other,no,low,1,1,0.04
+246453008.0,Disease progression,Patient-Reported,yes,high,1,2,0.04
+246445000.0,Pancreatic beta cell function,Metabolic,no,high,1,1,0.04
+246199000.0,Corneal nerve,Other,no,medium,1,1,0.04
+271062006.0,Fasting glucose measurement,Metabolic,no,high,1,1,0.04
+271062006.0,Fasting,Metabolic,no,medium,1,1,0.04
+271061004.0,Postprandial glucose measurement,Metabolic,no,high,1,1,0.04
+271061004.0,Postprandial blood glucose measurement,Metabolic,no,high,1,1,0.04
+271061004.0,Insulin sensitivity index,Metabolic,no,medium,1,2,0.04
+271067000.0,Postprandial state,Metabolic,no,medium,1,1,0.04
+271065008.0,Glucagon measurement,Metabolic,no,high,1,1,0.04
+271062006.0,Respiratory quotient,Other,no,medium,1,1,0.04
+271103005.0,C-peptide measurement,Metabolic,no,high,1,1,0.04
+271625008.0,Vital signs,Safety,no,medium,1,1,0.04
+271622003.0,Serum amylase measurement,Safety,no,high,1,1,0.04
+118969009.0,Adipose tissue,Anthropometric,no,high,1,1,0.04
+143041000119102.0,Serum osteocalcin measurement,Other,no,high,1,1,0.04
+14140009.0,Hyperkalemia,Safety,yes,high,1,1,0.04
+1386000.0,Intracranial hemorrhage,Safety,yes,high,1,1,0.04
+13645005.0,Chronic obstructive lung disease,Patient-Reported,yes,high,1,1,0.04
+134401001.0,Left ventricular dysfunction,Cardiovascular,yes,high,1,1,0.04
+134401001.0,Left ventricular dysfunction,Cardiovascular,partial,high,1,1,0.04
+129009009.0,Mastication function,Other,no,high,1,1,0.04
+128139000.0,Inflammatory disorder,Other,no,high,1,1,0.04
+128139000.0,Inflammatory disorder,Metabolic,no,medium,1,1,0.04
+12772009.0,Gastric emptying,Other,no,high,1,1,0.04
+23426006.0,Pulmonary function test,Other,no,medium,1,1,0.04
+23426006.0,Exercise tolerance test,Patient-Reported,yes,high,1,1,0.04
+226576004.0,Apolipoprotein B,Metabolic,no,medium,1,1,0.04
+226553002.0,Walking,Metabolic,no,low,1,1,0.04
+226553002.0,Meal tolerance test,Metabolic,no,high,1,1,0.04
+226553002.0,Glycemic index,Metabolic,no,high,1,1,0.04
+226553002.0,Glucose tolerance test,Metabolic,no,high,1,1,0.04
+235856003.0,Disease of biliary tract,Safety,yes,high,1,1,0.04
+235675008.0,Gastroparesis,Safety,yes,high,1,1,0.04
+235596003.0,Disorder of esophageal motility,Other,yes,medium,1,1,0.04
+23475006.0,Exercise capacity,Cardiovascular,yes,high,1,1,0.04
+271236005.0,Serum 25-hydroxyvitamin D measurement,Metabolic,no,high,1,1,0.04
+271229000.0,Liver enzyme measurement,Safety,no,high,1,1,0.04
+271208002.0,Uric acid measurement,Metabolic,no,high,1,1,0.04
+27113001.0,Body weight,Cardiovascular,partial,high,1,1,0.04
+27113001.0,Body weight,Anthropometric,partial,medium,1,1,0.04
+271105004.0,Glucagon-like peptide,Metabolic,no,high,1,1,0.04
+271103005.0,C-peptide measurement,Other,no,medium,1,1,0.04
+272379006.0,Serious adverse event,Safety,yes,high,1,1,0.04
+272133002.0,Reaction time,Other,no,high,1,1,0.04
+272124002.0,Taste sensation,Patient-Reported,yes,medium,1,1,0.04
+271381005.0,Triglycerides measurement,Metabolic,no,medium,1,1,0.04
+271354006.0,Glucose-dependent insulinotropic polypeptide measurement,Metabolic,no,medium,1,1,0.04
+271354006.0,Glucagon measurement,Metabolic,no,high,1,1,0.04
+271327008.0,Insulin sensitivity,Metabolic,no,medium,1,1,0.04
+271244002.0,Abdominal obesity,Anthropometric,no,high,1,1,0.04
+27177008.0,Angiogenesis,Other,no,medium,1,1,0.04
+27171005.0,Urine examination,Renal,no,high,1,1,0.04
+271681002.0,Stomach ache,Patient-Reported,yes,medium,1,1,0.04
+271672002.0,Semen analysis,Other,yes,high,1,1,0.04
+271659009.0,Beta cell function,Metabolic,no,medium,1,1,0.04
+271240003.0,Serum lipid measurement,Metabolic,no,high,1,1,0.04
+228158008.0,Functional assessment,Patient-Reported,yes,medium,1,1,0.04
+226889006.0,Glycogen measurement,Metabolic,no,medium,1,2,0.04
+273302005.0,Neurological assessment,Patient-Reported,yes,medium,1,1,0.04
+273302005.0,Disability rating scale,Patient-Reported,yes,medium,1,1,0.04
+273302005.0,Disability rating scale,Patient-Reported,yes,high,1,1,0.04
+273302005.0,Disability assessment,Patient-Reported,yes,high,1,1,0.04
+273302005.0,Clinical dementia rating scale,Patient-Reported,yes,high,1,1,0.04
+273302005.0,Assessment scale,Patient-Reported,yes,medium,1,1,0.04
+271650006.0,Urine albumin level,Renal,no,high,1,1,0.04
+271650006.0,Renin measurement,Cardiovascular,no,medium,1,1,0.04
+271649006.0,Urine albumin/creatinine ratio,Renal,no,high,1,1,0.04
+271649006.0,Lipid measurement,Metabolic,no,high,1,1,0.04
+271649006.0,Blood chemistry,Metabolic,no,medium,1,1,0.04
+271649006.0,Blood chemistry,Metabolic,no,high,1,1,0.04
+27325002.0,Tumor necrosis factor alpha,Other,no,high,1,1,0.04
+273249006.0,Assessment of satisfaction,Patient-Reported,yes,medium,1,1,0.04
+273249006.0,Assessment of disability,Patient-Reported,yes,medium,1,1,0.04
+273249006.0,Assessment of disability,Patient-Reported,yes,high,1,1,0.04
+122477000.0,Hydrogen measurement,Other,no,medium,1,1,0.04
+121868005.0,Total cholesterol measurement,Cardiovascular,no,high,1,1,0.04
+120878007.0,Enzyme activity,Metabolic,no,medium,1,1,0.04
+120575006.0,Antibody measurement,Safety,no,high,1,1,0.04
+120000000.0,Glucagon-like peptide 1,Metabolic,no,medium,1,1,0.04
+120000000.0,Dipeptidyl peptidase IV,Metabolic,no,medium,1,1,0.04
+273275007.0,Depression rating scale,Patient-Reported,yes,high,1,1,0.04
+271979007.0,Liver structure,Metabolic,no,medium,1,1,0.04
+271861000.0,Insulin sensitivity,Metabolic,no,high,1,1,0.04
+271854001.0,Beta cell function,Metabolic,no,high,1,1,0.04
+271808006.0,Breath test,Other,no,medium,1,1,0.04
+273424008.0,Neuropsychological test,Patient-Reported,yes,high,1,1,0.04
+273421001.0,Activities of daily living,Patient-Reported,yes,high,1,1,0.04
+273339008.0,Cognitive assessment,Patient-Reported,yes,high,1,1,0.04
+273302005.0,Physical functional capacity,Patient-Reported,yes,high,1,1,0.04
+273302005.0,Patient global assessment,Patient-Reported,yes,high,1,1,0.04
+226553002.0,Energy intake,Other,no,medium,1,1,0.04
+226553002.0,Caloric intake,Metabolic,no,medium,1,1,0.04
+226553002.0,Appetite,Metabolic,no,medium,1,1,0.04
+226533002.0,Fat content,Other,no,medium,1,1,0.04
+230589001.0,Wound infection,Safety,yes,high,1,1,0.04
+230572002.0,Diabetic neuropathy,Patient-Reported,yes,high,1,1,0.04
+230572002.0,Diabetic foot ulcer,Other,yes,high,1,1,0.04
+226524004.0,Energy expenditure,Metabolic,no,high,1,1,0.04
+118470004.0,P-selectin measurement,Other,no,high,1,1,0.04
+126877002.0,Dysglycemia,Metabolic,no,high,1,1,0.04
+126851005.0,Neoplasm of pancreas,Safety,yes,high,1,1,0.04
+126067009.0,Neoplasm of thyroid gland,Safety,yes,high,1,1,0.04
+125605004.0,Fracture of bone,Safety,yes,high,1,2,0.04
+125605004.0,Fracture,Safety,yes,high,1,1,0.04
+123037004.0,Tumor suppressor protein,Other,no,medium,1,1,0.04
+122701008.0,C-peptide,Metabolic,no,medium,1,1,0.04
+2776000.0,Delirium,Safety,yes,high,1,1,0.04
+27327002.0,Gastrointestinal pH,Other,no,medium,1,1,0.04
+276428003.0,Carotid intima-media thickness,Cardiovascular,no,high,1,1,0.04
+276361009.0,Waist circumference,Anthropometric,partial,high,1,1,0.04
+276305009.0,Fluid balance,Other,no,medium,1,1,0.04
+27617001.0,Electrocardiogram,Cardiovascular,no,high,1,1,0.04
+275970004.0,Fructosamine measurement,Metabolic,no,high,1,1,0.04
+27550009.0,Endothelial function,Cardiovascular,no,medium,1,1,0.04
+275498002.0,Respiratory tract infection,Safety,yes,high,1,1,0.04
+274667000.0,Injection site pain,Safety,yes,high,1,1,0.04
+273799006.0,Questionnaire response,Patient-Reported,yes,medium,1,1,0.04
+273724008.0,Patient satisfaction,Patient-Reported,yes,high,1,1,0.04
+273546003.0,Global assessment of disease severity,Patient-Reported,yes,high,1,1,0.04
+273302005.0,Assessment scale,Patient-Reported,yes,high,1,1,0.04
+226479007.0,Fluid intake,Other,partial,medium,1,1,0.04
+226553002.0,Fat intake,Other,no,high,1,1,0.04
+276984002.0,Left ventricular mass,Cardiovascular,no,high,1,1,0.04
+276900009.0,Vascular resistance,Cardiovascular,no,high,1,1,0.04
+276892008.0,Glucose clearance,Metabolic,no,high,1,1,0.04
+28230009.0,Sodium excretion,Renal,no,medium,1,1,0.04
+281694009.0,Finding of risk level,Other,no,medium,1,1,0.04
+281647001.0,Serious adverse event,Safety,yes,high,1,1,0.04
+276885007.0,Heart rate variability,Cardiovascular,no,medium,1,1,0.04
+276885007.0,Core body temperature,Other,no,high,1,1,0.04
+276885007.0,Core body pressure,Other,no,low,1,1,0.04
+276765008.0,Pulse wave velocity,Cardiovascular,no,medium,1,1,0.04
+276755008.0,Vascular resistance,Cardiovascular,no,high,1,1,0.04
+276746008.0,Adipose tissue measurement,Other,no,medium,1,1,0.04
+276746008.0,Adipose tissue measurement,Anthropometric,no,medium,1,1,0.04
+278020009.0,Metabolite,Other,no,medium,1,2,0.04
+277892004.0,Endothelial function,Cardiovascular,no,high,1,1,0.04
+277716001.0,Liver fat content,Metabolic,no,medium,1,1,0.04
+160573003.0,Alcohol intake,Other,partial,high,1,2,0.04
+160573003.0,Alcohol intake,Other,no,medium,1,1,0.04
+162408000.0,Symptom,Patient-Reported,yes,medium,1,1,0.04
+162408000.0,General symptom,Safety,yes,medium,1,1,0.04
+162246009.0,Appetite,Patient-Reported,yes,medium,1,1,0.04
+162239005.0,Satiety,Patient-Reported,yes,high,1,1,0.04
+162123002.0,Satiety,Patient-Reported,yes,high,1,1,0.04
+162116003.0,Gastric retention,Safety,yes,medium,1,1,0.04
+16208003.0,Parenteral nutrition,Other,no,medium,1,1,0.04
+162076009.0,Excessive weight loss,Safety,yes,medium,1,1,0.04
+162076009.0,Excessive upper gastrointestinal gas,Patient-Reported,yes,high,1,1,0.04
+226465004.0,Fluid intake,Other,no,high,1,1,0.04
+277387007.0,Cardiac function finding,Cardiovascular,no,medium,1,1,0.04
+277022003.0,Remission phase,Metabolic,yes,medium,1,1,0.04
+277022003.0,Remission,Other,yes,high,1,1,0.04
+276992005.0,Lower esophageal sphincter pressure,Other,no,high,1,1,0.04
+118555000.0,Anatomical structure,Cardiovascular,no,medium,1,1,0.04
+118546009.0,Pharmacokinetic measurement,Other,no,high,1,1,0.04
+281184008.0,Executive function,Patient-Reported,yes,high,1,1,0.04
+279870009.0,Antral follicle count,Other,no,high,1,1,0.04
+278703007.0,Pancreatic beta cell function,Metabolic,no,high,1,1,0.04
+278395004.0,Brain structure,Other,no,medium,1,1,0.04
+278316002.0,Neurological recovery,Patient-Reported,yes,high,1,1,0.04
+298005009.0,Wound healing,Other,yes,high,1,1,0.04
+28779009.0,Platelet aggregation,Cardiovascular,no,high,1,1,0.04
+28726007.0,Structure of retina,Other,no,medium,1,1,0.04
+286641001.0,Mood symptom,Patient-Reported,yes,medium,1,1,0.04
+285854004.0,Emotion,Patient-Reported,yes,high,1,1,0.04
+28499001.0,Glucagon measurement,Metabolic,no,high,1,1,0.04
+284546000.0,Autonomic nervous system function,Cardiovascular,no,medium,1,1,0.04
+284545001.0,Ability to perform activities of daily living,Patient-Reported,yes,high,1,1,0.04
+226524003.0,Energy expenditure,Metabolic,no,high,1,1,0.04
+302479007.0,B-type natriuretic peptide measurement,Cardiovascular,no,high,1,1,0.04
+30217000.0,Cell proliferation,Other,no,medium,1,1,0.04
+300049000.0,Gastrointestinal adverse effect,Safety,yes,high,1,1,0.04
+310369008.0,Beta-hydroxybutyrate measurement,Metabolic,no,high,1,1,0.04
+284472007.0,Hip circumference,Anthropometric,no,high,1,1,0.04
+284472000.0,Thigh circumference,Anthropometric,no,high,1,1,0.04
+116686009.0,Amino acid measurement,Metabolic,no,high,1,1,0.04
+116670007.0,Nutritional assessment,Metabolic,no,high,1,1,0.04
+118692001.0,Physical functional capacity,Patient-Reported,yes,high,1,1,0.04
+118593002.0,Concentration,Other,no,medium,1,1,0.04
+118582008.0,Monitoring procedure,Other,no,low,1,1,0.04
+118571006.0,Substance concentration,Other,no,medium,1,1,0.04
+118565006.0,Volume,Anthropometric,no,medium,1,1,0.04
+118565006.0,Liver structure,Other,no,medium,1,1,0.04
+118565006.0,Body composition,Anthropometric,no,medium,1,1,0.04
+118555000.0,Anatomical structure,Other,no,low,1,1,0.04
+226404007.0,Energy balance,Metabolic,no,high,1,1,0.04
+226374002.0,Methionine,Metabolic,no,high,1,1,0.04
+226529007.0,Postprandial state,Metabolic,no,medium,1,1,0.04
+226529007.0,Lipid intake,Other,no,high,1,1,0.04
+226529007.0,Intake of protein,Other,no,high,1,1,0.04
+226529007.0,Glucose tolerance,Metabolic,no,high,1,1,0.04
+226529007.0,Food intake,Patient-Reported,yes,medium,1,1,0.04
+226529007.0,Food intake,Patient-Reported,yes,high,1,1,0.04
+226529007.0,Food intake,Other,no,medium,1,1,0.04
+226525007.0,Energy expenditure,Metabolic,no,high,1,1,0.04
+28231008.0,Gallbladder structure,Other,no,medium,1,1,0.04
+302866003.0,Hypoglycemic symptom,Safety,yes,medium,1,1,0.04
+302866003.0,Hypoglycemia,Safety,yes,medium,1,1,0.04
+302787009.0,Self monitoring of blood glucose,Metabolic,no,high,1,1,0.04
+302787005.0,Breath test,Other,no,high,1,1,0.04
+302741005.0,Urinary sodium excretion,Renal,no,high,1,1,0.04
+32485007.0,Hospital admission,Other,yes,medium,1,1,0.04
+32398004.0,Metabolic function,Metabolic,partial,low,1,1,0.04
+30965005.0,Interleukin-6,Other,no,high,1,1,0.04
+309586000.0,Cerebral metabolic rate,Other,no,medium,1,1,0.04
+308698004.0,Metabolic process,Metabolic,no,medium,1,1,0.04
+308335008.0,Patient encounter procedure,Other,partial,medium,1,1,0.04
+307148007.0,Gastric emptying,Other,no,high,1,1,0.04
+30428008.0,Mean cell volume,Other,no,high,1,1,0.04
+304088006.0,Hunger,Patient-Reported,yes,medium,1,1,0.04
+303642007.0,Glucagon measurement,Metabolic,no,medium,1,1,0.04
+313268005.0,Mucous membrane structure,Other,no,medium,1,1,0.04
+312975006.0,Microalbuminuria,Renal,partial,high,1,1,0.04
+312975006.0,Microalbuminuria,Renal,no,high,1,1,0.04
+312975006.0,Macroalbuminuria,Renal,yes,high,1,1,0.04
+226405009.0,Free fatty acid measurement,Metabolic,no,high,1,1,0.04
+226404007.0,Energy balance,Metabolic,no,medium,1,1,0.04
+113343008.0,Pancreatic structure,Metabolic,no,medium,1,1,0.04
+118246004.0,Laboratory test,Other,no,medium,1,1,0.04
+118246004.0,Laboratory test,Other,no,low,1,1,0.04
+118246004.0,Laboratory test,Metabolic,no,medium,1,1,0.04
+118246004.0,Hepatic structure,Other,no,medium,1,2,0.04
+118246004.0,Gastric antral area,Other,no,high,1,1,0.04
+118245000.0,Cardiac structure,Cardiovascular,no,medium,1,1,0.04
+118245000.0,Cardiac structure,Cardiovascular,no,high,1,1,0.04
+312975006.0,Macroalbuminuria,Renal,no,high,1,1,0.04
+312909004.0,Hypoglycemic unawareness,Safety,yes,high,1,1,0.04
+312681000.0,Bone mineral density,Other,no,high,1,1,0.04
+312681000.0,Bone density of hip,Anthropometric,no,high,1,1,0.04
+312457005.0,C-peptide measurement,Metabolic,no,high,1,1,0.04
+312263009.0,Steroid hormone,Other,no,high,1,1,0.04
+311465003.0,Perception,Patient-Reported,yes,medium,1,1,0.04
+32485007.0,Hospital admission,Patient-Reported,yes,medium,1,1,0.04
+226061009.0,Food preference,Patient-Reported,yes,medium,1,1,0.04
+226029000.0,Exercise tolerance,Patient-Reported,yes,high,1,1,0.04
+225624000.0,Valsalva maneuver,Cardiovascular,no,medium,1,1,0.04
+225624000.0,Fear,Patient-Reported,yes,medium,1,1,0.04
+225397003.0,Patient preference,Patient-Reported,yes,high,1,1,0.04
+225339009.0,Patient reported outcome,Patient-Reported,yes,medium,1,1,0.04
+225338004.0,Risk assessment,Other,partial,medium,1,1,0.04
+225338004.0,Risk assessment,Other,no,medium,1,1,0.04
+225338004.0,Risk assessment,Cardiovascular,no,high,1,1,0.04
+226479002.0,Eating behavior,Other,no,medium,1,1,0.04
+225334002.0,Administration of drug or medicament,Other,no,low,1,1,0.04
+32007002.0,Colonic motility,Other,no,medium,1,2,0.04
+313835007.0,Insulin measurement,Metabolic,no,high,1,1,0.04
+313681007.0,Sodium measurement,Renal,no,medium,1,1,0.04
+31361005.0,Intimal hyperplasia,Cardiovascular,no,high,1,2,0.04
+113343008.0,Ultrasonographic finding,Other,no,medium,1,1,0.04
+34551002.0,Plasminogen activator inhibitor-1,Cardiovascular,no,high,1,1,0.04
+3442006.0,Ductal epithelium,Other,no,medium,1,1,0.04
+34274004.0,Amino acid measurement,Metabolic,no,high,1,1,0.04
+34164009.0,Lipid metabolism,Metabolic,no,medium,1,1,0.04
+34008004.0,Ovulation,Other,yes,high,1,1,0.04
+34000006.0,Crohn's disease,Patient-Reported,yes,high,1,1,0.04
+33911006.0,Appetite,Patient-Reported,yes,high,1,1,0.04
+33747008.0,Appetite,Patient-Reported,yes,medium,1,1,0.04
+118215003.0,Pregnancy rate,Other,yes,high,1,1,0.04
+118185001.0,Finding relating to pregnancy,Other,yes,high,1,1,0.04
+313418000.0,Plasma resistin level,Metabolic,no,high,1,1,0.04
+33747003.0,Glucose measurement,Metabolic,no,low,1,1,0.04
+33747000.0,Insulin measurement,Metabolic,no,high,1,1,0.04
+32939003.0,Atrophy,Other,no,medium,1,1,0.04
+33747003.0,Insulin,Metabolic,no,high,1,1,0.04
+32230006.0,Malabsorption,Other,yes,high,1,1,0.04
+225314003.0,Risk reduction,Cardiovascular,yes,high,1,1,0.04
+225171007.0,Risk assessment,Cardiovascular,no,medium,1,1,0.04
+225060002.0,Psychological assessment,Patient-Reported,yes,medium,1,1,0.04
+224892003.0,Physical activity satisfaction,Patient-Reported,yes,medium,1,1,0.04
+22253000.0,Pain,Safety,yes,high,1,4,0.04
+22253000.0,Pain,Patient-Reported,yes,medium,1,1,0.04
+21514008.0,Muscle structure,Anthropometric,no,medium,1,1,0.04
+20376005.0,Benign neoplasm,Safety,yes,high,1,1,0.04
+2030006.0,Cerebral edema,Other,yes,high,1,1,0.04
+226369002.0,Oxygen consumption,Other,no,medium,1,1,0.04
+33747003.0,"Glucose measurement, fasting",Metabolic,yes,medium,1,1,0.04
+33747003.0,"Glucose measurement, fasting",Metabolic,partial,high,1,1,0.04
+33747003.0,"Glucose measurement, fasting",Metabolic,no,low,1,1,0.04
+34925000.0,Mitral valve function,Cardiovascular,no,medium,1,1,0.04
+34608008.0,Alanine aminotransferase measurement,Safety,no,high,1,1,0.04
+34608007.0,Alanine aminotransferase measurement,Other,no,high,1,1,0.04
+359705007.0,Carotid intima-media thickness,Cardiovascular,no,high,1,1,0.04
+35789007.0,Triglyceride measurement,Metabolic,no,high,1,2,0.04
+35026007.0,Monocyte count,Other,no,medium,1,1,0.04
+364075005.0,Vital signs,Other,partial,medium,1,1,0.04
+33747005.0,Appetite,Patient-Reported,yes,high,1,1,0.04
+33747003.0,Urine pH,Renal,no,high,1,1,0.04
+111989001.0,Bowel movement,Safety,yes,high,1,1,0.04
+111989001.0,Bowel function,Other,yes,medium,1,1,0.04
+11665008.0,Craving,Patient-Reported,yes,high,1,1,0.04
+116489008.0,Intercellular adhesion molecule-1,Other,no,high,1,1,0.04
+116154003.0,Patient,Other,no,low,1,1,0.04
+116002009.0,Postoperative nausea and vomiting,Safety,yes,high,1,1,0.04
+115785009.0,Serum calcium,Other,no,high,1,1,0.04
+115476005.0,Angiotensinogen measurement,Cardiovascular,no,high,1,1,0.04
+1148523005.0,Measurement of substance,Other,no,low,1,1,0.04
+11464006.0,Vascular resistance,Renal,no,high,1,1,0.04
+365650002.0,Cardiac enzyme measurement,Cardiovascular,no,high,1,1,0.04
+365637002.0,Serum uric acid measurement,Safety,no,high,1,1,0.04
+365636006.0,Aldosterone measurement,Metabolic,no,high,1,1,0.04
+365631008.0,Lipid profile,Metabolic,no,high,1,1,0.04
+365616005.0,Serum uric acid measurement,Metabolic,no,high,1,2,0.04
+113345001.0,Cerebral cortex structure,Other,no,medium,1,1,0.04
+33747003.0,Triglyceride measurement,Metabolic,no,medium,1,1,0.04
+363787002.0,Observable entity,Anthropometric,no,medium,1,1,0.04
+363717008.0,Androgen measurement,Metabolic,no,high,1,1,0.04
+363679005.0,Metabolic rate,Metabolic,no,medium,1,1,0.04
+363478007.0,Malignant neoplasm of thyroid gland,Safety,yes,high,1,1,0.04
+363346000.0,Malignant neoplastic disease,Safety,yes,high,1,1,0.04
+363346000.0,Malignant neoplastic disease,Other,yes,high,1,1,0.04
+363346000.0,Malignant neoplasm,Safety,yes,medium,1,1,0.04
+363269002.0,Withdrawal syndrome,Patient-Reported,yes,high,1,1,0.04
+361340001.0,Pancreatic duct,Other,no,medium,1,1,0.04
+364644000.0,Functional status,Patient-Reported,yes,high,1,1,0.04
+364080003.0,Cardiac function,Cardiovascular,no,high,1,1,0.04
+365779008.0,Hormone level,Metabolic,no,high,1,1,0.04
+365779003.0,Growth factor measurement,Other,no,medium,1,1,0.04
+365771007.0,Pancreatic enzyme measurement,Safety,yes,high,1,1,0.04
+365771007.0,Pancreatic enzyme measurement,Other,no,high,1,1,0.04
+365769003.0,Serum uric acid measurement,Metabolic,no,high,1,1,0.04
+364075005.0,Vital signs,Cardiovascular,no,high,1,1,0.04
+364075005.0,Heart rate variability,Cardiovascular,no,high,1,1,0.04
+364075005.0,Heart rate,Cardiovascular,no,medium,1,1,0.04
+364067007.0,Esophageal function,Other,no,medium,1,1,0.04
+363908000.0,Craving,Patient-Reported,yes,high,1,1,0.04
+363892008.0,Taste sensation,Patient-Reported,yes,medium,1,1,0.04
+363810009.0,Anthropometric measurement,Anthropometric,no,high,1,1,0.04
+363808001.0,Body composition,Anthropometric,no,high,1,1,0.04
+363787002.0,Observable entity,Other,no,low,1,2,0.04
+365723003.0,Hormone level,Metabolic,no,medium,1,1,0.04
+365723003.0,Hormone level,Metabolic,no,high,1,1,0.04
+365689003.0,Troponin I measurement,Cardiovascular,no,high,1,1,0.04
+365797006.0,Urine catecholamine measurement,Metabolic,no,high,1,1,0.04
+365796007.0,Cholesterol measurement,Metabolic,no,high,1,1,0.04
+365796006.0,Cholesterol measurement,Metabolic,no,high,1,1,0.04
+365796005.0,Plasma fibrinogen measurement,Cardiovascular,no,high,1,1,0.04
+365796002.0,Hormone measurement,Metabolic,no,high,1,1,0.04
+365787002.0,Lipid measurement,Metabolic,no,medium,1,1,0.04
+365616005.0,Hematocrit measurement,Other,no,high,1,1,0.04
+365545006.0,Craving,Patient-Reported,yes,high,1,1,0.04
+365512000.0,Activities of daily living,Patient-Reported,yes,high,1,1,0.04
+364701003.0,Insulin secretion,Metabolic,no,high,1,1,0.04
+364667003.0,Physical ability,Patient-Reported,yes,high,1,1,0.04
+364667003.0,Ability to perform general activities,Patient-Reported,yes,high,1,1,0.04
+364644000.0,Task performance,Other,partial,medium,1,1,0.04
+197321007.0,Steatosis of liver,Other,no,high,1,1,0.04
+197321007.0,Steatohepatitis,Other,yes,medium,1,1,0.04
+197279005.0,Hepatic fibrosis,Other,yes,high,1,1,0.04
+197270009.0,Non-alcoholic steatohepatitis,Other,yes,medium,1,1,0.04
+19687001.0,Extrapyramidal symptom,Safety,yes,high,1,1,0.04
+194828000.0,Angina,Patient-Reported,yes,high,1,1,0.04
+190745003.0,Malabsorption,Safety,yes,high,1,1,0.04
+190331003.0,Diabetic ketoacidosis,Safety,yes,high,1,1,0.04
+18720000.0,Somatosensory evoked potential,Other,no,medium,1,1,0.04
+18720000.0,Electroencephalogram,Other,no,medium,1,1,0.04
+185350003.0,Medical consultation,Other,yes,high,1,1,0.04
+225336008.0,Symptom assessment,Patient-Reported,yes,medium,1,1,0.04
+182964004.0,Health status,Other,partial,medium,1,1,0.04
+365756002.0,Amino acid measurement,Metabolic,no,high,1,1,0.04
+365755003.0,Serum sodium measurement,Renal,no,high,1,1,0.04
+365755003.0,Lipid measurement,Metabolic,no,high,1,1,0.04
+365799003.0,Plasma drug concentration,Metabolic,no,medium,1,1,0.04
+365853002.0,Finding of plasma volume,Other,no,high,1,1,0.04
+365787002.0,Finding of measurement,Metabolic,no,medium,1,1,0.04
+365787002.0,Finding of amino acid level,Metabolic,no,medium,1,1,0.04
+365787002.0,Fat measurement,Metabolic,no,medium,1,1,0.04
+365787002.0,Enzyme measurement,Other,no,medium,1,1,0.04
+106063007.0,Cardiovascular finding,Cardiovascular,no,medium,1,1,0.04
+113263003.0,Granulocyte precursor cell,Other,no,low,1,1,0.04
+113237004.0,Metabolite,Other,no,medium,1,1,0.04
+113230001.0,Tryptophan,Metabolic,no,high,1,1,0.04
+113079009.0,Low density lipoprotein cholesterol measurement,Cardiovascular,no,high,1,1,0.04
+113075003.0,Albumin/creatinine ratio measurement,Renal,no,high,1,1,0.04
+113014004.0,Cognitive assessment,Patient-Reported,yes,medium,1,1,0.04
+111989001.0,Stool consistency,Patient-Reported,yes,high,1,1,0.04
+365759009.0,Bile acid measurement,Metabolic,no,high,1,1,0.04
+197321007.0,Steatosis of liver,Other,partial,high,1,1,0.04
+164947007.0,QTc interval,Cardiovascular,no,high,1,3,0.04
+164947007.0,Abnormal electrocardiogram,Cardiovascular,no,high,1,1,0.04
+164890007.0,ST segment depression,Cardiovascular,no,high,1,1,0.04
+164731007.0,Electrophysiology study,Other,no,high,1,1,0.04
+16470007.0,Gastrointestinal motility,Other,no,medium,1,1,0.04
+16404004.0,Pancreatic function,Other,no,high,1,1,0.04
+16404004.0,Gastric emptying,Other,partial,high,1,1,0.04
+182856006.0,Drug costs,Other,yes,high,1,1,0.04
+111989001.0,Defecation,Other,partial,high,1,1,0.04
+365845004.0,Hormone measurement,Metabolic,no,medium,1,1,0.04
+365845004.0,Glucose measurement,Metabolic,no,medium,1,1,0.04
+365845004.0,Area under curve,Patient-Reported,yes,high,1,1,0.04
+365845004.0,Area under curve,Other,no,medium,1,1,0.04
+365812005.0,Plasma glucose measurement,Metabolic,no,high,1,1,0.04
+365800008.0,Troponin I measurement,Cardiovascular,no,high,1,1,0.04
+365799003.0,Plasma drug concentration,Other,no,medium,1,1,0.04
+373930000.0,Neurological improvement,Other,yes,high,1,1,0.04
+3727004.0,Calcitonin measurement,Safety,no,high,1,1,0.04
+365845008.0,Triglyceride measurement,Metabolic,no,medium,1,1,0.04
+365845007.0,Serum glucose measurement,Metabolic,no,medium,1,1,0.04
+365845007.0,Inflammation marker,Other,no,medium,1,1,0.04
+365845007.0,Hormone measurement,Metabolic,no,high,1,1,0.04
+365845006.0,Laboratory test finding,Other,no,medium,1,1,0.04
+370901008.0,Serious reportable event,Safety,partial,low,1,1,0.04
+370507003.0,Corneal structure,Other,no,medium,1,1,0.04
+368581000119106.0,Neuropathy due to diabetes mellitus,Other,yes,high,1,1,0.04
+111989001.0,Stool consistency,Other,partial,medium,1,1,0.04
+182954008.0,Treatment satisfaction,Patient-Reported,yes,high,1,1,0.04
+162076009.0,Defecation frequency,Patient-Reported,yes,high,1,1,0.04
+165653004.0,Parathyroid hormone measurement,Metabolic,no,high,1,1,0.04
+165084006.0,Phenylalanine measurement,Metabolic,no,high,1,1,0.04
+165084003.0,Gastric emptying,Other,no,medium,1,1,0.04
+385644000.0,Requested,Patient-Reported,yes,medium,1,1,0.04
+385540008.0,Glucagon-like peptide-1 measurement,Metabolic,no,high,1,2,0.04
+384559008.0,Receptor measurement,Other,no,medium,1,1,0.04
+38341003.0,Hypertensive disorder,Cardiovascular,yes,high,1,1,0.04
+366085009.0,Exercise,Patient-Reported,yes,high,1,1,0.04
+365952006.0,Sexual function,Patient-Reported,yes,high,1,1,0.04
+365861007.0,Oxyntomodulin measurement,Metabolic,no,medium,1,1,0.04
+365861007.0,Enzyme measurement,Metabolic,no,high,1,1,0.04
+365860008.0,Finding related to risk factor,Cardiovascular,no,medium,1,1,0.04
+365860008.0,Biomarker,Cardiovascular,no,medium,1,1,0.04
+365854008.0,Assessment scale,Patient-Reported,yes,medium,1,4,0.04
+365853002.0,Metabolic measurement,Metabolic,partial,medium,1,1,0.04
+365853002.0,Glycemic control,Metabolic,no,high,1,1,0.04
+38040008.0,Subcutaneous adipose tissue,Anthropometric,no,high,1,1,0.04
+38033009.0,Visceral adipose tissue,Anthropometric,no,medium,1,1,0.04
+38018009.0,Atherosclerotic cardiovascular disease,Cardiovascular,yes,high,1,1,0.04
+38716007.0,Atherosclerotic disease,Cardiovascular,yes,high,1,1,0.04
+386807006.0,Behavioral assessment,Patient-Reported,yes,medium,1,1,0.04
+386806002.0,Cognitive function,Patient-Reported,yes,high,1,1,0.04
+386806002.0,Cardiac autonomic function,Cardiovascular,no,high,1,1,0.04
+386692008.0,Menstrual bleeding,Patient-Reported,yes,medium,1,1,0.04
+386482000.0,Food preference,Patient-Reported,yes,high,1,1,0.04
+386134007.0,Gastrointestinal tract function,Other,partial,medium,1,1,0.04
+371172007.0,Strain,Cardiovascular,no,medium,1,2,0.04
+371142006.0,Apnea-hypopnea index,Other,yes,high,1,1,0.04
+370992007.0,Dyslipidemia,Cardiovascular,yes,high,1,1,0.04
+370903001.0,Adverse event,Safety,yes,high,1,1,0.04
+370901008.0,Serious reportable event,Safety,yes,high,1,1,0.04
+386053000.0,Evaluation procedure,Metabolic,no,low,1,1,0.04
+386053000.0,Endothelial function,Cardiovascular,no,high,1,1,0.04
+385676005.0,Patient satisfaction,Patient-Reported,yes,high,1,1,0.04
+385669000.0,Successful,Other,partial,medium,1,1,0.04
+182849000.0,Patient compliance,Safety,yes,high,1,1,0.04
+183797002.0,Length of stay in hospital,Other,yes,medium,1,1,0.04
+183797002.0,Length of stay in hospital,Other,yes,high,1,1,0.04
+183240000.0,Self-care of diabetes,Patient-Reported,yes,medium,1,1,0.04
+182985004.0,Patient reported outcome,Patient-Reported,yes,high,1,1,0.04
+182964004.0,Treatment satisfaction,Patient-Reported,yes,medium,1,1,0.04
+182964004.0,Treatment satisfaction,Patient-Reported,yes,high,1,1,0.04
+182964004.0,Treatment efficacy,Other,yes,medium,1,1,0.04
+182964004.0,Patient treatment compliance,Patient-Reported,yes,medium,1,1,0.04
+182964004.0,Healthcare resource utilization,Other,partial,medium,1,1,0.04
+182964004.0,Health status,Patient-Reported,yes,medium,1,1,0.04
+182840001.0,Therapeutic target,Other,no,medium,1,1,0.04
+38266002.0,Adipose tissue,Anthropometric,no,high,1,1,0.04
+38102005.0,Cholecystectomy,Safety,yes,high,1,1,0.04
+387475002.0,Adrenaline,Other,no,medium,1,1,0.04
+387467008.0,Metformin,Other,no,medium,1,1,0.04
+390157004.0,6 minute walk test distance,Patient-Reported,yes,high,1,1,0.04
+387713003.0,Surgical procedure,Other,yes,high,1,1,0.04
+387517004.0,Paracetamol,Other,no,medium,1,1,0.04
+104957004.0,Plasma renin activity measurement,Renal,no,high,1,1,0.04
+109875007.0,Hepatic structure,Other,no,medium,1,1,0.04
+108725001.0,Glucagon-like peptide,Metabolic,no,high,1,1,0.04
+108711000.0,Glucagon-like peptide-1,Metabolic,no,medium,1,1,0.04
+1.08390710001191e+16,Inflammatory marker,Other,no,high,1,1,0.04
+106148006.0,Sensory perception,Other,partial,medium,1,1,0.04
+106136008.0,Memory function,Patient-Reported,yes,high,1,1,0.04
+106131003.0,Mood,Patient-Reported,yes,medium,1,1,0.04
+106126000.0,Emotional state,Patient-Reported,yes,high,1,1,0.04
+386053000.0,Evaluation procedure,Safety,yes,medium,1,2,0.04
+38266002.0,Pancreatic duct structure,Other,no,medium,1,1,0.04
+182856006.0,Drug compliance,Patient-Reported,yes,medium,1,1,0.04
+182856000.0,Withdrawal of feeding,Other,yes,medium,1,1,0.04
+182840001.0,Smoking cessation,Other,yes,high,1,1,0.04
+182840001.0,Review of diabetes mellitus,Metabolic,no,high,1,1,0.04
+182840001.0,Remission of diabetes mellitus,Metabolic,yes,high,1,1,0.04
+182840001.0,Procedure by method,Safety,no,low,1,1,0.04
+182890002.0,Patient refusal of treatment,Patient-Reported,yes,medium,1,1,0.04
+182856008.0,Pain relief,Patient-Reported,yes,high,1,1,0.04
+182856006.0,Relief of pain,Patient-Reported,yes,high,1,1,0.04
+182856006.0,Healthcare cost,Other,no,medium,1,1,0.04
+182856006.0,Drug treatment preferences,Patient-Reported,yes,high,1,1,0.04
+39477002.0,Feces,Other,no,medium,1,1,0.04
+394656005.0,Acute coronary syndrome,Cardiovascular,yes,high,1,1,0.04
+39138009.0,Breath test,Other,no,high,1,1,0.04
+391040000.0,Bone density,Other,no,high,1,1,0.04
+390963002.0,Serum calcium measurement,Metabolic,no,high,1,1,0.04
+390906007.0,Follow-up encounter,Other,no,medium,1,1,0.04
+390882005.0,Plasminogen activator inhibitor measurement,Other,no,medium,1,1,0.04
+396550006.0,Gene expression,Other,no,medium,1,1,0.04
+396522004.0,Bone resorption,Other,no,high,1,1,0.04
+405171008.0,Neurological assessment,Other,yes,high,1,1,0.04
+405145000.0,Genetic polymorphism,Other,no,medium,1,1,0.04
+396456008.0,Sperm count,Other,no,medium,1,1,0.04
+396441000.0,Sperm count,Other,partial,high,1,2,0.04
+396428006.0,Area under curve,Other,no,high,1,1,0.04
+396332003.0,Atrial natriuretic peptide,Cardiovascular,no,high,1,1,0.04
+396331005.0,GLP-1 measurement,Metabolic,no,medium,1,1,0.04
+396152003.0,Feces examination,Other,no,high,1,1,0.04
+396077009.0,Ankle brachial pressure index,Cardiovascular,no,high,1,1,0.04
+395535009.0,Tumor necrosis factor alpha measurement,Other,no,high,1,1,0.04
+395124008.0,Serum tryptophan level,Other,no,medium,1,1,0.04
+395026004.0,Urine albumin/creatinine ratio,Renal,no,high,1,1,0.04
+394851004.0,Insulin signaling pathway,Other,no,medium,1,1,0.04
+399103007.0,Coronary artery calcium scoring,Cardiovascular,no,high,1,1,0.04
+182840001.0,Drug treatment stopped,Safety,no,high,1,1,0.04
+182849000.0,Glycemic control,Metabolic,no,high,1,1,0.04
+182842009.0,Glucose variability,Metabolic,partial,medium,1,1,0.04
+182842003.0,Weight loss finding,Anthropometric,no,high,1,1,0.04
+182840001.0,Use of insulin,Other,yes,high,1,1,0.04
+182840001.0,Treatment discontinuation,Safety,yes,high,1,1,0.04
+182840001.0,Treatment discontinuation,Safety,partial,high,1,1,0.04
+182840001.0,Drug therapy discontinued,Other,yes,medium,1,1,0.04
+398171008.0,Collagen crosslinks measurement,Other,no,medium,1,1,0.04
+398067008.0,Insulin resistance,Metabolic,no,high,1,1,0.04
+398032008.0,Renal tubular function,Renal,no,high,1,1,0.04
+397803000.0,Erectile dysfunction,Patient-Reported,yes,high,1,1,0.04
+397693008.0,Erectile function,Patient-Reported,yes,high,1,1,0.04
+39762001.0,Left ventricular ejection fraction,Cardiovascular,no,high,1,1,0.04
+397575009.0,Intestinal motility,Other,no,high,1,1,0.04
+396993008.0,Semen analysis,Other,no,high,1,1,0.04
+405143004.0,Assessment using modified Rankin scale,Patient-Reported,yes,high,1,1,0.04
+405094008.0,Craving for tobacco,Patient-Reported,yes,high,1,1,0.04
+405053002.0,Functional assessment,Patient-Reported,yes,high,1,1,0.04
+405052009.0,Patient satisfaction,Patient-Reported,yes,high,1,1,0.04
+405005005.0,Flow mediated dilatation,Cardiovascular,no,medium,1,1,0.04
+405005005.0,Flow mediated dilatation,Cardiovascular,no,high,1,1,0.04
+404227002.0,Endogenous insulin,Metabolic,no,high,1,1,0.04
+40415009.0,Echocardiography,Cardiovascular,no,medium,1,1,0.04
+404134002.0,High sensitivity C-reactive protein measurement,Other,no,high,1,1,0.04
+400975006.0,Glucose production,Metabolic,no,high,1,1,0.04
+399915001.0,Taste sensation,Other,partial,medium,1,1,0.04
+39983000.0,Insulin secretion rate,Metabolic,no,medium,1,1,0.04
+399013008.0,Hirsutism,Other,yes,high,1,1,0.04
+182840001.0,Glucose control,Metabolic,no,medium,1,1,0.04
+182840001.0,Drug withdrawal,Safety,yes,medium,1,1,0.04
+182840001.0,Drug treatment stopped,Safety,yes,medium,1,1,0.04
+414237006.0,Gene expression,Other,no,high,1,1,0.04
+413712001.0,Serum ghrelin measurement,Metabolic,no,high,1,1,0.04
+40701008.0,Echocardiogram,Cardiovascular,no,high,1,1,0.04
+40683002.0,Cardiac function study,Cardiovascular,no,high,1,1,0.04
+406505007.0,Arterial structure,Cardiovascular,no,medium,1,1,0.04
+40617009.0,Mechanical ventilation,Safety,yes,high,1,1,0.04
+40617009.0,Artificial respiration,Other,yes,medium,1,1,0.04
+405613005.0,Neurological finding,Patient-Reported,yes,medium,1,1,0.04
+405508009.0,Patient satisfaction with treatment,Patient-Reported,yes,high,1,1,0.04
+405508009.0,Patient satisfaction,Patient-Reported,yes,high,1,1,0.04
+405508009.0,Patient experience,Patient-Reported,yes,high,1,1,0.04
+405503005.0,Rankin scale,Patient-Reported,yes,high,1,1,0.04
+412528005.0,Glucagon-like peptide-1 measurement,Metabolic,no,high,1,1,0.04
+412373001.0,Proinsulin measurement,Metabolic,no,high,1,1,0.04
+412222002.0,Insulin dose,Metabolic,no,high,1,1,0.04
+410668003.0,Length of time,Other,no,low,1,1,0.04
+418004005.0,Postprandial glucose,Metabolic,partial,high,1,1,0.04
+418004005.0,Postprandial glucose,Metabolic,no,high,1,1,0.04
+417005.0,Hospital re-admission,Patient-Reported,yes,high,1,1,0.04
+410668003.0,Length of time,Metabolic,no,medium,1,1,0.04
+410605003.0,Evaluation of blood glucose,Metabolic,no,medium,1,1,0.04
+410519009.0,Cardiovascular risk,Cardiovascular,no,high,1,1,0.04
+40930008.0,Cardiac function,Cardiovascular,no,medium,1,1,0.04
+408764000.0,Metabolomics,Other,no,high,1,1,0.04
+414920004.0,Glucagon-like peptide 2,Metabolic,no,high,1,1,0.04
+414919005.0,Glucagon-like peptide 1,Metabolic,no,high,1,1,0.04
+414916001.0,Obesity,Anthropometric,partial,high,1,1,0.04
+414916001.0,Obesity,Anthropometric,no,medium,1,1,0.04
+414652005.0,Adiponectin,Metabolic,no,high,1,1,0.04
+414651003.0,Leptin,Metabolic,no,high,1,1,0.04
+414644008.0,Glucose-dependent insulinotropic peptide,Metabolic,no,high,1,1,0.04
+414585002.0,Work performance,Patient-Reported,yes,medium,1,2,0.04
+104957006.0,Neuron-specific enolase measurement,Other,no,high,1,1,0.04
+104957004.0,Testosterone measurement,Other,no,high,1,1,0.04
+104957004.0,Testosterone measurement,Metabolic,no,medium,1,1,0.04
+104957004.0,Testosterone measurement,Metabolic,no,high,1,1,0.04
+104957004.0,Reproductive hormone,Metabolic,no,medium,1,1,0.04
+412808005.0,Cholesterol measurement,Cardiovascular,no,high,1,1,0.04
+412685002.0,Urine microalbumin measurement,Renal,no,high,1,1,0.04
+412528005.0,Glucagon-like peptide-1 measurement,Metabolic,no,medium,1,1,0.04
+419199007.0,Allergy to substance,Safety,yes,high,1,1,0.04
+418799008.0,Symptom,Safety,yes,medium,1,1,0.04
+418714002.0,Medication adherence,Other,partial,high,1,1,0.04
+418714002.0,Adherence to treatment,Other,partial,high,1,1,0.04
+418633004.0,Medication adherence,Other,yes,high,1,1,0.04
+418633004.0,Medication adherence,Other,no,medium,1,1,0.04
+418328003.0,C-peptide measurement,Metabolic,no,high,1,1,0.04
+418285008.0,Revascularization,Cardiovascular,yes,high,1,1,0.04
+182840001.0,Drug therapy discontinued,Other,partial,low,1,1,0.04
+182840001.0,Drug therapy discontinued,Other,partial,high,1,1,0.04
+182840001.0,Drug therapy discontinued,Metabolic,yes,medium,1,1,0.04
+182840001.0,Drug therapy cost,Other,partial,medium,1,1,0.04
+182840001.0,Drug therapy,Safety,partial,medium,1,1,0.04
+182840001.0,Procedure by method,Other,yes,low,1,1,0.04
+182840001.0,Procedure by method,Metabolic,partial,medium,1,1,0.04
+182840001.0,Procedure by method,Metabolic,no,low,1,1,0.04
+182840001.0,Intervention feasibility,Safety,yes,medium,1,1,0.04
+104451003.0,Fructosamine measurement,Metabolic,no,high,1,1,0.04
+106019003.0,Neurological examination,Patient-Reported,yes,medium,1,1,0.04
+105610006.0,Alkaline phosphatase measurement,Other,no,high,1,1,0.04
+105579009.0,Conduction disorder of the heart,Cardiovascular,yes,high,1,1,0.04
+105006007.0,Renal perfusion,Renal,no,high,1,1,0.04
+105000003.0,Troponin I measurement,Cardiovascular,no,high,1,1,0.04
+104993003.0,Follicle stimulating hormone measurement,Metabolic,no,medium,1,1,0.04
+431314004.0,Insulin-like growth factor measurement,Metabolic,no,low,1,1,0.04
+431314004.0,Insulin secretion,Metabolic,no,high,1,1,0.04
+431314004.0,Incretins measurement,Metabolic,no,high,1,1,0.04
+104957004.0,Protein measurement,Metabolic,no,medium,1,1,0.04
+415582006.0,Stenosis,Cardiovascular,no,medium,1,1,0.04
+422504002.0,Ischemic stroke,Cardiovascular,yes,high,1,1,0.04
+422145002.0,Injection,Other,no,high,1,1,0.04
+422119006.0,Heart rate variability,Cardiovascular,no,high,1,1,0.04
+421890007.0,Glucagon-like peptide 1,Metabolic,partial,high,1,1,0.04
+421081005.0,Peptide YY,Other,no,medium,1,1,0.04
+420422005.0,Diabetic foot ulcer,Safety,yes,high,1,1,0.04
+420270002.0,Severe hypoglycaemia,Safety,yes,high,1,1,0.04
+419620001.0,Death,Safety,yes,high,1,1,0.04
+429622005.0,ST segment depression,Cardiovascular,no,high,1,1,0.04
+429524009.0,Carotid atherosclerotic plaque,Cardiovascular,no,high,1,1,0.04
+416471007.0,Protein measurement,Cardiovascular,no,medium,1,1,0.04
+432102000.0,Administration of substance,Other,no,medium,1,2,0.04
+432102000.0,Administration of medication,Other,no,medium,1,1,0.04
+432102000.0,Administration of insulin,Metabolic,partial,high,1,1,0.04
+431897003.0,Glucose-dependent insulinotropic polypeptide,Metabolic,no,high,1,1,0.04
+431857002.0,Renal blood flow,Renal,no,high,1,1,0.04
+431857002.0,Chronic kidney disease,Renal,partial,medium,1,1,0.04
+431855005.0,Renal perfusion,Renal,no,medium,1,1,0.04
+431855005.0,Renal perfusion,Renal,no,high,1,2,0.04
+431744004.0,Global longitudinal strain,Cardiovascular,no,medium,1,1,0.04
+429040005.0,Ulcer,Safety,yes,high,1,1,0.04
+429040005.0,Ulcer,Patient-Reported,yes,high,1,1,0.04
+428678009.0,Left ventricular end-systolic volume,Cardiovascular,no,high,1,1,0.04
+428640006.0,Left ventricular end-diastolic volume,Cardiovascular,no,high,1,1,0.04
+427058005.0,Six-minute walk test,Patient-Reported,yes,high,1,1,0.04
+426897009.0,Insulin-like growth factor I measurement,Metabolic,no,high,1,1,0.04
+431314004.0,Serum leptin measurement,Metabolic,no,high,1,1,0.04
+182840001.0,Drug therapy,Metabolic,no,medium,1,1,0.04
+182840001.0,Drug dosage,Other,no,high,1,1,0.04
+182840001.0,Drug compliance,Other,no,high,1,2,0.04
+182840001.0,Drug compliance,Metabolic,yes,medium,1,1,0.04
+182840001.0,Drug adherence,Patient-Reported,yes,medium,1,1,0.04
+182840001.0,Drug adherence,Patient-Reported,yes,high,1,1,0.04
+182840001.0,Diabetic monitoring,Metabolic,partial,medium,1,1,0.04
+182840001.0,Drug treatment stopped,Metabolic,no,medium,1,1,0.04
+182840001.0,Drug treatment failure,Other,no,high,1,1,0.04
+182840001.0,Drug treatment,Other,no,low,1,1,0.04
+182840001.0,Drug therapy finding,Safety,yes,medium,1,1,0.04
+165966007.0,Urine protein/creatinine ratio,Renal,no,high,1,1,0.04
+430688003.0,Leptin measurement,Metabolic,no,high,1,1,0.04
+430677003.0,Adiponectin measurement,Metabolic,no,high,1,1,0.04
+429651008.0,Myocardial wall motion,Cardiovascular,no,medium,1,1,0.04
+432102000.0,Administration of substance abuse screening questionnaire,Patient-Reported,yes,medium,1,1,0.04
+43878008.0,Stratum corneum measurement,Metabolic,no,low,1,1,0.04
+434912009.0,"Blood glucose measurement, postprandial",Metabolic,no,high,1,1,0.04
+434912009.0,Blood glucose concentration,Metabolic,no,high,1,1,0.04
+103740009.0,Executive function,Patient-Reported,yes,high,1,1,0.04
+104957004.0,Calcitonin measurement,Metabolic,no,high,1,1,0.04
+104955008.0,Sodium clearance,Renal,no,high,1,1,0.04
+104953008.0,Alanine aminotransferase measurement,Safety,no,high,1,1,0.04
+104746007.0,C-peptide level,Metabolic,no,high,1,1,0.04
+104508007.0,Parathyroid hormone measurement,Metabolic,no,high,1,1,0.04
+104485008.0,Urine albumin/creatinine ratio,Renal,no,high,1,1,0.04
+104485008.0,Triglyceride measurement,Metabolic,no,high,1,1,0.04
+104485008.0,Protein measurement,Safety,no,medium,1,1,0.04
+104485008.0,Plasma vitamin A level,Metabolic,no,medium,1,1,0.04
+104485008.0,Lipid measurement,Metabolic,no,high,1,1,0.04
+104485008.0,Lactate measurement,Metabolic,no,high,1,1,0.04
+104485008.0,Free fatty acid measurement,Metabolic,no,high,1,1,0.04
+182837001.0,Time in range,Metabolic,no,medium,1,1,0.04
+182837001.0,Insulin administration,Metabolic,no,medium,1,1,0.04
+182837001.0,Glucose tolerance test,Metabolic,no,high,1,1,0.04
+182837001.0,Glucose control,Metabolic,no,medium,1,1,0.04
+182837001.0,Glucose control,Metabolic,no,high,1,1,0.04
+182837001.0,Drug concentration,Metabolic,no,medium,1,1,0.04
+182840001.0,Drug therapy,Patient-Reported,yes,medium,1,1,0.04
+43396009.0,Hemoglobin A1c measurement,Metabolic,no,medium,1,1,0.04
+43396009.0,HbA1c measurement,Metabolic,yes,high,1,1,0.04
+43396009.0,Haemoglobin A1c measurement,Metabolic,partial,medium,1,1,0.04
+43396009.0,Haemoglobin A1c measurement,Metabolic,no,medium,1,1,0.04
+43396009.0,Haemoglobin A1c level,Metabolic,partial,high,1,1,0.04
+43339004.0,Hypokalemia,Safety,yes,high,1,1,0.04
+432654009.0,Visceral adipose tissue,Anthropometric,no,high,1,1,0.04
+439558008.0,High sensitivity C-reactive protein measurement,Other,no,high,1,1,0.04
+439470001.0,Liver stiffness,Other,no,high,1,1,0.04
+442099009.0,Homeostatic model assessment,Metabolic,no,high,1,1,0.04
+441900009.0,Substance measurement,Other,no,medium,1,1,0.04
+434911002.0,Glucagon-like peptide 1 measurement,Metabolic,no,high,1,1,0.04
+434789008.0,Ghrelin measurement,Metabolic,no,medium,1,1,0.04
+4341006.0,Liver fibrosis,Other,partial,high,1,1,0.04
+43396009.0,Hemoglobin A1c measurement,Metabolic,partial,medium,1,1,0.04
+441742003.0,N-terminal pro-brain natriuretic peptide level,Cardiovascular,no,high,1,1,0.04
+441742003.0,N-terminal pro-brain natriuretic peptide,Cardiovascular,no,high,1,1,0.04
+441742003.0,Laboratory test,Safety,no,medium,1,1,0.04
+441742003.0,Galectin-3,Cardiovascular,no,high,1,1,0.04
+441742003.0,Evaluation of protein,Other,no,medium,1,1,0.04
+441742003.0,Evaluation of inflammatory response,Other,no,medium,1,1,0.04
+441689006.0,N-terminal pro-B-type natriuretic peptide measurement,Cardiovascular,no,high,1,1,0.04
+431315003.0,Glucagon-like peptide 2 measurement,Metabolic,no,high,1,1,0.04
+182840001.0,Change of medication,Other,partial,medium,1,1,0.04
+182840001.0,Additional therapy,Other,no,medium,1,1,0.04
+445969008.0,Glucagon-like peptide 1 measurement,Metabolic,no,high,1,1,0.04
+445620007.0,N-terminal pro-brain natriuretic peptide measurement,Cardiovascular,no,high,1,1,0.04
+44469004.0,Suicidal ideation,Safety,yes,high,1,2,0.04
+444641009.0,Glucagon-like peptide 1,Metabolic,no,medium,1,1,0.04
+444641009.0,Glucagon-like peptide 1,Metabolic,no,high,1,1,0.04
+444559007.0,Procollagen type I N-terminal propeptide measurement,Metabolic,no,high,1,1,0.04
+441689006.0,C-terminal telopeptide measurement,Other,no,high,1,1,0.04
+441689006.0,C-terminal telopeptide measurement,Cardiovascular,no,medium,1,1,0.04
+441673009.0,Amylin measurement,Metabolic,no,medium,1,1,0.04
+441648004.0,Gastrin measurement,Metabolic,no,medium,1,1,0.04
+44132006.0,Granulation tissue,Other,no,medium,1,1,0.04
+443944001.0,Free androgen index,Other,no,high,1,1,0.04
+443908001.0,Ghrelin,Metabolic,no,high,1,1,0.04
+442443008.0,Pulse wave velocity measurement,Cardiovascular,no,high,1,2,0.04
+442375000.0,Anti-drug antibody,Safety,no,high,1,1,0.04
+4421005.0,Cell count,Other,no,medium,1,1,0.04
+182836005.0,Review of treatment,Other,yes,medium,1,2,0.04
+182836005.0,Review of patient safety,Safety,yes,medium,1,1,0.04
+162673000.0,Clinical evaluation,Other,no,high,1,1,0.04
+166830008.0,Serum cholesterol,Cardiovascular,no,high,1,1,0.04
+166825005.0,Parathyroid hormone measurement,Metabolic,no,high,1,1,0.04
+166778002.0,Urine albumin/creatinine ratio,Renal,no,high,1,1,0.04
+166756003.0,Triglyceride measurement,Metabolic,no,high,1,1,0.04
+166677007.0,Bone marker measurement,Other,no,medium,1,1,0.04
+166642005.0,C-reactive protein measurement,Other,no,medium,1,1,0.04
+166607005.0,Urine sodium measurement,Renal,no,high,1,1,0.04
+441862004.0,Genetic analysis,Other,no,high,1,1,0.04
+441862004.0,Bacteria count,Other,no,medium,1,1,0.04
+441773005.0,Fibroblast growth factor 21,Metabolic,no,high,1,1,0.04
+45007003.0,Low blood pressure,Cardiovascular,yes,medium,1,1,0.04
+45007003.0,Hypotension,Cardiovascular,yes,high,1,1,0.04
+44873008.0,Renal function finding,Renal,partial,medium,1,1,0.04
+47396005.0,Insulin secretion,Metabolic,no,high,1,1,0.04
+102484005.0,Glucose clearance,Metabolic,no,high,1,1,0.04
+444367000.0,Neurological assessment,Patient-Reported,yes,medium,1,1,0.04
+444202005.0,Treatment compliance,Other,no,high,1,1,0.04
+443961001.0,Medullary carcinoma of thyroid gland,Safety,yes,high,1,1,0.04
+46898008.0,Insulin secretion,Metabolic,no,medium,1,1,0.04
+46898008.0,Insulin secretion,Metabolic,no,high,1,1,0.04
+46635009.0,Insulin sensitivity,Metabolic,no,high,1,1,0.04
+46635009.0,Insulin metabolism,Metabolic,no,medium,1,1,0.04
+46553007.0,Left ventricular systolic function,Cardiovascular,no,medium,1,1,0.04
+46553007.0,Left ventricular systolic function,Cardiovascular,no,high,1,1,0.04
+46304005.0,Insulin measurement,Metabolic,no,high,1,1,0.04
+46242002.0,Secretion,Other,no,medium,1,1,0.04
+46242002.0,Secretion,Other,no,low,1,1,0.04
+441900009.0,Microbiome,Other,no,high,1,1,0.04
+182836005.0,Safety assessment,Cardiovascular,no,medium,1,2,0.04
+104157003.0,Blood test,Safety,no,medium,1,1,0.04
+104137009.0,Platelet factor 4 measurement,Safety,no,high,1,1,0.04
+104124008.0,Glucagon measurement,Metabolic,no,high,1,1,0.04
+104000008.0,Lipoprotein measurement,Metabolic,no,medium,1,1,0.04
+47268002.0,Oxidation,Metabolic,no,medium,1,1,0.04
+45896001.0,Alanine aminotransferase measurement,Safety,no,high,1,1,0.04
+4525004.0,Emergency department patient visit,Patient-Reported,yes,high,1,1,0.04
+45007003.0,Low blood pressure,Safety,yes,high,1,1,0.04
+48263008.0,Eating,Patient-Reported,yes,medium,1,1,0.04
+48263008.0,Eating,Other,partial,medium,1,1,0.04
+48139006.0,Beta-hydroxybutyrate measurement,Metabolic,no,high,1,1,0.04
+48030007.0,Patient satisfaction,Patient-Reported,yes,high,1,1,0.04
+47722004.0,Metabolic process,Metabolic,no,medium,1,1,0.04
+47625008.0,QT interval,Cardiovascular,no,medium,1,1,0.04
+47571009.0,Beta cell function,Metabolic,no,high,1,1,0.04
+47415006.0,Glucose tolerance test,Metabolic,no,high,1,1,0.04
+182836005.0,Review of drug treatment,Metabolic,no,medium,1,1,0.04
+182836005.0,Treatment withdrawal,Safety,yes,high,1,1,0.04
+182836005.0,Treatment outcome,Other,partial,medium,1,1,0.04
+182836005.0,Treatment outcome,Other,no,medium,1,1,0.04
+182836005.0,Treatment compliance,Other,no,medium,1,1,0.04
+182836005.0,Treatment choice,Patient-Reported,yes,medium,1,1,0.04
+182836005.0,Treatment,Other,no,low,1,1,0.04
+182836005.0,Safety assessment,Safety,yes,high,1,1,0.04
+166832003.0,Apolipoprotein B measurement,Cardiovascular,no,medium,1,1,0.04
+104437007.0,Blood glucose measurement,Metabolic,no,high,1,1,0.04
+104371002.0,Serum amylase measurement,Safety,no,high,1,1,0.04
+104356000.0,Creatine measurement,Metabolic,no,high,1,1,0.04
+104301008.0,Lipid measurement,Metabolic,no,high,1,1,0.04
+104176005.0,Melatonin measurement,Other,no,high,1,1,0.04
+104157003.0,Gene expression,Other,no,medium,1,1,0.04
+104157003.0,Bone resorption,Other,no,medium,1,1,0.04
+56481005.0,Gastric emptying,Other,no,high,1,1,0.04
+56265001.0,Heart disease,Other,no,low,1,1,0.04
+47268002.0,Gastroesophageal reflux disease,Safety,yes,high,1,1,0.04
+50986009.0,Glucagon measurement,Metabolic,no,medium,1,1,0.04
+50883007.0,Insulin-like growth factor I,Metabolic,no,medium,1,1,0.04
+50883007.0,Insulin-like growth factor I,Metabolic,no,high,1,1,0.04
+50403003.0,Perfusion,Other,no,medium,1,1,0.04
+50403003.0,Perfusion,Cardiovascular,no,high,1,1,0.04
+49601007.0,Disorder of cardiovascular system,Cardiovascular,yes,high,1,1,0.04
+48761009.0,Physical activity,Patient-Reported,yes,high,1,1,0.04
+48695002.0,Bile acid measurement,Metabolic,no,high,1,1,0.04
+48522003.0,Myocardial strain,Cardiovascular,no,medium,1,1,0.04
+48421000.0,Insulin sensitivity,Metabolic,no,high,1,1,0.04
+54776003.0,Gastrointestinal transit study,Other,no,high,1,1,0.04
+182836005.0,Review of drug treatment,Safety,no,medium,1,1,0.04
+182836005.0,Review of drug treatment,Other,no,low,1,1,0.04
+59351004.0,Interleukin-1,Other,no,high,1,1,0.04
+5880005.0,Physical examination,Safety,no,medium,1,1,0.04
+5880005.0,Physical examination,Other,no,high,1,1,0.04
+58632006.0,Endothelial function,Cardiovascular,no,high,1,1,0.04
+58214004.0,Schizophrenia,Patient-Reported,yes,high,1,1,0.04
+58190003.0,Blood flow,Other,no,high,1,1,0.04
+54718008.0,Renal artery structure,Renal,no,medium,1,1,0.04
+54550000.0,Electroencephalography,Other,no,high,1,1,0.04
+52767006.0,Reactive hypoglycemia,Safety,yes,high,1,1,0.04
+52525002.0,Somatostatin,Metabolic,no,high,1,1,0.04
+52518006.0,Amino acid measurement,Metabolic,no,high,1,1,0.04
+52518006.0,Alanine,Metabolic,no,high,1,1,0.04
+52501007.0,Chemokine,Other,no,high,1,1,0.04
+52433003.0,Adipose tissue,Anthropometric,no,medium,1,1,0.04
+56905009.0,Myocardial infarction size,Cardiovascular,yes,high,1,1,0.04
+56502005.0,Proinsulin measurement,Metabolic,no,high,1,1,0.04
+182836005.0,Patient preference,Patient-Reported,yes,high,1,1,0.04
+182836005.0,Pain relief,Patient-Reported,yes,high,1,1,0.04
+182836005.0,Laboratory test,Safety,no,medium,1,1,0.04
+182836005.0,Glucose variability,Metabolic,no,high,1,1,0.04
+182836005.0,Drug therapy,Cardiovascular,partial,medium,1,1,0.04
+182836005.0,Drug safety,Safety,yes,high,1,1,0.04
+182836005.0,Drug pharmacokinetics,Other,no,high,1,1,0.04
+182836005.0,Drug level,Safety,no,medium,1,1,0.04
+182836005.0,Review of medication,Patient-Reported,yes,medium,1,1,0.04
+182836005.0,Review of medication,Other,partial,medium,1,1,0.04
+182836005.0,Drug absorption,Other,no,medium,1,1,0.04
+55918008.0,Monocyte,Other,no,low,1,1,0.04
+55454007.0,Insulinoma,Other,yes,high,1,1,0.04
+55235003.0,C-reactive protein measurement,Safety,no,high,1,1,0.04
+55235003.0,C-reactive protein measurement,Metabolic,no,high,1,1,0.04
+59820001.0,Blood glucose,Metabolic,no,medium,1,1,0.04
+61003008.0,C-peptide,Metabolic,no,high,1,1,0.04
+57368004.0,Pancreatic function,Other,no,high,1,1,0.04
+57190000.0,Glucose uptake,Metabolic,no,high,1,1,0.04
+609096000.0,Carotid intima-media thickness,Cardiovascular,no,high,1,2,0.04
+609096000.0,Cardiac imaging,Cardiovascular,no,medium,1,1,0.04
+60621009.0,Body mass index,Anthropometric,partial,medium,1,1,0.04
+60621009.0,Body mass index,Anthropometric,no,medium,1,1,0.04
+60621009.0,Basal metabolic rate,Metabolic,no,high,1,1,0.04
+60602008.0,Gastrointestinal transit time,Other,no,high,1,1,0.04
+60153001.0,Gamma-glutamyltransferase measurement,Other,no,high,1,1,0.04
+60153001.0,Gamma glutamyltransferase measurement,Safety,no,high,1,1,0.04
+60133009.0,"Uric acid measurement, urine",Renal,no,high,1,1,0.04
+56242006.0,Structure of brachial artery,Cardiovascular,no,medium,1,1,0.04
+182836005.0,Review of blood glucose monitoring,Metabolic,no,high,1,1,0.04
+182836005.0,Review of adverse reaction to drug,Safety,yes,high,1,1,0.04
+182836005.0,Pharmacokinetic study,Safety,no,high,1,1,0.04
+102656009.0,C-terminal telopeptide,Other,no,high,1,1,0.04
+102597008.0,Bile acid measurement,Other,no,medium,1,1,0.04
+102503003.0,Tryptophan measurement,Metabolic,no,high,1,1,0.04
+102491009.0,Procollagen type I C-peptide measurement,Other,no,medium,1,1,0.04
+59962002.0,Glycerol measurement,Metabolic,no,high,1,1,0.04
+59820001.0,Glucose metabolism,Metabolic,no,medium,1,1,0.04
+61472002.0,Gluconeogenesis,Metabolic,no,high,1,1,0.04
+61438002.0,C-peptide measurement,Metabolic,no,high,1,1,0.04
+61438002.0,C-peptide,Metabolic,no,high,1,1,0.04
+61420007.0,Parenteral nutrition,Other,no,medium,1,1,0.04
+61406004.0,C-peptide measurement,Metabolic,no,high,1,1,0.04
+61404009.0,C-peptide measurement,Metabolic,no,high,1,1,0.04
+61394009.0,Triglyceride measurement,Cardiovascular,no,high,1,1,0.04
+61394006.0,Oral glucose tolerance test,Metabolic,no,high,1,1,0.04
+61276001.0,Electrogastrography,Other,no,high,1,1,0.04
+61156004.0,C-peptide measurement,Metabolic,no,high,1,1,0.04
+61820002.0,Hormone measurement,Metabolic,no,medium,1,1,0.04
+61679008.0,Calcitonin measurement,Metabolic,no,high,1,1,0.04
+61599003.0,Carotid artery plaque,Cardiovascular,no,high,1,1,0.04
+61557002.0,Thyroid hormone level,Other,no,high,1,1,0.04
+61538001.0,Peptide YY,Metabolic,no,medium,1,1,0.04
+61516005.0,Pancreatic islet function,Metabolic,no,high,1,1,0.04
+62479008.0,Adverse event,Safety,yes,medium,1,1,0.04
+62479008.0,Adverse event,Safety,yes,high,1,1,0.04
+62468002.0,Peptide YY,Metabolic,no,medium,1,1,0.04
+0.0,Unknown,Patient-Reported,yes,low,1,1,0.04
+103228002.0,Hemoglobin saturation with oxygen,Other,no,high,1,1,0.04
+103228002.0,Blood oxygen saturation measurement,Other,no,high,1,1,0.04
+103067001.0,Retinal blood vessel structure,Other,no,medium,1,1,0.04
+102949005.0,Pain measurement,Patient-Reported,yes,high,1,1,0.04
+102742005.0,Insulin secretion,Metabolic,no,high,1,1,0.04
+102738000.0,Proinsulin measurement,Metabolic,no,high,1,1,0.04
+62014003.0,Gastrointestinal disorder,Safety,yes,high,1,1,0.04
+62014003.0,Adverse reaction,Safety,yes,high,1,1,0.04
+62014003.0,Adverse event,Safety,yes,medium,1,1,0.04
+67151002.0,Histologic examination,Other,no,high,1,1,0.04
+67079006.0,Glucose measurement,Metabolic,no,low,1,1,0.04
+67079006.0,Glucagon-like peptide-1,Metabolic,no,high,1,1,0.04
+67079006.0,Glucagon,Metabolic,no,high,1,1,0.04
+66659002.0,Glucagon-like peptide 1,Metabolic,no,medium,1,1,0.04
+6497000.0,Lean body mass,Anthropometric,no,high,1,1,0.04
+61946003.0,Cholecystokinin,Metabolic,no,medium,1,1,0.04
+61928009.0,Vasomotion,Cardiovascular,no,medium,1,1,0.04
+61928009.0,Lymphocyte count,Other,no,high,1,1,0.04
+61928009.0,Gallbladder ejection fraction,Other,no,high,1,1,0.04
+61928008.0,Cholecystokinin,Metabolic,no,high,1,1,0.04
+61924008.0,Glucagon-like peptide 2,Metabolic,no,medium,1,1,0.04
+61924008.0,Glucagon-like peptide 2,Metabolic,no,high,1,1,0.04
+182836005.0,Compliance with treatment,Patient-Reported,yes,medium,1,1,0.04
+182836005.0,Clinical improvement,Other,yes,medium,1,1,0.04
+182836005.0,Clearance measurement,Other,no,low,1,1,0.04
+165806002.0,Glucose metabolism,Metabolic,no,high,1,1,0.04
+165806002.0,Albumin/creatinine ratio measurement,Renal,no,high,1,1,0.04
+166892008.0,Free fatty acid measurement,Metabolic,no,high,1,1,0.04
+166884008.0,Serum gastrin measurement,Metabolic,no,high,1,1,0.04
+166842009.0,Apolipoprotein measurement,Metabolic,no,high,1,1,0.04
+166842007.0,Low density lipoprotein cholesterol measurement,Cardiovascular,no,high,1,1,0.04
+166842003.0,VLDL cholesterol measurement,Metabolic,no,high,1,1,0.04
+166842003.0,Liver function test,Safety,no,high,1,1,0.04
+166842003.0,Lipid measurement,Metabolic,no,high,1,1,0.04
+166842003.0,Cholesterol measurement,Metabolic,no,medium,1,1,0.04
+62315008.0,Dumping syndrome,Patient-Reported,yes,high,1,1,0.04
+62315008.0,Diarrhea,Safety,yes,medium,1,1,0.04
+62156001.0,Renal injury,Renal,no,medium,1,1,0.04
+67271001.0,Messenger RNA,Other,no,medium,1,1,0.04
+6720003.0,Cholesterol biosynthesis,Metabolic,no,high,1,1,0.04
+70153002.0,Kidney volume,Renal,no,medium,1,1,0.04
+64572001.0,Disease,Renal,yes,medium,1,1,0.04
+64337004.0,Bone formation,Other,no,high,1,1,0.04
+62914000.0,Sleep disorder,Patient-Reported,yes,high,1,2,0.04
+62484002.0,Liver fibrosis,Other,partial,high,1,1,0.04
+0.0,Protein expression,Other,no,low,1,1,0.04
+0.0,Postprandial physiological response,Other,no,low,1,1,0.04
+0.0,Unknown target achievement,Other,no,low,1,1,0.04
+0.0,Unknown measurement,Metabolic,no,low,1,1,0.04
+0.0,Unknown endpoint,Other,no,low,1,1,0.04
+0.0,Unknown concept,Patient-Reported,yes,low,1,1,0.04
+0.0,Unknown concept,Other,partial,low,1,1,0.04
+0.0,Unknown concept,Cardiovascular,yes,low,1,1,0.04
+182836005.0,Cost effectiveness study,Other,partial,medium,1,1,0.04
+69527006.0,Luteinizing hormone measurement,Other,no,high,1,1,0.04
+69527006.0,Luteinizing hormone measurement,Metabolic,no,high,1,1,0.04
+69524002.0,Pancreatic polypeptide,Metabolic,no,high,1,1,0.04
+69352005.0,Hormone measurement,Metabolic,no,high,1,1,0.04
+708019001.0,Metabolomics,Other,no,high,1,1,0.04
+0.0,Unknown SNOMED concept,Other,no,low,1,1,0.04
+62484002.0,Liver fibrosis,Other,no,high,1,1,0.04
+62479008.0,Diarrhea,Safety,yes,medium,1,1,0.04
+69177002.0,Insulin receptor,Metabolic,no,medium,1,1,0.04
+69107004.0,Gastric acid measurement,Other,no,medium,1,1,0.04
+69079006.0,Postgastrectomy dumping syndrome,Patient-Reported,yes,high,1,1,0.04
+69041009.0,Gastric secretion,Other,no,high,1,1,0.04
+68130003.0,Physical activity,Other,yes,high,1,1,0.04
+68130003.0,Physical activity,Other,partial,high,1,1,0.04
+67769002.0,Adipose tissue,Anthropometric,no,high,1,1,0.04
+67362008.0,Myocardial perfusion,Cardiovascular,no,medium,1,1,0.04
+702776004.0,Interleukin-6 level,Other,no,medium,1,1,0.04
+702666008.0,Glucagon-like peptide 1 level,Metabolic,no,medium,1,1,0.04
+702658006.0,Norepinephrine measurement,Cardiovascular,no,medium,1,1,0.04
+70193006.0,Tau protein,Other,no,medium,1,1,0.04
+71181003.0,Muscle structure,Other,no,medium,1,1,0.04
+71181003.0,Muscle structure,Anthropometric,no,high,1,2,0.04
+71181003.0,Glutamine measurement,Metabolic,no,high,1,1,0.04
+71181003.0,Glucose uptake,Metabolic,no,high,1,1,0.04
+71181003.0,Calcitonin measurement,Other,no,high,1,1,0.04
+70106000.0,Ketone measurement,Metabolic,no,high,1,1,0.04
+699801008.0,Gut microbiome,Other,no,medium,1,1,0.04
+698291006.0,Metabolomics,Metabolic,no,high,1,1,0.04
+698247007.0,Cardiac arrhythmia,Cardiovascular,yes,high,1,1,0.04
+69695003.0,Stomach structure,Other,no,medium,1,1,0.04
+69676005.0,Citrulline,Other,no,high,1,1,0.04
+69658006.0,Peptide hormone,Metabolic,no,medium,1,1,0.04
+182817000.0,Drug compliance good,Other,no,medium,1,1,0.04
+182817000.0,Bacterial culture,Other,no,medium,1,1,0.04
+182816003.0,Treatment acceptability,Patient-Reported,yes,medium,1,1,0.04
+182816003.0,Drug dose,Other,no,low,1,1,0.04
+182806002.0,Left ventricular function,Cardiovascular,no,high,1,1,0.04
+182805002.0,Perfusion,Other,no,medium,1,1,0.04
+182836005.0,Drug exposure,Other,no,medium,1,1,0.04
+182836005.0,Drug elimination half-life,Other,no,medium,1,1,0.04
+182836005.0,Drug elimination half-life,Other,no,high,1,1,0.04
+182836005.0,Drug dose,Other,no,medium,1,1,0.04
+182836005.0,Drug consumption,Other,no,medium,1,1,0.04
+182836005.0,Drug administration,Other,no,medium,1,1,0.04
+707981005.0,Adiponectin level,Metabolic,no,high,1,1,0.04
+70670008.0,Physical function,Patient-Reported,yes,high,1,1,0.04
+70640003.0,Gastric acid output,Other,no,high,1,1,0.04
+702873001.0,Pancreatic beta cell function,Metabolic,no,high,1,1,0.04
+71181003.0,Tolerance,Patient-Reported,yes,medium,1,1,0.04
+71181003.0,Nerve conduction study,Other,no,high,1,1,0.04
+72366004.0,Eating behavior,Patient-Reported,yes,medium,1,1,0.04
+71181003.0,C-peptide measurement,Metabolic,no,high,1,1,0.04
+70901006.0,"Creatinine measurement, plasma",Renal,no,high,1,1,0.04
+70901006.0,Creatinine measurement,Renal,no,high,1,1,0.04
+708730005.0,Interleukin-10,Other,no,medium,1,1,0.04
+0.0,Unknown,Cardiovascular,no,low,1,1,0.04
+0.0,Total body water measurement,Anthropometric,no,low,1,1,0.04
+0.0,Titration period,Other,no,low,1,1,0.04
+0.0,Timed up and go test,Other,partial,low,1,1,0.04
+0.0,Time to reach maximum secretion speed,Other,no,low,1,1,0.04
+0.0,Study feasibility,Other,no,low,1,1,0.04
+0.0,Statistical equivalence measure,Other,no,low,1,1,0.04
+0.0,Receptor expression,Other,no,low,1,1,0.04
+708016006.0,Liver imaging,Metabolic,no,medium,1,1,0.04
+72133002.0,Cognitive function,Patient-Reported,yes,medium,1,1,0.04
+72133002.0,Cognitive function,Patient-Reported,yes,high,1,1,0.04
+72133002.0,Cognitive assessment,Patient-Reported,yes,high,1,1,0.04
+720433000.0,Patient Health Questionnaire-9 score,Patient-Reported,yes,high,1,1,0.04
+72042002.0,Incontinence of feces,Safety,yes,high,1,1,0.04
+72041008.0,Hunger,Patient-Reported,yes,high,1,1,0.04
+72861000.0,Pancreatic duct structure,Other,no,medium,1,1,0.04
+72723005.0,Citrulline,Metabolic,no,high,1,1,0.04
+72715004.0,Hunger,Patient-Reported,yes,high,1,1,0.04
+71885005.0,Metanephrine measurement,Metabolic,no,high,1,1,0.04
+71836000.0,Tongue structure,Anthropometric,no,medium,1,1,0.04
+717897006.0,Apnea hypopnea index,Patient-Reported,yes,high,1,1,0.04
+71616004.0,Skeletal muscle structure,Anthropometric,no,medium,1,1,0.04
+71388002.0,Procedure,Cardiovascular,no,medium,1,1,0.04
+712686003.0,Psoriasis area and severity index,Patient-Reported,yes,high,1,1,0.04
+71219008.0,Oral glucose tolerance test,Metabolic,no,high,1,1,0.04
+17177006.0,Renal blood flow,Renal,no,high,1,1,0.04
+16932000.0,Nausea and vomiting,Safety,yes,high,1,1,0.04
+169076002.0,Waist hip ratio,Anthropometric,no,medium,1,1,0.04
+16885009.0,Gastric volume,Other,no,medium,1,1,0.04
+167277000.0,Urine output,Renal,partial,high,1,1,0.04
+167265000.0,Urine glucose/creatinine ratio,Metabolic,no,high,1,1,0.04
+167248002.0,Uric acid measurement,Metabolic,no,high,1,1,0.04
+182832007.0,Reoperation,Safety,yes,high,1,1,0.04
+182817000.0,Insulin dose,Metabolic,no,high,1,1,0.04
+182817000.0,Drug-related side effect,Safety,yes,medium,1,1,0.04
+182817000.0,Drug therapy,Cardiovascular,partial,medium,1,1,0.04
+167217005.0,Urine osmolality,Renal,no,high,1,1,0.04
+722137006.0,Histologic examination and report,Other,no,medium,1,1,0.04
+72210004.0,Appetite,Patient-Reported,yes,high,1,1,0.04
+72191006.0,Glucagon measurement,Metabolic,no,high,1,1,0.04
+72167002.0,Autonomic nerve function,Other,no,high,1,1,0.04
+76214003.0,Taste function,Patient-Reported,yes,medium,1,1,0.04
+76214003.0,Taste function,Patient-Reported,yes,high,1,1,0.04
+72670004.0,Hunger,Patient-Reported,yes,medium,1,1,0.04
+72670004.0,Ghrelin,Metabolic,partial,low,1,1,0.04
+72616008.0,Satiety response,Patient-Reported,yes,high,1,1,0.04
+72616008.0,Hunger,Patient-Reported,yes,high,1,1,0.04
+72552008.0,Appetite,Patient-Reported,yes,medium,1,1,0.04
+72552008.0,Appetite,Metabolic,no,medium,1,1,0.04
+72402008.0,Satiety,Patient-Reported,yes,high,1,1,0.04
+74964007.0,Other,Other,no,low,1,1,0.04
+74964007.0,Enzyme activity,Other,no,medium,1,1,0.04
+74774003.0,Glucagon measurement,Metabolic,no,high,1,1,0.04
+74732009.0,Mental health assessment,Patient-Reported,yes,high,1,1,0.04
+74732009.0,Mental disorder,Safety,yes,high,1,1,0.04
+74732009.0,Mental disorder,Patient-Reported,yes,high,1,1,0.04
+72366004.0,Eating behavior,Other,no,medium,1,1,0.04
+79083000.0,Chylomicron,Metabolic,no,medium,1,1,0.04
+78834003.0,Gastric volume,Other,no,medium,1,1,0.04
+78564009.0,Pulse rate,Safety,no,high,1,1,0.04
+78293005.0,Smell function test,Other,yes,high,1,1,0.04
+78275009.0,Sleep apnea syndrome,Other,yes,high,1,2,0.04
+78275009.0,Obstructive sleep apnea syndrome,Patient-Reported,yes,high,1,1,0.04
+78064003.0,Cardiac function,Cardiovascular,no,high,1,1,0.04
+77597005.0,Gastrointestinal transit time,Other,no,medium,1,1,0.04
+74627003.0,Diabetic complication,Metabolic,yes,high,1,1,0.04
+74281007.0,Myocardium structure,Cardiovascular,no,high,1,1,0.04
+74188005.0,Protein metabolism,Metabolic,no,medium,1,1,0.04
+74147002.0,Glutamine measurement,Metabolic,no,high,1,1,0.04
+73926009.0,Insulin secretion,Metabolic,no,medium,1,1,0.04
+72889006.0,Taste perception,Patient-Reported,yes,medium,1,1,0.04
+72863001.0,Hunger,Patient-Reported,yes,medium,1,1,0.04
+76627001.0,Triglyceride measurement,Renal,no,high,1,1,0.04
+0.0,Postprandial measurement,Metabolic,no,low,1,1,0.04
+0.0,Pharmacokinetic outcome,Other,no,low,1,1,0.04
+0.0,Not applicable,Other,no,low,1,1,0.04
+0.0,No-reflow phenomenon,Cardiovascular,yes,low,1,1,0.04
+0.0,Nicotine dependence assessment,Other,no,low,1,1,0.04
+0.0,Insulin to glucagon ratio,Metabolic,no,low,1,1,0.04
+0.0,Hormone measurement,Other,no,low,1,1,0.04
+0.0,Hepatic fat fraction,Metabolic,no,low,1,1,0.04
+0.0,Healthcare cost,Other,partial,low,1,1,0.04
+0.0,HOMA insulin sensitivity index,Metabolic,no,low,1,1,0.04
+76214002.0,Taste sensation,Other,partial,medium,1,1,0.04
+76150008.0,Triglyceride,Metabolic,no,medium,1,1,0.04
+75694006.0,Pancreatic disease,Safety,yes,high,1,1,0.04
+75334002.0,Gastric inhibitory polypeptide,Metabolic,no,medium,1,1,0.04
+74964007.0,Other,Other,no,medium,1,1,0.04
+79143009.0,Hunger,Patient-Reported,yes,high,1,1,0.04
+167217005.0,Urine microscopy,Other,no,low,1,1,0.04
+167217005.0,Urinalysis,Renal,no,medium,1,1,0.04
+167217005.0,Urinalysis,Other,no,medium,1,2,0.04
+167165001.0,Glucose production,Metabolic,no,medium,1,1,0.04
+167132008.0,Hormone measurement,Other,no,high,1,1,0.04
+166922006.0,Oral glucose tolerance test,Metabolic,no,medium,1,1,0.04
+166898001.0,Fructosamine measurement,Metabolic,no,high,1,1,0.04
+182804009.0,Composite outcome measure,Other,partial,medium,1,1,0.04
+182804009.0,Composite outcome measure,Metabolic,partial,medium,1,1,0.04
+182684003.0,Stent,Cardiovascular,no,medium,1,1,0.04
+17602002.0,Amyloid deposition,Other,no,medium,1,1,0.04
+17366009.0,Atrial arrhythmia,Cardiovascular,yes,high,1,3,0.04
+17338001.0,Atrial arrhythmia,Cardiovascular,yes,high,1,1,0.04
+0.0,Drug effect,Other,no,low,1,1,0.04
+0.0,Focus group findings,Patient-Reported,yes,low,1,1,0.04
+0.0,Feeding behavior,Other,no,low,1,1,0.04
+85756007.0,Tissue fibrosis,Other,no,high,1,1,0.04
+85670002.0,Liver structure,Other,no,medium,1,1,0.04
+85234005.0,Left atrial function,Cardiovascular,no,medium,1,1,0.04
+76882007.0,Cardiac function,Cardiovascular,no,medium,1,1,0.04
+76799007.0,Bone marker,Other,no,medium,1,1,0.04
+80394007.0,Hyperglycemia,Safety,yes,high,1,1,0.04
+80394007.0,Hyperglycaemia,Metabolic,no,high,1,1,0.04
+80274001.0,Kidney function,Renal,no,medium,1,1,0.04
+80274001.0,Glomerular filtration rate,Renal,yes,high,1,1,0.04
+80274001.0,Glomerular filtration rate,Renal,partial,medium,1,1,0.04
+79962008.0,Tachyphylaxis,Safety,no,high,1,1,0.04
+79643008.0,Gallbladder emptying,Other,no,high,1,1,0.04
+8357008.0,Sexual desire,Patient-Reported,yes,high,1,1,0.04
+83036003.0,Troponin measurement,Cardiovascular,no,high,1,1,0.04
+82799009.0,Cardiac output,Cardiovascular,no,high,1,1,0.04
+77067007.0,Norepinephrine measurement,Metabolic,no,high,1,1,0.04
+88878007.0,Protein,Other,no,medium,1,1,0.04
+88810008.0,Alkaline phosphatase measurement,Safety,no,high,1,1,0.04
+88805006.0,Platelet aggregation test,Safety,no,high,1,1,0.04
+88531008.0,Glucagon measurement,Metabolic,no,high,1,1,0.04
+87612001.0,Glucose metabolism,Metabolic,no,high,1,1,0.04
+81266008.0,Revascularization,Cardiovascular,yes,high,1,1,0.04
+81266008.0,Heart structure,Cardiovascular,no,medium,1,1,0.04
+81266008.0,Heart revascularization,Cardiovascular,yes,high,1,1,0.04
+81040000.0,Arterial diameter,Cardiovascular,no,high,1,1,0.04
+80690008.0,Functional magnetic resonance imaging,Other,no,low,1,1,0.04
+80405004.0,Liver function test,Other,no,high,1,1,0.04
+80394007.0,Hyperglycemic glucose clamp study,Metabolic,no,medium,1,1,0.04
+86708008.0,Liver fibrosis,Other,no,high,1,1,0.04
+86547008.0,C-peptide measurement,Metabolic,no,high,1,1,0.04
+86290005.0,Respiratory function,Cardiovascular,no,medium,1,1,0.04
+86200008.0,Atrial natriuretic factor,Cardiovascular,no,high,1,1,0.04
+0.0,Ghrelin measurement,Metabolic,no,low,1,1,0.04
+870510004.0,Functional magnetic resonance imaging,Other,no,high,1,1,0.04
+0.0,Hydrogen breath test,Other,no,low,1,1,0.04
+9740009.0,Glucagon,Metabolic,no,high,1,1,0.04
+95281009.0,Sudden death,Cardiovascular,yes,high,1,1,0.04
+91727004.0,Muscle mass,Anthropometric,no,medium,1,1,0.04
+91302008.0,Sepsis,Safety,yes,high,1,1,0.04
+90708001.0,Kidney disease,Renal,yes,medium,1,1,0.04
+90708001.0,Kidney disease,Renal,no,high,1,1,0.04
+0.0,AKT protein level,Other,no,low,1,1,0.04
+,Insulin measurement,Metabolic,no,high,1,1,0.04
+84890008.0,Peptide YY measurement,Metabolic,no,high,1,1,0.04
+0.0,Brain activity measurement,Other,no,low,1,1,0.04
+0.0,Bile acid measurement,Metabolic,no,low,1,1,0.04
+0.0,Augmentation index,Cardiovascular,no,low,1,1,0.04
+0.0,Area under curve measurement,Other,no,low,1,1,0.04
+89362005.0,Weight loss,Anthropometric,no,medium,1,1,0.04
+90708001.0,Kidney disease,Cardiovascular,no,low,1,1,0.04
+90688005.0,Renal failure,Renal,yes,high,1,1,0.04
+0.0,Fatty acid measurement,Other,no,low,1,1,0.04
+0.0,Fat intake,Metabolic,no,low,1,1,0.04
+0.0,Extracellular vesicle analysis,Other,no,low,1,1,0.04
+0.0,Food reinforcement,Patient-Reported,yes,low,1,1,0.04
+87612001.0,Blood flow,Cardiovascular,no,medium,1,1,0.04
+87179004.0,Pulse pressure,Cardiovascular,no,high,1,1,0.04
+87179004.0,Blood flow,Cardiovascular,no,medium,1,1,0.04
+88878007.0,Protein metabolism,Other,no,high,1,1,0.04
+0.0,Gut microbiota composition,Other,no,low,1,1,0.04
+0.0,Gut hormone measurement,Metabolic,no,low,1,1,0.04
+0.0,Glucose release measurement,Metabolic,no,low,1,1,0.04
+0.0,Glomerular pressure measurement,Renal,no,low,1,1,0.04
+0.0,Ghrelin measurement,Metabolic,no,medium,1,1,0.04

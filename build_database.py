@@ -300,6 +300,12 @@ def run():
     pico        = pico[pico["pmid"].str.strip() != ""]
     annotations = annotations[annotations["pmid"].str.strip() != ""]
 
+    # ── Save deduplicated files ──────────────────────────────────────────────────
+    corpus.to_csv("corpus_dedup.csv", index=False)
+    pico.to_csv("pico_dedup.csv", index=False)
+    annotations.to_csv("annotations_dedup.csv", index=False)
+    log.info(f"Saved deduplicated files: corpus_dedup.csv, pico_dedup.csv, annotations_dedup.csv")
+
     log.info(f"  After dedup — Corpus: {len(corpus)} | PICO: {len(pico)} | Annotations: {len(annotations)}")
     # ── Merge ─────────────────────────────────────────────────────────────────
     log.info("Merging...")
