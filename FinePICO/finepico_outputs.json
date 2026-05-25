@@ -1,0 +1,4969 @@
+[
+  {
+    "pmid": 36306151,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "individuals with obesity and prediabetes",
+        "score": 0.9985,
+        "start": 241,
+        "end": 281
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "flow - mediated vasodilation ( fmd )",
+        "score": 0.9672,
+        "start": 656,
+        "end": 688
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "plasminogen activator inhibitor - 1 ( pai - 1 )",
+        "score": 0.9584,
+        "start": 690,
+        "end": 731
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "urine albumin - to - creatinine ratio ( uacr )",
+        "score": 0.9772,
+        "start": 736,
+        "end": 776
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "eighty - eight",
+        "score": 0.9997,
+        "start": 789,
+        "end": 801
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "44",
+        "score": 0.9998,
+        "start": 844,
+        "end": 846
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "22",
+        "score": 0.9998,
+        "start": 857,
+        "end": 859
+      },
+      {
+        "entity_group": "Control_sample",
+        "pico_category": "Population",
+        "word": "22",
+        "score": 0.9974,
+        "start": 877,
+        "end": 879
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "weight, insulin resistance and pai - 1",
+        "score": 0.7803,
+        "start": 911,
+        "end": 947
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "fasting blood glucose",
+        "score": 0.8499,
+        "start": 1305,
+        "end": 1326
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "uacr",
+        "score": 0.8098,
+        "start": 1396,
+        "end": 1400
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "individuals with obesity and prediabetes",
+        "eighty - eight",
+        "44",
+        "22",
+        "22"
+      ],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [
+        "flow - mediated vasodilation ( fmd )",
+        "plasminogen activator inhibitor - 1 ( pai - 1 )",
+        "urine albumin - to - creatinine ratio ( uacr )",
+        "weight, insulin resistance and pai - 1",
+        "fasting blood glucose",
+        "uacr"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 22846777,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "ten",
+        "score": 0.9849,
+        "start": 288,
+        "end": 291
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "healthy volunteers ( hvs )",
+        "score": 0.8438,
+        "start": 292,
+        "end": 316
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "igp",
+        "score": 0.9876,
+        "start": 1007,
+        "end": 1010
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "4. 1±0. 7",
+        "score": 0.9918,
+        "start": 1026,
+        "end": 1033
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "3. 0±0. 4",
+        "score": 0.9952,
+        "start": 1035,
+        "end": 1042
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "2. 1±0. 3",
+        "score": 0.9977,
+        "start": 1044,
+        "end": 1051
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "2. 6±0. 4 mm",
+        "score": 0.95,
+        "start": 1056,
+        "end": 1066
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "hg",
+        "score": 0.9038,
+        "start": 1067,
+        "end": 1069
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "0. 3",
+        "score": 0.9852,
+        "start": 1080,
+        "end": 1083
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": ".",
+        "score": 0.5263,
+        "start": 1086,
+        "end": 1087
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "6",
+        "score": 0.5286,
+        "start": 1087,
+        "end": 1088
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "maximum - tolerated volume",
+        "score": 0.9921,
+        "start": 1140,
+        "end": 1164
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "695±135",
+        "score": 0.9989,
+        "start": 1232,
+        "end": 1239
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "ml",
+        "score": 0.9809,
+        "start": 1240,
+        "end": 1242
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "1008±197",
+        "score": 0.9796,
+        "start": 1267,
+        "end": 1275
+      },
+      {
+        "entity_group": "Control_cont_sd",
+        "pico_category": "Comparison",
+        "word": "ml",
+        "score": 0.6829,
+        "start": 1276,
+        "end": 1278
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "perception or compliance",
+        "score": 0.9865,
+        "start": 1405,
+        "end": 1429
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "gastric accommodation to the meal",
+        "score": 0.9891,
+        "start": 1459,
+        "end": 1492
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "168±27",
+        "score": 0.9982,
+        "start": 1494,
+        "end": 1500
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "78",
+        "score": 0.6917,
+        "start": 1504,
+        "end": 1506
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": ". 8±36. 4",
+        "score": 0.8239,
+        "start": 1506,
+        "end": 1513
+      },
+      {
+        "entity_group": "Control_cont_sd",
+        "pico_category": "Comparison",
+        "word": "ml",
+        "score": 0.4487,
+        "start": 1514,
+        "end": 1516
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "ten",
+        "healthy volunteers ( hvs )"
+      ],
+      "Intervention": [
+        "4. 1±0. 7",
+        "3. 0±0. 4",
+        "2. 1±0. 3",
+        "2. 6±0. 4 mm",
+        "hg",
+        ".",
+        "695±135",
+        "ml",
+        "168±27",
+        ". 8±36. 4"
+      ],
+      "Comparison": [
+        "0. 3",
+        "6",
+        "1008±197",
+        "ml",
+        "78",
+        "ml"
+      ],
+      "Outcome": [
+        "igp",
+        "maximum - tolerated volume",
+        "perception or compliance",
+        "gastric accommodation to the meal"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 34797962,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "healthy",
+        "score": 0.4848,
+        "start": 96,
+        "end": 103
+      },
+      {
+        "entity_group": "Other_Demographics",
+        "pico_category": "Population",
+        "word": "chinese",
+        "score": 0.9406,
+        "start": 104,
+        "end": 111
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "individuals",
+        "score": 0.6975,
+        "start": 112,
+        "end": 123
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "24",
+        "score": 0.9655,
+        "start": 129,
+        "end": 131
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "720",
+        "score": 0.9987,
+        "start": 362,
+        "end": 365
+      },
+      {
+        "entity_group": "Other_Demographics",
+        "pico_category": "Population",
+        "word": "chinese",
+        "score": 0.9828,
+        "start": 366,
+        "end": 373
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "individuals with type 2 diabetes",
+        "score": 0.9882,
+        "start": 374,
+        "end": 406
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "healthy",
+        "chinese",
+        "individuals",
+        "24",
+        "720",
+        "chinese",
+        "individuals with type 2 diabetes"
+      ],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 30099030,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "cognitively normal late middle - aged individuals",
+        "score": 0.9396,
+        "start": 476,
+        "end": 523
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "subjective cognitive",
+        "score": 0.5892,
+        "start": 529,
+        "end": 549
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.9574,
+        "start": 763,
+        "end": 770
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "cognitively normal late middle - aged individuals",
+        "subjective cognitive"
+      ],
+      "Intervention": [],
+      "Comparison": [
+        "placebo"
+      ],
+      "Outcome": [],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 27800649,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "glucagon levels",
+        "score": 0.9826,
+        "start": 750,
+        "end": 765
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "changes in other counter - regulatory hormones",
+        "score": 0.9105,
+        "start": 945,
+        "end": 989
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "growth hormone, cortisol, epinephrine and norepinephrine",
+        "score": 0.8501,
+        "start": 995,
+        "end": 1051
+      }
+    ],
+    "pico_summary": {
+      "Population": [],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [
+        "glucagon levels",
+        "changes in other counter - regulatory hormones",
+        "growth hormone, cortisol, epinephrine and norepinephrine"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 29230803,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Overall_age",
+        "pico_category": "Population",
+        "word": "18 - 75 years",
+        "score": 0.9999,
+        "start": 191,
+        "end": 202
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "18 - 75 years"
+      ],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 28181363,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "51",
+        "score": 0.9994,
+        "start": 447,
+        "end": 449
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "people with type 2 diabetes of",
+        "score": 0.9993,
+        "start": 450,
+        "end": 480
+      },
+      {
+        "entity_group": "Overall_age",
+        "pico_category": "Population",
+        "word": "2. 6 ± 1. 9 years",
+        "score": 0.8642,
+        "start": 481,
+        "end": 496
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "' duration",
+        "score": 0.9211,
+        "start": 496,
+        "end": 506
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.9095,
+        "start": 560,
+        "end": 567
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "51",
+        "people with type 2 diabetes of",
+        "2. 6 ± 1. 9 years",
+        "' duration"
+      ],
+      "Intervention": [],
+      "Comparison": [
+        "placebo"
+      ],
+      "Outcome": [],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 26376464,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Other_Demographics",
+        "pico_category": "Population",
+        "word": "chinese",
+        "score": 0.9859,
+        "start": 121,
+        "end": 128
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "patients diagnosed with type 2 diabetes mellitus ( t2dm )",
+        "score": 0.9276,
+        "start": 129,
+        "end": 184
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "forty - four",
+        "score": 0.9996,
+        "start": 197,
+        "end": 207
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "plasma level of adiponectin",
+        "score": 0.9918,
+        "start": 645,
+        "end": 672
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "0. 74±0. 19 ng / ml",
+        "score": 0.9938,
+        "start": 702,
+        "end": 717
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "resistin",
+        "score": 0.9953,
+        "start": 731,
+        "end": 739
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 1. 34±0. 34 pg / ml",
+        "score": 0.9795,
+        "start": 767,
+        "end": 783
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 0. 44±0. 09 ng / ml",
+        "score": 0.9912,
+        "start": 887,
+        "end": 903
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "0",
+        "score": 0.517,
+        "start": 923,
+        "end": 924
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": ". 14±0. 41",
+        "score": 0.956,
+        "start": 924,
+        "end": 932
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "pg",
+        "score": 0.5074,
+        "start": 933,
+        "end": 935
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "/",
+        "score": 0.9052,
+        "start": 935,
+        "end": 936
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "ml",
+        "score": 0.5321,
+        "start": 936,
+        "end": 938
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "hba1c",
+        "score": 0.9865,
+        "start": 1009,
+        "end": 1014
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "8. 3±1. 2",
+        "score": 0.9989,
+        "start": 1039,
+        "end": 1046
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "%",
+        "score": 0.6128,
+        "start": 1046,
+        "end": 1047
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "7. 2±1. 1",
+        "score": 0.9987,
+        "start": 1051,
+        "end": 1058
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "%",
+        "score": 0.5025,
+        "start": 1058,
+        "end": 1059
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "8",
+        "score": 0.9058,
+        "start": 1078,
+        "end": 1079
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": ". 3±1. 0",
+        "score": 0.9855,
+        "start": 1079,
+        "end": 1085
+      },
+      {
+        "entity_group": "Control_cont_sd",
+        "pico_category": "Comparison",
+        "word": "%",
+        "score": 0.3362,
+        "start": 1085,
+        "end": 1086
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "7. 3±1. 2",
+        "score": 0.9954,
+        "start": 1090,
+        "end": 1097
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "%",
+        "score": 0.3574,
+        "start": 1097,
+        "end": 1098
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "67±13",
+        "score": 0.9986,
+        "start": 1114,
+        "end": 1119
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "mmol / mol",
+        "score": 0.9089,
+        "start": 1120,
+        "end": 1128
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "55±12",
+        "score": 0.9986,
+        "start": 1132,
+        "end": 1137
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "mmol / mol",
+        "score": 0.9655,
+        "start": 1138,
+        "end": 1146
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "67±11",
+        "score": 0.8753,
+        "start": 1151,
+        "end": 1156
+      },
+      {
+        "entity_group": "Control_cont_sd",
+        "pico_category": "Comparison",
+        "word": "mmol / mol",
+        "score": 0.8964,
+        "start": 1157,
+        "end": 1165
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "56±13",
+        "score": 0.9237,
+        "start": 1169,
+        "end": 1174
+      },
+      {
+        "entity_group": "Control_cont_sd",
+        "pico_category": "Comparison",
+        "word": "mmol / mol",
+        "score": 0.8791,
+        "start": 1175,
+        "end": 1183
+      },
+      {
+        "entity_group": "Other_Demographics",
+        "pico_category": "Population",
+        "word": "chinese",
+        "score": 0.9649,
+        "start": 1218,
+        "end": 1225
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "chinese",
+        "patients diagnosed with type 2 diabetes mellitus ( t2dm )",
+        "forty - four",
+        "chinese"
+      ],
+      "Intervention": [
+        "0. 74±0. 19 ng / ml",
+        "- 1. 34±0. 34 pg / ml",
+        "- 0. 44±0. 09 ng / ml",
+        ". 14±0. 41",
+        "/",
+        "8. 3±1. 2",
+        "%",
+        "7. 2±1. 1",
+        "%",
+        ". 3±1. 0",
+        "7. 3±1. 2",
+        "%",
+        "67±13",
+        "mmol / mol",
+        "55±12",
+        "mmol / mol"
+      ],
+      "Comparison": [
+        "0",
+        "pg",
+        "ml",
+        "8",
+        "%",
+        "67±11",
+        "mmol / mol",
+        "56±13",
+        "mmol / mol"
+      ],
+      "Outcome": [
+        "plasma level of adiponectin",
+        "resistin",
+        "hba1c"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 38190619,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "1, 254",
+        "score": 0.995,
+        "start": 246,
+        "end": 251
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "1, 262",
+        "score": 0.9961,
+        "start": 271,
+        "end": 276
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "1, 268",
+        "score": 0.9962,
+        "start": 299,
+        "end": 304
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "changes in hba1c",
+        "score": 0.6196,
+        "start": 631,
+        "end": 647
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "failure",
+        "score": 0.5545,
+        "start": 661,
+        "end": 668
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "hba1c ≥7 %",
+        "score": 0.6481,
+        "start": 686,
+        "end": 695
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "53 mmol /",
+        "score": 0.8205,
+        "start": 697,
+        "end": 705
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "mol",
+        "score": 0.3919,
+        "start": 705,
+        "end": 708
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "hba1c >",
+        "score": 0.7,
+        "start": 732,
+        "end": 739
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "58 mmol /",
+        "score": 0.7304,
+        "start": 745,
+        "end": 753
+      },
+      {
+        "entity_group": "Control_cont_sd",
+        "pico_category": "Comparison",
+        "word": "mol",
+        "score": 0.5269,
+        "start": 753,
+        "end": 756
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "initial hba1c reduction",
+        "score": 0.7535,
+        "start": 1260,
+        "end": 1283
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "risk of primary outcome",
+        "score": 0.789,
+        "start": 1372,
+        "end": 1395
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "hba1c rise",
+        "score": 0.8335,
+        "start": 1477,
+        "end": 1487
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "1, 254",
+        "1, 262",
+        "1, 268"
+      ],
+      "Intervention": [
+        "53 mmol /",
+        "mol"
+      ],
+      "Comparison": [
+        "58 mmol /",
+        "mol"
+      ],
+      "Outcome": [
+        "changes in hba1c",
+        "failure",
+        "hba1c ≥7 %",
+        "hba1c >",
+        "initial hba1c reduction",
+        "risk of primary outcome",
+        "hba1c rise"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 21340616,
+    "error": "The size of tensor a (530) must match the size of tensor b (512) at non-singleton dimension 1",
+    "entities": []
+  },
+  {
+    "pmid": 25359159,
+    "error": "The size of tensor a (520) must match the size of tensor b (512) at non-singleton dimension 1",
+    "entities": []
+  },
+  {
+    "pmid": 28124817,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "adults with type 2 diabetes uncontrolled on metformin ± pioglitazone",
+        "score": 0.9995,
+        "start": 295,
+        "end": 363
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "210",
+        "score": 0.9998,
+        "start": 485,
+        "end": 488
+      },
+      {
+        "entity_group": "Control_sample",
+        "pico_category": "Population",
+        "word": "210",
+        "score": 0.972,
+        "start": 562,
+        "end": 565
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "mean hba1c",
+        "score": 0.9947,
+        "start": 579,
+        "end": 589
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "8. 2 %",
+        "score": 0.9908,
+        "start": 605,
+        "end": 609
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "6. 1 %",
+        "score": 0.9976,
+        "start": 627,
+        "end": 631
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "8. 1 %",
+        "score": 0.6314,
+        "start": 682,
+        "end": 686
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "6. 0 %",
+        "score": 0.9946,
+        "start": 704,
+        "end": 708
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "adults with type 2 diabetes uncontrolled on metformin ± pioglitazone",
+        "210",
+        "210"
+      ],
+      "Intervention": [
+        "8. 2 %",
+        "6. 1 %",
+        "6. 0 %"
+      ],
+      "Comparison": [
+        "8. 1 %"
+      ],
+      "Outcome": [
+        "mean hba1c"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 30429357,
+    "error": null,
+    "entities": [],
+    "pico_summary": {
+      "Population": [],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 29178519,
+    "error": null,
+    "entities": [],
+    "pico_summary": {
+      "Population": [],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 39211948,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.9933,
+        "start": 376,
+        "end": 383
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "composite of cv death, non - fatal myocardial infarction ( mi ), or non - fatal stroke ( cv death / mi / stroke",
+        "score": 0.8315,
+        "start": 415,
+        "end": 515
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "death due",
+        "score": 0.612,
+        "start": 528,
+        "end": 537
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "three thousand, five hundred and thirty - three",
+        "score": 0.9995,
+        "start": 796,
+        "end": 841
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "risk",
+        "score": 0.8006,
+        "start": 928,
+        "end": 932
+      },
+      {
+        "entity_group": "INT_bin_abs",
+        "pico_category": "Intervention",
+        "word": "##8",
+        "score": 0.7275,
+        "start": 968,
+        "end": 969
+      },
+      {
+        "entity_group": "INT_bin_abs",
+        "pico_category": "Intervention",
+        "word": "##2",
+        "score": 0.79,
+        "start": 994,
+        "end": 995
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "cv death / mi / stroke",
+        "score": 0.9773,
+        "start": 1050,
+        "end": 1068
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "death due to any cause",
+        "score": 0.9733,
+        "start": 1319,
+        "end": 1341
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "death",
+        "score": 0.6599,
+        "start": 1568,
+        "end": 1573
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "risk of cv death / mi / stroke",
+        "score": 0.79,
+        "start": 1753,
+        "end": 1779
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "three thousand, five hundred and thirty - three"
+      ],
+      "Intervention": [
+        "##8",
+        "##2"
+      ],
+      "Comparison": [
+        "placebo"
+      ],
+      "Outcome": [
+        "composite of cv death, non - fatal myocardial infarction ( mi ), or non - fatal stroke ( cv death / mi / stroke",
+        "death due",
+        "risk",
+        "cv death / mi / stroke",
+        "death due to any cause",
+        "death",
+        "risk of cv death / mi / stroke"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 38073422,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "participants receiving dpp - 4is",
+        "score": 0.9958,
+        "start": 293,
+        "end": 323
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "continued on dpp - 4is",
+        "score": 0.8306,
+        "start": 382,
+        "end": 402
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "change in glycated haemoglobin ( hba1c )",
+        "score": 0.9919,
+        "start": 433,
+        "end": 471
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "changes in metabolic parameters and biomarkers",
+        "score": 0.9337,
+        "start": 516,
+        "end": 562
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "events",
+        "score": 0.6937,
+        "start": 601,
+        "end": 607
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "174",
+        "score": 0.9991,
+        "start": 692,
+        "end": 695
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "82",
+        "score": 0.5184,
+        "start": 776,
+        "end": 778
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "75",
+        "score": 0.9996,
+        "start": 816,
+        "end": 818
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "improvement in hba1c at week 24",
+        "score": 0.9866,
+        "start": 912,
+        "end": 943
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 0. 65",
+        "score": 0.9978,
+        "start": 1035,
+        "end": 1040
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "+ 0. 05",
+        "score": 0.9913,
+        "start": 1085,
+        "end": 1090
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "body weight, lipid profiles and liver enzymes",
+        "score": 0.9424,
+        "start": 1143,
+        "end": 1188
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "hba1c",
+        "score": 0.5476,
+        "start": 1340,
+        "end": 1345
+      },
+      {
+        "entity_group": "INT_bin_abs",
+        "pico_category": "Intervention",
+        "word": "seven",
+        "score": 0.9951,
+        "start": 1468,
+        "end": 1473
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "discontinued medication",
+        "score": 0.9794,
+        "start": 1512,
+        "end": 1535
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "participants receiving dpp - 4is",
+        "174",
+        "82",
+        "75"
+      ],
+      "Intervention": [
+        "- 0. 65",
+        "seven"
+      ],
+      "Comparison": [
+        "continued on dpp - 4is",
+        "+ 0. 05"
+      ],
+      "Outcome": [
+        "change in glycated haemoglobin ( hba1c )",
+        "changes in metabolic parameters and biomarkers",
+        "events",
+        "improvement in hba1c at week 24",
+        "body weight, lipid profiles and liver enzymes",
+        "hba1c",
+        "discontinued medication"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 37196421,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "adolescents with obesity",
+        "score": 0.9988,
+        "start": 329,
+        "end": 353
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo plus lifestyle intervention",
+        "score": 0.8809,
+        "start": 410,
+        "end": 445
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "44. 9 %",
+        "score": 0.9991,
+        "start": 771,
+        "end": 776
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "achieved weight reduction",
+        "score": 0.9704,
+        "start": 815,
+        "end": 840
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "normal - weight or overweight bmi",
+        "score": 0.6769,
+        "start": 876,
+        "end": 907
+      },
+      {
+        "entity_group": "Control_bin_percent",
+        "pico_category": "Comparison",
+        "word": "12. 1 %",
+        "score": 0.9994,
+        "start": 924,
+        "end": 929
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "obesity",
+        "score": 0.5018,
+        "start": 1051,
+        "end": 1058
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": ".",
+        "score": 0.6499,
+        "start": 1086,
+        "end": 1087
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "%",
+        "score": 0.4914,
+        "start": 1088,
+        "end": 1089
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "achieving an improvement of at least one bmi category",
+        "score": 0.8401,
+        "start": 1146,
+        "end": 1199
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "73. 7 %",
+        "score": 0.9992,
+        "start": 1340,
+        "end": 1345
+      },
+      {
+        "entity_group": "Control_bin_percent",
+        "pico_category": "Comparison",
+        "word": "19. 0 %",
+        "score": 0.9994,
+        "start": 1398,
+        "end": 1403
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "adolescents with obesity"
+      ],
+      "Intervention": [
+        "44. 9 %",
+        ".",
+        "%",
+        "73. 7 %"
+      ],
+      "Comparison": [
+        "placebo plus lifestyle intervention",
+        "12. 1 %",
+        "19. 0 %"
+      ],
+      "Outcome": [
+        "achieved weight reduction",
+        "normal - weight or overweight bmi",
+        "obesity",
+        "achieving an improvement of at least one bmi category"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 34514682,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "adults with overweight or obesity",
+        "score": 0.9989,
+        "start": 100,
+        "end": 133
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "2117",
+        "score": 0.9992,
+        "start": 373,
+        "end": 377
+      },
+      {
+        "entity_group": "Control_sample",
+        "pico_category": "Population",
+        "word": "1262",
+        "score": 0.9994,
+        "start": 395,
+        "end": 399
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "803",
+        "score": 0.9994,
+        "start": 652,
+        "end": 655
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "nausea",
+        "score": 0.9941,
+        "start": 806,
+        "end": 812
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "43. 9 %",
+        "score": 0.9988,
+        "start": 814,
+        "end": 819
+      },
+      {
+        "entity_group": "Control_bin_percent",
+        "pico_category": "Comparison",
+        "word": "16. 1 %",
+        "score": 0.9987,
+        "start": 824,
+        "end": 829
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "diarrhoea",
+        "score": 0.9965,
+        "start": 848,
+        "end": 857
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "29. 7 %",
+        "score": 0.9988,
+        "start": 859,
+        "end": 864
+      },
+      {
+        "entity_group": "Control_bin_percent",
+        "pico_category": "Comparison",
+        "word": "15. 9 %",
+        "score": 0.9978,
+        "start": 869,
+        "end": 874
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "vomiting",
+        "score": 0.9952,
+        "start": 877,
+        "end": 885
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "24. 5 %",
+        "score": 0.9979,
+        "start": 887,
+        "end": 892
+      },
+      {
+        "entity_group": "Control_bin_percent",
+        "pico_category": "Comparison",
+        "word": "6. 3 %",
+        "score": 0.9765,
+        "start": 897,
+        "end": 901
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "constipation",
+        "score": 0.9957,
+        "start": 907,
+        "end": 919
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "24. 2 %",
+        "score": 0.9979,
+        "start": 921,
+        "end": 926
+      },
+      {
+        "entity_group": "Control_bin_percent",
+        "pico_category": "Comparison",
+        "word": "11. 1 %",
+        "score": 0.9906,
+        "start": 931,
+        "end": 936
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "4. 3 %",
+        "score": 0.9525,
+        "start": 1142,
+        "end": 1146
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "permanently discontinued treatment",
+        "score": 0.6342,
+        "start": 1148,
+        "end": 1182
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "mean wl",
+        "score": 0.9419,
+        "start": 1208,
+        "end": 1215
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "adults with overweight or obesity",
+        "2117",
+        "1262",
+        "803"
+      ],
+      "Intervention": [
+        "43. 9 %",
+        "29. 7 %",
+        "24. 5 %",
+        "24. 2 %",
+        "4. 3 %"
+      ],
+      "Comparison": [
+        "16. 1 %",
+        "15. 9 %",
+        "6. 3 %",
+        "11. 1 %"
+      ],
+      "Outcome": [
+        "nausea",
+        "diarrhoea",
+        "vomiting",
+        "constipation",
+        "permanently discontinued treatment",
+        "mean wl"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 39756397,
+    "error": null,
+    "entities": [],
+    "pico_summary": {
+      "Population": [],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 40550013,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "72",
+        "score": 0.9952,
+        "start": 259,
+        "end": 261
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "adults with type 1 diabetes using an",
+        "score": 0.9253,
+        "start": 262,
+        "end": 298
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "insulin delivery ( aid ) system",
+        "score": 0.7542,
+        "start": 309,
+        "end": 338
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "with a body mass index of 30 or higher",
+        "score": 0.988,
+        "start": 343,
+        "end": 381
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.989,
+        "start": 446,
+        "end": 453
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "continuous glucose monitoring ( cgm ) - based time between 70 and 180 mg / dl",
+        "score": 0.9024,
+        "start": 541,
+        "end": 612
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "below 70 mg",
+        "score": 0.7614,
+        "start": 642,
+        "end": 653
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "weight reduction",
+        "score": 0.9032,
+        "start": 678,
+        "end": 694
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "36 %",
+        "score": 0.9951,
+        "start": 860,
+        "end": 863
+      },
+      {
+        "entity_group": "Control_bin_percent",
+        "pico_category": "Comparison",
+        "word": "0 %",
+        "score": 0.913,
+        "start": 868,
+        "end": 870
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "glycated hemoglobin",
+        "score": 0.9846,
+        "start": 1092,
+        "end": 1111
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "percentage of time with cgm glucose levels between 70 and 180 mg / dl",
+        "score": 0.9695,
+        "start": 1168,
+        "end": 1235
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "body weight",
+        "score": 0.9736,
+        "start": 1296,
+        "end": 1307
+      },
+      {
+        "entity_group": "INT_bin_abs",
+        "pico_category": "Intervention",
+        "word": "two",
+        "score": 0.9702,
+        "start": 1359,
+        "end": 1362
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "severe hypoglycemia events",
+        "score": 0.9596,
+        "start": 1363,
+        "end": 1389
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "diabetic ketoacidosis",
+        "score": 0.6998,
+        "start": 1412,
+        "end": 1433
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "achievement of a composite of time",
+        "score": 0.7703,
+        "start": 1582,
+        "end": 1616
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "range",
+        "score": 0.6123,
+        "start": 1620,
+        "end": 1625
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "70",
+        "score": 0.5276,
+        "start": 1642,
+        "end": 1644
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "72",
+        "adults with type 1 diabetes using an",
+        "insulin delivery ( aid ) system",
+        "with a body mass index of 30 or higher"
+      ],
+      "Intervention": [
+        "36 %",
+        "two"
+      ],
+      "Comparison": [
+        "placebo",
+        "0 %"
+      ],
+      "Outcome": [
+        "continuous glucose monitoring ( cgm ) - based time between 70 and 180 mg / dl",
+        "below 70 mg",
+        "weight reduction",
+        "glycated hemoglobin",
+        "percentage of time with cgm glucose levels between 70 and 180 mg / dl",
+        "body weight",
+        "severe hypoglycemia events",
+        "diabetic ketoacidosis",
+        "achievement of a composite of time",
+        "range",
+        "70"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 41879791,
+    "error": "The size of tensor a (836) must match the size of tensor b (512) at non-singleton dimension 1",
+    "entities": []
+  },
+  {
+    "pmid": 41138739,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Overall_age",
+        "pico_category": "Population",
+        "word": "at least 45 years",
+        "score": 0.9998,
+        "start": 387,
+        "end": 404
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "mace incidence",
+        "score": 0.9886,
+        "start": 483,
+        "end": 497
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "17 604",
+        "score": 0.9982,
+        "start": 526,
+        "end": 532
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "baseline bodyweight and waist circumference",
+        "score": 0.8336,
+        "start": 716,
+        "end": 759
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "incidence of mace",
+        "score": 0.9693,
+        "start": 787,
+        "end": 804
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "waist circumference",
+        "score": 0.8669,
+        "start": 937,
+        "end": 956
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "baseline waist circumference",
+        "score": 0.7238,
+        "start": 1014,
+        "end": 1042
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "at least 45 years",
+        "17 604"
+      ],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [
+        "mace incidence",
+        "baseline bodyweight and waist circumference",
+        "incidence of mace",
+        "waist circumference",
+        "baseline waist circumference"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 21255526,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Overall_age",
+        "pico_category": "Population",
+        "word": "≥ 75 y",
+        "score": 0.9986,
+        "start": 256,
+        "end": 262
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "15",
+        "score": 0.9994,
+        "start": 268,
+        "end": 270
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "controls",
+        "score": 0.7329,
+        "start": 275,
+        "end": 283
+      },
+      {
+        "entity_group": "Overall_age",
+        "pico_category": "Population",
+        "word": "≥ 45 to ≤ 65y",
+        "score": 0.7663,
+        "start": 285,
+        "end": 298
+      },
+      {
+        "entity_group": "Control_sample",
+        "pico_category": "Population",
+        "word": "15",
+        "score": 0.9895,
+        "start": 304,
+        "end": 306
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.9161,
+        "start": 433,
+        "end": 440
+      },
+      {
+        "entity_group": "Control_sample",
+        "pico_category": "Population",
+        "word": "139",
+        "score": 0.9922,
+        "start": 839,
+        "end": 842
+      },
+      {
+        "entity_group": "Overall_age",
+        "pico_category": "Population",
+        "word": "65 y",
+        "score": 0.7649,
+        "start": 856,
+        "end": 860
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "28",
+        "score": 0.9997,
+        "start": 863,
+        "end": 865
+      },
+      {
+        "entity_group": "Overall_age",
+        "pico_category": "Population",
+        "word": "> 65 y",
+        "score": 0.7166,
+        "start": 884,
+        "end": 890
+      },
+      {
+        "entity_group": "Overall_age",
+        "pico_category": "Population",
+        "word": "57 ± 6 y",
+        "score": 0.9543,
+        "start": 958,
+        "end": 966
+      },
+      {
+        "entity_group": "Overall_age",
+        "pico_category": "Population",
+        "word": "78 ± 3 y",
+        "score": 0.8859,
+        "start": 971,
+        "end": 979
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "postprandial serum glucose excursions",
+        "score": 0.9759,
+        "start": 1533,
+        "end": 1570
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "events",
+        "score": 0.869,
+        "start": 1626,
+        "end": 1632
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "≥ 75 y",
+        "15",
+        "≥ 45 to ≤ 65y",
+        "15",
+        "139",
+        "65 y",
+        "28",
+        "> 65 y",
+        "57 ± 6 y",
+        "78 ± 3 y"
+      ],
+      "Intervention": [],
+      "Comparison": [
+        "controls",
+        "placebo"
+      ],
+      "Outcome": [
+        "postprandial serum glucose excursions",
+        "events"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 22931974,
+    "error": "The size of tensor a (622) must match the size of tensor b (512) at non-singleton dimension 1",
+    "entities": []
+  },
+  {
+    "pmid": 36066977,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "treatment - seeking aud patients",
+        "score": 0.9809,
+        "start": 447,
+        "end": 477
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.9924,
+        "start": 538,
+        "end": 545
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "reduction in number of heavy drinking days",
+        "score": 0.9866,
+        "start": 650,
+        "end": 692
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "127",
+        "score": 0.9994,
+        "start": 810,
+        "end": 813
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "number of heavy drinking days",
+        "score": 0.9754,
+        "start": 913,
+        "end": 942
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "fmri alcohol cue reactivity in the ventral striatum and septal area",
+        "score": 0.9229,
+        "start": 994,
+        "end": 1061
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "dopamine transporter availability",
+        "score": 0.9808,
+        "start": 1137,
+        "end": 1170
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "heavy drinking days",
+        "score": 0.9889,
+        "start": 1304,
+        "end": 1323
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "total alcohol intake",
+        "score": 0.9776,
+        "start": 1328,
+        "end": 1348
+      },
+      {
+        "entity_group": "Other_Demographics",
+        "pico_category": "Population",
+        "word": "denmark",
+        "score": 0.992,
+        "start": 1826,
+        "end": 1833
+      },
+      {
+        "entity_group": "Other_Demographics",
+        "pico_category": "Population",
+        "word": "denmark",
+        "score": 0.9916,
+        "start": 1874,
+        "end": 1881
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "treatment - seeking aud patients",
+        "127",
+        "denmark",
+        "denmark"
+      ],
+      "Intervention": [],
+      "Comparison": [
+        "placebo"
+      ],
+      "Outcome": [
+        "reduction in number of heavy drinking days",
+        "number of heavy drinking days",
+        "fmri alcohol cue reactivity in the ventral striatum and septal area",
+        "dopamine transporter availability",
+        "heavy drinking days",
+        "total alcohol intake"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 22882281,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "qtc",
+        "score": 0.6351,
+        "start": 1113,
+        "end": 1116
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "placebo - corrected, baseline - adjusted qtc",
+        "score": 0.7863,
+        "start": 1312,
+        "end": 1352
+      }
+    ],
+    "pico_summary": {
+      "Population": [],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [
+        "qtc",
+        "placebo - corrected, baseline - adjusted qtc"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 34097062,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "obese",
+        "score": 0.9771,
+        "start": 469,
+        "end": 474
+      },
+      {
+        "entity_group": "Sex",
+        "pico_category": "Population",
+        "word": "women",
+        "score": 1.0,
+        "start": 475,
+        "end": 480
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "with pcos",
+        "score": 0.9654,
+        "start": 481,
+        "end": 490
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "nondiabetic",
+        "score": 0.9876,
+        "start": 503,
+        "end": 514
+      },
+      {
+        "entity_group": "Sex",
+        "pico_category": "Population",
+        "word": "women",
+        "score": 1.0,
+        "start": 515,
+        "end": 520
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "119",
+        "score": 0.9984,
+        "start": 526,
+        "end": 529
+      },
+      {
+        "entity_group": "Overall_age",
+        "pico_category": "Population",
+        "word": "18 - 45 years",
+        "score": 0.9998,
+        "start": 536,
+        "end": 547
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "with a body mass index ( bmi ) greater than 30 and less than 45",
+        "score": 0.9846,
+        "start": 549,
+        "end": 610
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "polycystic ovary syndrome",
+        "score": 0.9857,
+        "start": 615,
+        "end": 640
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "fasting glucose",
+        "score": 0.7802,
+        "start": 1593,
+        "end": 1608
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "testosterone",
+        "score": 0.9517,
+        "start": 1610,
+        "end": 1622
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "fa",
+        "score": 0.7227,
+        "start": 1624,
+        "end": 1626
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "bp",
+        "score": 0.8849,
+        "start": 1633,
+        "end": 1635
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "obese",
+        "women",
+        "with pcos",
+        "nondiabetic",
+        "women",
+        "119",
+        "18 - 45 years",
+        "with a body mass index ( bmi ) greater than 30 and less than 45",
+        "polycystic ovary syndrome"
+      ],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [
+        "fasting glucose",
+        "testosterone",
+        "fa",
+        "bp"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 19194050,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "japanese patients with type 2 diabetes suboptimally controlled despite therapeutic doses",
+        "score": 0.9942,
+        "start": 89,
+        "end": 177
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "sulfonyl",
+        "score": 0.6096,
+        "start": 181,
+        "end": 189
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.9708,
+        "start": 284,
+        "end": 291
+      },
+      {
+        "entity_group": "Control_sample",
+        "pico_category": "Population",
+        "word": "40",
+        "score": 0.994,
+        "start": 297,
+        "end": 299
+      },
+      {
+        "entity_group": "Control_sample",
+        "pico_category": "Population",
+        "word": "38",
+        "score": 0.9942,
+        "start": 318,
+        "end": 320
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "37",
+        "score": 0.9999,
+        "start": 337,
+        "end": 339
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "38",
+        "score": 0.9999,
+        "start": 360,
+        "end": 362
+      },
+      {
+        "entity_group": "Overall_age",
+        "pico_category": "Population",
+        "word": "60. 3 + / - 9. 7 years",
+        "score": 0.9994,
+        "start": 594,
+        "end": 612
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "hba1c changes",
+        "score": 0.7268,
+        "start": 722,
+        "end": 735
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "+ 0. 02",
+        "score": 0.7393,
+        "start": 745,
+        "end": 750
+      },
+      {
+        "entity_group": "Control_cont_sd",
+        "pico_category": "Comparison",
+        "word": "0. 1",
+        "score": 0.8894,
+        "start": 755,
+        "end": 758
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 0. 9",
+        "score": 0.9945,
+        "start": 770,
+        "end": 774
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "0. 1",
+        "score": 0.9624,
+        "start": 779,
+        "end": 782
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 1. 2",
+        "score": 0.9656,
+        "start": 797,
+        "end": 801
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "0.",
+        "score": 0.6721,
+        "start": 806,
+        "end": 808
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 1. 4",
+        "score": 0.9985,
+        "start": 826,
+        "end": 830
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "0. 1",
+        "score": 0.9913,
+        "start": 835,
+        "end": 838
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "5. 1 %",
+        "score": 0.9072,
+        "start": 917,
+        "end": 921
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "50",
+        "score": 0.5388,
+        "start": 933,
+        "end": 935
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": ". 0 %",
+        "score": 0.6966,
+        "start": 935,
+        "end": 938
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "71. 4 %",
+        "score": 0.8898,
+        "start": 953,
+        "end": 958
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "79. 4 %",
+        "score": 0.8167,
+        "start": 975,
+        "end": 980
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "achieved hba1c < 7 %",
+        "score": 0.7436,
+        "start": 993,
+        "end": 1011
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "fasting plasma glucose changes",
+        "score": 0.9405,
+        "start": 1070,
+        "end": 1100
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "/",
+        "score": 0.5394,
+        "start": 1104,
+        "end": 1105
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "+ 6. 0",
+        "score": 0.9867,
+        "start": 1114,
+        "end": 1118
+      },
+      {
+        "entity_group": "Control_cont_sd",
+        "pico_category": "Comparison",
+        "word": "4. 8",
+        "score": 0.9764,
+        "start": 1123,
+        "end": 1126
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "-",
+        "score": 0.7778,
+        "start": 1138,
+        "end": 1139
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "18",
+        "score": 0.978,
+        "start": 1139,
+        "end": 1141
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": ".",
+        "score": 0.7896,
+        "start": 1141,
+        "end": 1142
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "6",
+        "score": 0.9793,
+        "start": 1142,
+        "end": 1143
+      },
+      {
+        "entity_group": "Control_cont_sd",
+        "pico_category": "Comparison",
+        "word": "5. 7",
+        "score": 0.9562,
+        "start": 1148,
+        "end": 1151
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 25. 0",
+        "score": 0.9992,
+        "start": 1166,
+        "end": 1171
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "7. 0",
+        "score": 0.9987,
+        "start": 1176,
+        "end": 1179
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 28. 9",
+        "score": 0.9992,
+        "start": 1196,
+        "end": 1201
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "5. 9",
+        "score": 0.9989,
+        "start": 1206,
+        "end": 1209
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "hypoglycemia",
+        "score": 0.9741,
+        "start": 1364,
+        "end": 1376
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "nausea",
+        "score": 0.98,
+        "start": 1378,
+        "end": 1384
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "anorexia",
+        "score": 0.9802,
+        "start": 1386,
+        "end": 1394
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "decreased appetite",
+        "score": 0.9313,
+        "start": 1396,
+        "end": 1414
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "diarrhea",
+        "score": 0.984,
+        "start": 1420,
+        "end": 1428
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "japanese patients with type 2 diabetes suboptimally controlled despite therapeutic doses",
+        "sulfonyl",
+        "40",
+        "38",
+        "37",
+        "38",
+        "60. 3 + / - 9. 7 years"
+      ],
+      "Intervention": [
+        "- 0. 9",
+        "0. 1",
+        "- 1. 2",
+        "0.",
+        "- 1. 4",
+        "0. 1",
+        "50",
+        ". 0 %",
+        "71. 4 %",
+        "79. 4 %",
+        "/",
+        "-",
+        ".",
+        "- 25. 0",
+        "7. 0",
+        "- 28. 9",
+        "5. 9"
+      ],
+      "Comparison": [
+        "placebo",
+        "+ 0. 02",
+        "0. 1",
+        "5. 1 %",
+        "+ 6. 0",
+        "4. 8",
+        "18",
+        "6",
+        "5. 7"
+      ],
+      "Outcome": [
+        "hba1c changes",
+        "achieved hba1c < 7 %",
+        "fasting plasma glucose changes",
+        "hypoglycemia",
+        "nausea",
+        "anorexia",
+        "decreased appetite",
+        "diarrhea"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 31010875,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.6706,
+        "start": 534,
+        "end": 541
+      },
+      {
+        "entity_group": "INT_bin_abs",
+        "pico_category": "Intervention",
+        "word": "30",
+        "score": 0.9984,
+        "start": 946,
+        "end": 948
+      },
+      {
+        "entity_group": "Control_bin_abs",
+        "pico_category": "Comparison",
+        "word": "22",
+        "score": 0.9992,
+        "start": 963,
+        "end": 965
+      },
+      {
+        "entity_group": "INT_bin_abs",
+        "pico_category": "Intervention",
+        "word": "15",
+        "score": 0.9964,
+        "start": 1065,
+        "end": 1067
+      },
+      {
+        "entity_group": "Control_bin_abs",
+        "pico_category": "Comparison",
+        "word": "8",
+        "score": 0.999,
+        "start": 1082,
+        "end": 1083
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "median calcitonin concentrations",
+        "score": 0.7363,
+        "start": 1155,
+        "end": 1187
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "confirmed mtc",
+        "score": 0.9823,
+        "start": 1266,
+        "end": 1279
+      },
+      {
+        "entity_group": "INT_bin_abs",
+        "pico_category": "Intervention",
+        "word": "2",
+        "score": 0.9993,
+        "start": 1312,
+        "end": 1313
+      },
+      {
+        "entity_group": "Control_bin_abs",
+        "pico_category": "Comparison",
+        "word": "1",
+        "score": 0.9988,
+        "start": 1328,
+        "end": 1329
+      }
+    ],
+    "pico_summary": {
+      "Population": [],
+      "Intervention": [
+        "30",
+        "15",
+        "2"
+      ],
+      "Comparison": [
+        "placebo",
+        "22",
+        "8",
+        "1"
+      ],
+      "Outcome": [
+        "median calcitonin concentrations",
+        "confirmed mtc"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 34867786,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "overweight and obese",
+        "score": 0.9975,
+        "start": 282,
+        "end": 302
+      },
+      {
+        "entity_group": "Sex",
+        "pico_category": "Population",
+        "word": "women",
+        "score": 1.0,
+        "start": 303,
+        "end": 308
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "182",
+        "score": 0.9993,
+        "start": 488,
+        "end": 491
+      },
+      {
+        "entity_group": "Sex",
+        "pico_category": "Population",
+        "word": "women",
+        "score": 1.0,
+        "start": 492,
+        "end": 497
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "( bmi 25 - 48 kg / m2",
+        "score": 0.9985,
+        "start": 498,
+        "end": 514
+      },
+      {
+        "entity_group": "Sex",
+        "pico_category": "Population",
+        "word": "women",
+        "score": 1.0,
+        "start": 629,
+        "end": 634
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "at 12 weeks",
+        "score": 0.5475,
+        "start": 669,
+        "end": 680
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "of body weight",
+        "score": 0.54,
+        "start": 743,
+        "end": 757
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "long - term change in body weight",
+        "score": 0.9807,
+        "start": 819,
+        "end": 850
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "≥ 5 % weight",
+        "score": 0.5952,
+        "start": 1153,
+        "end": 1164
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "56 %",
+        "score": 0.9988,
+        "start": 1203,
+        "end": 1206
+      },
+      {
+        "entity_group": "Control_bin_percent",
+        "pico_category": "Comparison",
+        "word": "76 %",
+        "score": 0.9975,
+        "start": 1240,
+        "end": 1243
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "achieved ≥ 10 % weight loss",
+        "score": 0.8819,
+        "start": 1325,
+        "end": 1351
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "23 %",
+        "score": 0.9989,
+        "start": 1353,
+        "end": 1356
+      },
+      {
+        "entity_group": "Control_bin_percent",
+        "pico_category": "Comparison",
+        "word": "36 %",
+        "score": 0.9981,
+        "start": 1399,
+        "end": 1402
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "weight loss at 3 months of treatment",
+        "score": 0.8713,
+        "start": 1475,
+        "end": 1511
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "peak",
+        "score": 0.5326,
+        "start": 1630,
+        "end": 1634
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "cysteine concentrations",
+        "score": 0.9548,
+        "start": 1690,
+        "end": 1713
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "overweight and obese",
+        "women",
+        "182",
+        "women",
+        "( bmi 25 - 48 kg / m2",
+        "women"
+      ],
+      "Intervention": [
+        "56 %",
+        "23 %"
+      ],
+      "Comparison": [
+        "76 %",
+        "36 %"
+      ],
+      "Outcome": [
+        "at 12 weeks",
+        "of body weight",
+        "long - term change in body weight",
+        "≥ 5 % weight",
+        "achieved ≥ 10 % weight loss",
+        "weight loss at 3 months of treatment",
+        "peak",
+        "cysteine concentrations"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 36894921,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "adults with t2dm of <",
+        "score": 0.974,
+        "start": 517,
+        "end": 538
+      },
+      {
+        "entity_group": "Overall_age",
+        "pico_category": "Population",
+        "word": "7 - years",
+        "score": 0.8617,
+        "start": 539,
+        "end": 546
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "duration",
+        "score": 0.9412,
+        "start": 547,
+        "end": 555
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "blood pressure ( bp )",
+        "score": 0.9105,
+        "start": 980,
+        "end": 999
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "heart rate ( hr )",
+        "score": 0.8297,
+        "start": 1001,
+        "end": 1016
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "rhi",
+        "score": 0.7953,
+        "start": 1020,
+        "end": 1023
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "24",
+        "score": 0.9984,
+        "start": 1069,
+        "end": 1071
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "24",
+        "score": 0.9996,
+        "start": 1091,
+        "end": 1093
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "25",
+        "score": 0.9996,
+        "start": 1120,
+        "end": 1122
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "systolic bp",
+        "score": 0.9839,
+        "start": 1162,
+        "end": 1173
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": ". 1",
+        "score": 0.5205,
+        "start": 1183,
+        "end": 1185
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "diastolic bp",
+        "score": 0.9737,
+        "start": 1231,
+        "end": 1243
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "##i",
+        "score": 0.5114,
+        "start": 1351,
+        "end": 1352
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "baseline - adjusted rhi",
+        "score": 0.9107,
+        "start": 1363,
+        "end": 1384
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "at 8 - weeks",
+        "score": 0.8374,
+        "start": 1431,
+        "end": 1441
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "2. 07",
+        "score": 0.9961,
+        "start": 1448,
+        "end": 1452
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "0. 10",
+        "score": 0.9953,
+        "start": 1455,
+        "end": 1459
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "2. 00",
+        "score": 0.9959,
+        "start": 1473,
+        "end": 1477
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "0. 10",
+        "score": 0.9946,
+        "start": 1480,
+        "end": 1484
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "1. 81",
+        "score": 0.9919,
+        "start": 1501,
+        "end": 1505
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "0. 10",
+        "score": 0.9839,
+        "start": 1508,
+        "end": 1512
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "baseline - adjusted bp or hr",
+        "score": 0.6556,
+        "start": 1533,
+        "end": 1559
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "baseline - adjusted rhi",
+        "score": 0.7703,
+        "start": 1609,
+        "end": 1630
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "bp",
+        "score": 0.409,
+        "start": 1632,
+        "end": 1634
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "hr",
+        "score": 0.5727,
+        "start": 1638,
+        "end": 1640
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "adults with t2dm of <",
+        "7 - years",
+        "duration",
+        "24",
+        "24",
+        "25"
+      ],
+      "Intervention": [
+        ". 1",
+        "2. 07",
+        "0. 10",
+        "2. 00",
+        "0. 10",
+        "1. 81",
+        "0. 10"
+      ],
+      "Comparison": [],
+      "Outcome": [
+        "blood pressure ( bp )",
+        "heart rate ( hr )",
+        "rhi",
+        "systolic bp",
+        "diastolic bp",
+        "##i",
+        "baseline - adjusted rhi",
+        "at 8 - weeks",
+        "baseline - adjusted bp or hr",
+        "baseline - adjusted rhi",
+        "bp",
+        "hr"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 31392822,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "5770",
+        "score": 0.9993,
+        "start": 233,
+        "end": 237
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.9727,
+        "start": 388,
+        "end": 395
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "5770"
+      ],
+      "Intervention": [],
+      "Comparison": [
+        "placebo"
+      ],
+      "Outcome": [],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 33397768,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "patients with type 2 diabetes inadequately controlled with metformin",
+        "score": 0.9786,
+        "start": 101,
+        "end": 169
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "patients with type 2 diabetes inadequately controlled with metformin"
+      ],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 29504812,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "48",
+        "score": 0.9995,
+        "start": 300,
+        "end": 302
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "48"
+      ],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 26269615,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Sex",
+        "pico_category": "Population",
+        "word": "male",
+        "score": 1.0,
+        "start": 306,
+        "end": 310
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "zucker diabetic fatty ( zdf ) rats",
+        "score": 0.9843,
+        "start": 311,
+        "end": 343
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "vehicle control",
+        "score": 0.9928,
+        "start": 666,
+        "end": 681
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "glucose and hemoglobin a1c",
+        "score": 0.9876,
+        "start": 903,
+        "end": 929
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "lipase activity",
+        "score": 0.9923,
+        "start": 965,
+        "end": 980
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "total and pancreatic amylase activities",
+        "score": 0.989,
+        "start": 1032,
+        "end": 1071
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "interlobular ductal epithelium",
+        "score": 0.7415,
+        "start": 1211,
+        "end": 1241
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "incidence / severity of neutrophilic acinar pancreatic inflammation",
+        "score": 0.9575,
+        "start": 1369,
+        "end": 1434
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "male",
+        "zucker diabetic fatty ( zdf ) rats"
+      ],
+      "Intervention": [],
+      "Comparison": [
+        "vehicle control"
+      ],
+      "Outcome": [
+        "glucose and hemoglobin a1c",
+        "lipase activity",
+        "total and pancreatic amylase activities",
+        "interlobular ductal epithelium",
+        "incidence / severity of neutrophilic acinar pancreatic inflammation"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 32623637,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "20",
+        "score": 0.9891,
+        "start": 350,
+        "end": 352
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.9033,
+        "start": 404,
+        "end": 411
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "total fluid intake",
+        "score": 0.9846,
+        "start": 681,
+        "end": 699
+      },
+      {
+        "entity_group": "Sex",
+        "pico_category": "Population",
+        "word": "female",
+        "score": 1.0,
+        "start": 780,
+        "end": 786
+      },
+      {
+        "entity_group": "Overall_age",
+        "pico_category": "Population",
+        "word": "27 [ 9. 2 ] years",
+        "score": 0.9821,
+        "start": 792,
+        "end": 806
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "intake",
+        "score": 0.8137,
+        "start": 953,
+        "end": 959
+      },
+      {
+        "entity_group": "INT_cont_median",
+        "pico_category": "Intervention",
+        "word": "- 100 ml",
+        "score": 0.9988,
+        "start": 1009,
+        "end": 1016
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "total fluid intake",
+        "score": 0.988,
+        "start": 1040,
+        "end": 1058
+      },
+      {
+        "entity_group": "INT_cont_median",
+        "pico_category": "Intervention",
+        "word": "1300 ml",
+        "score": 0.9997,
+        "start": 1063,
+        "end": 1070
+      },
+      {
+        "entity_group": "Control_cont_median",
+        "pico_category": "Comparison",
+        "word": "1600",
+        "score": 0.9879,
+        "start": 1089,
+        "end": 1093
+      },
+      {
+        "entity_group": "INT_cont_median",
+        "pico_category": "Intervention",
+        "word": "ml",
+        "score": 0.6091,
+        "start": 1094,
+        "end": 1096
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "24 - h urine output",
+        "score": 0.9887,
+        "start": 1171,
+        "end": 1188
+      },
+      {
+        "entity_group": "INT_cont_median",
+        "pico_category": "Intervention",
+        "word": "1250 ml",
+        "score": 0.9997,
+        "start": 1253,
+        "end": 1260
+      },
+      {
+        "entity_group": "Control_cont_median",
+        "pico_category": "Comparison",
+        "word": "168",
+        "score": 0.9863,
+        "start": 1279,
+        "end": 1282
+      },
+      {
+        "entity_group": "INT_cont_median",
+        "pico_category": "Intervention",
+        "word": "##0 ml",
+        "score": 0.6161,
+        "start": 1282,
+        "end": 1286
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "serum sodium levels",
+        "score": 0.8972,
+        "start": 1317,
+        "end": 1336
+      },
+      {
+        "entity_group": "INT_cont_median",
+        "pico_category": "Intervention",
+        "word": "140 mmol / l",
+        "score": 0.9995,
+        "start": 1342,
+        "end": 1352
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "20",
+        "female",
+        "27 [ 9. 2 ] years"
+      ],
+      "Intervention": [
+        "- 100 ml",
+        "1300 ml",
+        "ml",
+        "1250 ml",
+        "##0 ml",
+        "140 mmol / l"
+      ],
+      "Comparison": [
+        "placebo",
+        "1600",
+        "168"
+      ],
+      "Outcome": [
+        "total fluid intake",
+        "intake",
+        "total fluid intake",
+        "24 - h urine output",
+        "serum sodium levels"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 22804250,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "patients with type 2 diabetes",
+        "score": 0.9389,
+        "start": 126,
+        "end": 155
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "167",
+        "score": 0.9993,
+        "start": 314,
+        "end": 317
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "patients who were anti - hyperglycaemic medication - naive or had discontinued metformin monotherapy",
+        "score": 0.9992,
+        "start": 318,
+        "end": 414
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "61",
+        "score": 0.9872,
+        "start": 448,
+        "end": 450
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "8 mmol",
+        "score": 0.5801,
+        "start": 453,
+        "end": 459
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "7. 6",
+        "score": 0.8483,
+        "start": 465,
+        "end": 468
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "0",
+        "score": 0.5156,
+        "start": 471,
+        "end": 472
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": ". 8",
+        "score": 0.9387,
+        "start": 479,
+        "end": 481
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.9141,
+        "start": 520,
+        "end": 527
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "hba ( 1c )",
+        "score": 0.9015,
+        "start": 623,
+        "end": 630
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 10",
+        "score": 0.9981,
+        "start": 801,
+        "end": 804
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "1",
+        "score": 0.9956,
+        "start": 807,
+        "end": 808
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 11",
+        "score": 0.9974,
+        "start": 810,
+        "end": 813
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "1",
+        "score": 0.9969,
+        "start": 816,
+        "end": 817
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 11",
+        "score": 0.9974,
+        "start": 822,
+        "end": 825
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "1",
+        "score": 0.9959,
+        "start": 828,
+        "end": 829
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "0",
+        "score": 0.998,
+        "start": 834,
+        "end": 835
+      },
+      {
+        "entity_group": "Control_cont_sd",
+        "pico_category": "Comparison",
+        "word": "1 mmol / mol",
+        "score": 0.9974,
+        "start": 838,
+        "end": 848
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 0. 9",
+        "score": 0.9988,
+        "start": 850,
+        "end": 854
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "0. 1",
+        "score": 0.9054,
+        "start": 857,
+        "end": 860
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 1. 0",
+        "score": 0.999,
+        "start": 862,
+        "end": 866
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "0. 1",
+        "score": 0.9977,
+        "start": 869,
+        "end": 872
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 1. 0",
+        "score": 0.999,
+        "start": 877,
+        "end": 881
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "0. 1",
+        "score": 0.9983,
+        "start": 884,
+        "end": 887
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "0. 0",
+        "score": 0.9972,
+        "start": 892,
+        "end": 895
+      },
+      {
+        "entity_group": "Control_cont_sd",
+        "pico_category": "Comparison",
+        "word": "0. 1 %",
+        "score": 0.9983,
+        "start": 898,
+        "end": 902
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "fasting plasma glucose",
+        "score": 0.8356,
+        "start": 964,
+        "end": 986
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "-",
+        "score": 0.9602,
+        "start": 1059,
+        "end": 1060
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "-",
+        "score": 0.9443,
+        "start": 1114,
+        "end": 1115
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "weight loss",
+        "score": 0.8187,
+        "start": 1195,
+        "end": 1206
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "nausea and diarrhoea",
+        "score": 0.9104,
+        "start": 1338,
+        "end": 1358
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "patients with type 2 diabetes",
+        "167",
+        "patients who were anti - hyperglycaemic medication - naive or had discontinued metformin monotherapy"
+      ],
+      "Intervention": [
+        "61",
+        "8 mmol",
+        "7. 6",
+        "0",
+        ". 8",
+        "- 10",
+        "1",
+        "- 11",
+        "1",
+        "- 11",
+        "1",
+        "- 0. 9",
+        "0. 1",
+        "- 1. 0",
+        "0. 1",
+        "- 1. 0",
+        "0. 1",
+        "-",
+        "-"
+      ],
+      "Comparison": [
+        "placebo",
+        "0",
+        "1 mmol / mol",
+        "0. 0",
+        "0. 1 %"
+      ],
+      "Outcome": [
+        "hba ( 1c )",
+        "fasting plasma glucose",
+        "weight loss",
+        "nausea and diarrhoea"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 39551891,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "patients with hfpef and obesity",
+        "score": 0.999,
+        "start": 221,
+        "end": 252
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "364",
+        "score": 0.9999,
+        "start": 404,
+        "end": 407
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "200",
+        "score": 0.9999,
+        "start": 409,
+        "end": 412
+      },
+      {
+        "entity_group": "Sex",
+        "pico_category": "Population",
+        "word": "women",
+        "score": 1.0,
+        "start": 413,
+        "end": 418
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.987,
+        "start": 423,
+        "end": 430
+      },
+      {
+        "entity_group": "Control_sample",
+        "pico_category": "Population",
+        "word": "367",
+        "score": 0.9991,
+        "start": 436,
+        "end": 439
+      },
+      {
+        "entity_group": "Control_sample",
+        "pico_category": "Population",
+        "word": "193",
+        "score": 0.9997,
+        "start": 441,
+        "end": 444
+      },
+      {
+        "entity_group": "Sex",
+        "pico_category": "Population",
+        "word": "women",
+        "score": 1.0,
+        "start": 445,
+        "end": 450
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "systolic blood pressure",
+        "score": 0.9832,
+        "start": 683,
+        "end": 706
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "estimated blood volume",
+        "score": 0.9819,
+        "start": 815,
+        "end": 837
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "c - reactive protein levels",
+        "score": 0.973,
+        "start": 898,
+        "end": 923
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "estimated glomerular filtration rate",
+        "score": 0.9814,
+        "start": 1019,
+        "end": 1055
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "patients with hfpef and obesity",
+        "364",
+        "200",
+        "women",
+        "367",
+        "193",
+        "women"
+      ],
+      "Intervention": [],
+      "Comparison": [
+        "placebo"
+      ],
+      "Outcome": [
+        "systolic blood pressure",
+        "estimated blood volume",
+        "c - reactive protein levels",
+        "estimated glomerular filtration rate"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 31984598,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.9893,
+        "start": 317,
+        "end": 324
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "hba1c change",
+        "score": 0.7879,
+        "start": 658,
+        "end": 670
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "111",
+        "score": 0.999,
+        "start": 718,
+        "end": 721
+      },
+      {
+        "entity_group": "Control_sample",
+        "pico_category": "Population",
+        "word": "26",
+        "score": 0.9927,
+        "start": 757,
+        "end": 759
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "29",
+        "score": 0.9998,
+        "start": 780,
+        "end": 782
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "28",
+        "score": 0.9998,
+        "start": 805,
+        "end": 807
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "28",
+        "score": 0.9998,
+        "start": 830,
+        "end": 832
+      },
+      {
+        "entity_group": "Overall_age",
+        "pico_category": "Population",
+        "word": "57. 4 years",
+        "score": 0.9998,
+        "start": 851,
+        "end": 861
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "111",
+        "26",
+        "29",
+        "28",
+        "28",
+        "57. 4 years"
+      ],
+      "Intervention": [],
+      "Comparison": [
+        "placebo"
+      ],
+      "Outcome": [
+        "hba1c change"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 38819983,
+    "error": "The size of tensor a (609) must match the size of tensor b (512) at non-singleton dimension 1",
+    "entities": []
+  },
+  {
+    "pmid": 39555826,
+    "error": "The size of tensor a (642) must match the size of tensor b (512) at non-singleton dimension 1",
+    "entities": []
+  },
+  {
+    "pmid": 38530948,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "people",
+        "score": 0.8458,
+        "start": 205,
+        "end": 211
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "hba1c",
+        "score": 0.946,
+        "start": 630,
+        "end": 635
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "fsg",
+        "score": 0.8976,
+        "start": 637,
+        "end": 640
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "ppg values",
+        "score": 0.9655,
+        "start": 646,
+        "end": 656
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "people"
+      ],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [
+        "hba1c",
+        "fsg",
+        "ppg values"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 28296201,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "japanese patients with type 2 diabetes receiving mdi for > 3 months",
+        "score": 0.9952,
+        "start": 364,
+        "end": 430
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "change in diabetes treatment satisfaction questionnaire scores",
+        "score": 0.9891,
+        "start": 661,
+        "end": 723
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "glycated hemoglobin",
+        "score": 0.9931,
+        "start": 804,
+        "end": 823
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "body weight changes",
+        "score": 0.9923,
+        "start": 828,
+        "end": 847
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "31",
+        "score": 0.9649,
+        "start": 871,
+        "end": 873
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "26",
+        "score": 0.6639,
+        "start": 925,
+        "end": 927
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "change in diabetes treatment satisfaction questionnaire scores",
+        "score": 0.9846,
+        "start": 961,
+        "end": 1023
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "mean changes in glycated hemoglobin levels",
+        "score": 0.9731,
+        "start": 1104,
+        "end": 1146
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "- 0. 05",
+        "score": 0.8615,
+        "start": 1152,
+        "end": 1157
+      },
+      {
+        "entity_group": "Control_cont_sd",
+        "pico_category": "Comparison",
+        "word": "0. 37 %",
+        "score": 0.9531,
+        "start": 1160,
+        "end": 1165
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "0. 04",
+        "score": 0.9984,
+        "start": 1187,
+        "end": 1191
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "0. 38 %",
+        "score": 0.9481,
+        "start": 1194,
+        "end": 1199
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "mean changes in body weight",
+        "score": 0.9556,
+        "start": 1229,
+        "end": 1256
+      },
+      {
+        "entity_group": "Control_cont_mean",
+        "pico_category": "Comparison",
+        "word": "+ 0. 6",
+        "score": 0.5745,
+        "start": 1262,
+        "end": 1266
+      },
+      {
+        "entity_group": "Control_cont_sd",
+        "pico_category": "Comparison",
+        "word": "1. 8 kg",
+        "score": 0.8179,
+        "start": 1269,
+        "end": 1275
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "- 2. 5",
+        "score": 0.9986,
+        "start": 1297,
+        "end": 1301
+      },
+      {
+        "entity_group": "INT_cont_sd",
+        "pico_category": "Intervention",
+        "word": "1. 8 kg",
+        "score": 0.9873,
+        "start": 1304,
+        "end": 1310
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "japanese patients with type 2 diabetes receiving mdi for > 3 months",
+        "31",
+        "26"
+      ],
+      "Intervention": [
+        "0. 04",
+        "0. 38 %",
+        "- 2. 5",
+        "1. 8 kg"
+      ],
+      "Comparison": [
+        "- 0. 05",
+        "0. 37 %",
+        "+ 0. 6",
+        "1. 8 kg"
+      ],
+      "Outcome": [
+        "change in diabetes treatment satisfaction questionnaire scores",
+        "glycated hemoglobin",
+        "body weight changes",
+        "change in diabetes treatment satisfaction questionnaire scores",
+        "mean changes in glycated hemoglobin levels",
+        "mean changes in body weight"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 20722676,
+    "error": "The size of tensor a (544) must match the size of tensor b (512) at non-singleton dimension 1",
+    "entities": []
+  },
+  {
+    "pmid": 27267268,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "437",
+        "score": 0.9981,
+        "start": 506,
+        "end": 509
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "glycated hemoglobin",
+        "score": 0.9932,
+        "start": 704,
+        "end": 723
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "0.",
+        "score": 0.5656,
+        "start": 748,
+        "end": 750
+      },
+      {
+        "entity_group": "INT_cont_mean",
+        "pico_category": "Intervention",
+        "word": "0. 83",
+        "score": 0.5879,
+        "start": 791,
+        "end": 795
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "postprandial plasma glucose",
+        "score": 0.9781,
+        "start": 808,
+        "end": 835
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "postprandial glucagon",
+        "score": 0.9933,
+        "start": 914,
+        "end": 935
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "insulinogenic index",
+        "score": 0.9915,
+        "start": 977,
+        "end": 996
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "437"
+      ],
+      "Intervention": [
+        "0.",
+        "0. 83"
+      ],
+      "Comparison": [],
+      "Outcome": [
+        "glycated hemoglobin",
+        "postprandial plasma glucose",
+        "postprandial glucagon",
+        "insulinogenic index"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 28345162,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "136",
+        "score": 0.9982,
+        "start": 310,
+        "end": 313
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "change in postprandial glucose ( ppg ) exposure 4 hours after a standardized breakfast",
+        "score": 0.9728,
+        "start": 503,
+        "end": 587
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "exposure",
+        "score": 0.5475,
+        "start": 689,
+        "end": 697
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "136"
+      ],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [
+        "change in postprandial glucose ( ppg ) exposure 4 hours after a standardized breakfast",
+        "exposure"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 26342556,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "safety",
+        "score": 0.6208,
+        "start": 321,
+        "end": 327
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "nausea",
+        "score": 0.9931,
+        "start": 490,
+        "end": 496
+      },
+      {
+        "entity_group": "INT_bin_abs",
+        "pico_category": "Intervention",
+        "word": "12 / 33",
+        "score": 0.9993,
+        "start": 567,
+        "end": 572
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "36. 4 %",
+        "score": 0.9995,
+        "start": 574,
+        "end": 579
+      },
+      {
+        "entity_group": "Control_bin_abs",
+        "pico_category": "Comparison",
+        "word": "18 / 36",
+        "score": 0.9991,
+        "start": 600,
+        "end": 605
+      },
+      {
+        "entity_group": "Control_bin_percent",
+        "pico_category": "Comparison",
+        "word": "50. 0 %",
+        "score": 0.9978,
+        "start": 607,
+        "end": 612
+      },
+      {
+        "entity_group": "INT_bin_abs",
+        "pico_category": "Intervention",
+        "word": "5 / 33",
+        "score": 0.9993,
+        "start": 640,
+        "end": 644
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "15. 2 %",
+        "score": 0.9996,
+        "start": 655,
+        "end": 660
+      },
+      {
+        "entity_group": "Control_bin_abs",
+        "pico_category": "Comparison",
+        "word": "2 / 36",
+        "score": 0.9991,
+        "start": 680,
+        "end": 684
+      },
+      {
+        "entity_group": "Control_bin_percent",
+        "pico_category": "Comparison",
+        "word": "5. 6 %",
+        "score": 0.9983,
+        "start": 695,
+        "end": 699
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "prematurely discontinued",
+        "score": 0.9908,
+        "start": 715,
+        "end": 739
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "serious treatment - emergent adverse events",
+        "score": 0.9726,
+        "start": 795,
+        "end": 836
+      },
+      {
+        "entity_group": "INT_bin_abs",
+        "pico_category": "Intervention",
+        "word": "2 / 33",
+        "score": 0.9993,
+        "start": 849,
+        "end": 853
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "6. 1 %",
+        "score": 0.9996,
+        "start": 864,
+        "end": 868
+      },
+      {
+        "entity_group": "Control_bin_abs",
+        "pico_category": "Comparison",
+        "word": "0 / 36",
+        "score": 0.999,
+        "start": 891,
+        "end": 895
+      },
+      {
+        "entity_group": "Control_bin_percent",
+        "pico_category": "Comparison",
+        "word": "0 %",
+        "score": 0.9978,
+        "start": 906,
+        "end": 908
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "symptomatic hypoglycemia",
+        "score": 0.9915,
+        "start": 939,
+        "end": 963
+      },
+      {
+        "entity_group": "INT_bin_abs",
+        "pico_category": "Intervention",
+        "word": "2 / 33",
+        "score": 0.9994,
+        "start": 976,
+        "end": 980
+      },
+      {
+        "entity_group": "INT_bin_percent",
+        "pico_category": "Intervention",
+        "word": "6. 1 %",
+        "score": 0.9996,
+        "start": 991,
+        "end": 995
+      },
+      {
+        "entity_group": "Control_bin_abs",
+        "pico_category": "Comparison",
+        "word": "1 / 36",
+        "score": 0.9992,
+        "start": 1018,
+        "end": 1022
+      },
+      {
+        "entity_group": "Control_bin_percent",
+        "pico_category": "Comparison",
+        "word": "2. 8 %",
+        "score": 0.9989,
+        "start": 1033,
+        "end": 1037
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "glycated hemoglobin",
+        "score": 0.7872,
+        "start": 1100,
+        "end": 1119
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "fasting plasma glucose",
+        "score": 0.786,
+        "start": 1121,
+        "end": 1143
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "body weight",
+        "score": 0.869,
+        "start": 1149,
+        "end": 1160
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "well tolerated",
+        "score": 0.9289,
+        "start": 1314,
+        "end": 1328
+      }
+    ],
+    "pico_summary": {
+      "Population": [],
+      "Intervention": [
+        "12 / 33",
+        "36. 4 %",
+        "5 / 33",
+        "15. 2 %",
+        "2 / 33",
+        "6. 1 %",
+        "2 / 33",
+        "6. 1 %"
+      ],
+      "Comparison": [
+        "18 / 36",
+        "50. 0 %",
+        "2 / 36",
+        "5. 6 %",
+        "0 / 36",
+        "0 %",
+        "1 / 36",
+        "2. 8 %"
+      ],
+      "Outcome": [
+        "safety",
+        "nausea",
+        "prematurely discontinued",
+        "serious treatment - emergent adverse events",
+        "symptomatic hypoglycemia",
+        "glycated hemoglobin",
+        "fasting plasma glucose",
+        "body weight",
+        "well tolerated"
+      ],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 38874618,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "t2d and coronary",
+        "score": 0.5852,
+        "start": 316,
+        "end": 332
+      },
+      {
+        "entity_group": "Total_sample",
+        "pico_category": "Population",
+        "word": "92",
+        "score": 0.9995,
+        "start": 654,
+        "end": 656
+      },
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "individuals living with t2d",
+        "score": 0.9794,
+        "start": 657,
+        "end": 684
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "20",
+        "score": 0.9978,
+        "start": 697,
+        "end": 699
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "42",
+        "score": 0.9988,
+        "start": 719,
+        "end": 721
+      },
+      {
+        "entity_group": "Control_sample",
+        "pico_category": "Population",
+        "word": "30",
+        "score": 0.7707,
+        "start": 772,
+        "end": 774
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "t2d and coronary",
+        "92",
+        "individuals living with t2d",
+        "20",
+        "42",
+        "30"
+      ],
+      "Intervention": [],
+      "Comparison": [],
+      "Outcome": [],
+      "Other": []
+    }
+  },
+  {
+    "pmid": 27216492,
+    "error": "The size of tensor a (803) must match the size of tensor b (512) at non-singleton dimension 1",
+    "entities": []
+  },
+  {
+    "pmid": 24699248,
+    "error": null,
+    "entities": [
+      {
+        "entity_group": "Recruit_participant_conditions",
+        "pico_category": "Population",
+        "word": "subjects with type 2 diabetes",
+        "score": 0.9913,
+        "start": 289,
+        "end": 318
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "45",
+        "score": 0.9988,
+        "start": 501,
+        "end": 503
+      },
+      {
+        "entity_group": "INT_sample",
+        "pico_category": "Population",
+        "word": "96",
+        "score": 0.9931,
+        "start": 556,
+        "end": 558
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.656,
+        "start": 561,
+        "end": 568
+      },
+      {
+        "entity_group": "Control_name",
+        "pico_category": "Comparison",
+        "word": "placebo",
+        "score": 0.7431,
+        "start": 689,
+        "end": 696
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "plasma total pyy levels",
+        "score": 0.978,
+        "start": 1005,
+        "end": 1028
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "active",
+        "score": 0.6857,
+        "start": 1290,
+        "end": 1296
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "total glp - 1",
+        "score": 0.6828,
+        "start": 1300,
+        "end": 1311
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "gip",
+        "score": 0.5662,
+        "start": 1315,
+        "end": 1318
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "total",
+        "score": 0.8136,
+        "start": 1373,
+        "end": 1378
+      },
+      {
+        "entity_group": "Outcome_measurements",
+        "pico_category": "Outcome",
+        "word": "circulating glucose, insulin, c - peptide or glucagon levels",
+        "score": 0.9723,
+        "start": 1677,
+        "end": 1735
+      }
+    ],
+    "pico_summary": {
+      "Population": [
+        "subjects with type 2 diabetes",
+        "45",
+        "96"
+      ],
+      "Intervention": [],
+      "Comparison": [
+        "placebo",
+        "placebo"
+      ],
+      "Outcome": [
+        "plasma total pyy levels",
+        "active",
+        "total glp - 1",
+        "gip",
+        "total",
+        "circulating glucose, insulin, c - peptide or glucagon levels"
+      ],
+      "Other": []
+    }
+  }
+]

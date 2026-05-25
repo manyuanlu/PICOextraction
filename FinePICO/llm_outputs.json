@@ -1,0 +1,1343 @@
+[
+  {
+    "pmid": "36306151",
+    "indication": "liraglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Individuals with obesity and prediabetes",
+    "intervention": "Liraglutide (GLP-1R agonist) for 14 weeks",
+    "comparison": "Hypocaloric diet for 14 weeks; Sitagliptin (dipeptidyl peptidase-4 inhibitor) for 14 weeks; Placebo (double-blind, placebo-controlled for drug treatments). Randomization ratio 2:1:1 (liraglutide:diet:sitagliptin)",
+    "outcomes_primary": "Measures of endothelial function: flow-mediated vasodilation (FMD), plasminogen activator inhibitor-1 (PAI-1), urine albumin-to-creatinine ratio (UACR)",
+    "outcomes_secondary": "",
+    "extraction_notes": "Dose, route, and frequency of liraglutide and sitagliptin not specified. Specific caloric deficit for hypocaloric diet not specified. Secondary outcomes not explicitly defined in the abstract. Measurements made at baseline, after 2 weeks (prior to significant weight loss), and after 14 weeks.",
+    "pico_summary": {
+      "Population": [
+        "Individuals with obesity and prediabetes"
+      ],
+      "Intervention": [
+        "Liraglutide (GLP-1R agonist) for 14 weeks"
+      ],
+      "Comparison": [
+        "Hypocaloric diet for 14 weeks; Sitagliptin (dipeptidyl peptidase-4 inhibitor) for 14 weeks; Placebo (double-blind, placebo-controlled for drug treatments). Randomization ratio 2:1:1 (liraglutide:diet:sitagliptin)"
+      ],
+      "Outcome": [
+        "Measures of endothelial function: flow-mediated vasodilation (FMD), plasminogen activator inhibitor-1 (PAI-1), urine albumin-to-creatinine ratio (UACR)",
+        ""
+      ]
+    }
+  },
+  {
+    "pmid": "22846777",
+    "indication": "liraglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Healthy volunteers",
+    "intervention": "Liraglutide (GLP-1 analog) at doses of 0.3 mg, 0.6 mg, or 1.2 mg",
+    "comparison": "Placebo",
+    "outcomes_primary": "Intragastric pressure (IGP) during nutrient-drink consumption; gastric accommodation measured by barostat technique",
+    "outcomes_secondary": "Satiation scores on a graded scale until maximal satiation; maximum-tolerated volume; perception during isobaric distentions; gastric compliance; gastric volume before and after nutrient drink ingestion",
+    "extraction_notes": "Small sample size (n=10). Route and frequency of liraglutide administration not explicitly stated. Study appears to be a crossover design with same volunteers receiving all treatments. Duration of treatment not specified.",
+    "pico_summary": {
+      "Population": [
+        "Healthy volunteers"
+      ],
+      "Intervention": [
+        "Liraglutide (GLP-1 analog) at doses of 0.3 mg, 0.6 mg, or 1.2 mg"
+      ],
+      "Comparison": [
+        "Placebo"
+      ],
+      "Outcome": [
+        "Intragastric pressure (IGP) during nutrient-drink consumption; gastric accommodation measured by barostat technique",
+        "Satiation scores on a graded scale until maximal satiation; maximum-tolerated volume; perception during isobaric distentions; gastric compliance; gastric volume before and after nutrient drink ingestion"
+      ]
+    }
+  },
+  {
+    "pmid": "34797962",
+    "indication": "liraglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Healthy Chinese individuals (single-dose study, n=24); Chinese individuals with type 2 diabetes (phase III study, n=720)",
+    "intervention": "Insulin degludec/liraglutide (IDegLira), once daily, with metformin (in phase III study)",
+    "comparison": "Individual components: insulin degludec alone, liraglutide alone (both once daily with metformin in phase III study)",
+    "outcomes_primary": "Pharmacokinetics of insulin degludec and liraglutide when administered as IDegLira compared to individual components",
+    "outcomes_secondary": "Dose proportionality of IDegLira components; covariate effects on degludec and liraglutide exposure",
+    "extraction_notes": "Two studies reported: single-dose randomized three-period cross-over trial in healthy volunteers and a 26-week phase III treat-to-target randomized trial in type 2 diabetes. Specific doses of IDegLira and individual components not provided in abstract.",
+    "pico_summary": {
+      "Population": [
+        "Healthy Chinese individuals (single-dose study, n=24); Chinese individuals with type 2 diabetes (phase III study, n=720)"
+      ],
+      "Intervention": [
+        "Insulin degludec/liraglutide (IDegLira), once daily, with metformin (in phase III study)"
+      ],
+      "Comparison": [
+        "Individual components: insulin degludec alone, liraglutide alone (both once daily with metformin in phase III study)"
+      ],
+      "Outcome": [
+        "Pharmacokinetics of insulin degludec and liraglutide when administered as IDegLira compared to individual components",
+        "Dose proportionality of IDegLira components; covariate effects on degludec and liraglutide exposure"
+      ]
+    }
+  },
+  {
+    "pmid": "30099030",
+    "indication": "liraglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Cognitively normal late middle-aged individuals with subjective cognitive complaints; approximately half with family history of Alzheimer's Disease",
+    "intervention": "Liraglutide (glucagon-like peptide-1 agonist) for 12 weeks",
+    "comparison": "Placebo",
+    "outcomes_primary": "Seed-based resting state connectivity using functional magnetic resonance imaging (fMRI), specifically intrinsic connectivity within the default mode network (DMN)",
+    "outcomes_secondary": "Neuropsychological testing (cognitive outcomes)",
+    "extraction_notes": "Dose, route, and frequency of liraglutide not specified in abstract. Study described as double-blinded, placebo-controlled. Journal name not provided.",
+    "pico_summary": {
+      "Population": [
+        "Cognitively normal late middle-aged individuals with subjective cognitive complaints; approximately half with family history of Alzheimer's Disease"
+      ],
+      "Intervention": [
+        "Liraglutide (glucagon-like peptide-1 agonist) for 12 weeks"
+      ],
+      "Comparison": [
+        "Placebo"
+      ],
+      "Outcome": [
+        "Seed-based resting state connectivity using functional magnetic resonance imaging (fMRI), specifically intrinsic connectivity within the default mode network (DMN)",
+        "Neuropsychological testing (cognitive outcomes)"
+      ]
+    }
+  },
+  {
+    "pmid": "27800649",
+    "indication": "liraglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Japanese individuals with type 2 diabetes",
+    "intervention": "DPP-4 inhibitor linagliptin for 2 weeks",
+    "comparison": "GLP-1 receptor agonist liraglutide for 2 weeks",
+    "outcomes_primary": "Glucagon response to hypoglycaemia during hypoglycaemic clamp test",
+    "outcomes_secondary": "Counter-regulatory hormone responses (growth hormone, cortisol, epinephrine, norepinephrine) during hypoglycaemic clamp test",
+    "extraction_notes": "Specific doses, routes, and frequencies not provided in abstract. Study design described as exploratory trial with meal tolerance tests and three-step hypoglycaemic clamp glucose tests performed before and after treatment.",
+    "pico_summary": {
+      "Population": [
+        "Japanese individuals with type 2 diabetes"
+      ],
+      "Intervention": [
+        "DPP-4 inhibitor linagliptin for 2 weeks"
+      ],
+      "Comparison": [
+        "GLP-1 receptor agonist liraglutide for 2 weeks"
+      ],
+      "Outcome": [
+        "Glucagon response to hypoglycaemia during hypoglycaemic clamp test",
+        "Counter-regulatory hormone responses (growth hormone, cortisol, epinephrine, norepinephrine) during hypoglycaemic clamp test"
+      ]
+    }
+  },
+  {
+    "pmid": "29230803",
+    "indication": "liraglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Patients aged 18-75 years with type-2 diabetes mellitus undergoing non-cardiac surgery",
+    "intervention": "Premedication with liraglutide",
+    "comparison": "Glucose-insulin-potassium infusion (insulin infusion group); Intravenous insulin bolus regimen (insulin bolus group)",
+    "outcomes_primary": "Glucose lowering; Need for rescue insulin",
+    "outcomes_secondary": "",
+    "extraction_notes": "Abstract appears truncated; target glucose mentioned as < 8.0 mmol/l but text is incomplete. Primary/secondary outcome distinction not explicitly stated - outcomes listed are those mentioned in study objectives. Open-label study design. Web-based randomisation program used for allocation.",
+    "pico_summary": {
+      "Population": [
+        "Patients aged 18-75 years with type-2 diabetes mellitus undergoing non-cardiac surgery"
+      ],
+      "Intervention": [
+        "Premedication with liraglutide"
+      ],
+      "Comparison": [
+        "Glucose-insulin-potassium infusion (insulin infusion group); Intravenous insulin bolus regimen (insulin bolus group)"
+      ],
+      "Outcome": [
+        "Glucose lowering; Need for rescue insulin",
+        ""
+      ]
+    }
+  },
+  {
+    "pmid": "28181363",
+    "indication": "liraglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "People with type 2 diabetes of 2.6 ± 1.9 years' duration",
+    "intervention": "Daily subcutaneous liraglutide injection for 48 weeks",
+    "comparison": "Daily subcutaneous placebo injection",
+    "outcomes_primary": "",
+    "outcomes_secondary": "",
+    "extraction_notes": "Abstract appears truncated. Outcomes not explicitly designated as primary or secondary. GLP-1 and GIP responses assessed by area under the curve (AUC) during oral glucose tolerance test (OGTT) at 0, 30, 60, 90, and 120 minutes, with OGTT performed every 12 weeks. Sample size: 51 participants randomized.",
+    "pico_summary": {
+      "Population": [
+        "People with type 2 diabetes of 2.6 ± 1.9 years' duration"
+      ],
+      "Intervention": [
+        "Daily subcutaneous liraglutide injection for 48 weeks"
+      ],
+      "Comparison": [
+        "Daily subcutaneous placebo injection"
+      ],
+      "Outcome": []
+    }
+  },
+  {
+    "pmid": "26376464",
+    "indication": "liraglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Chinese patients diagnosed with type 2 diabetes mellitus (T2DM)",
+    "intervention": "Liraglutide, once daily (dose not specified), in combination with metformin 1 g twice daily, for 16 weeks",
+    "comparison": "Glimepiride 4 mg once daily in combination with metformin 1 g twice daily",
+    "outcomes_primary": "Plasma levels of adiponectin and resistin",
+    "outcomes_secondary": "HbA1c levels",
+    "extraction_notes": "Liraglutide dose not explicitly specified in abstract. Study described as double-blinded double-dummy active-controlled design. Sample size was 44 subjects total.",
+    "pico_summary": {
+      "Population": [
+        "Chinese patients diagnosed with type 2 diabetes mellitus (T2DM)"
+      ],
+      "Intervention": [
+        "Liraglutide, once daily (dose not specified), in combination with metformin 1 g twice daily, for 16 weeks"
+      ],
+      "Comparison": [
+        "Glimepiride 4 mg once daily in combination with metformin 1 g twice daily"
+      ],
+      "Outcome": [
+        "Plasma levels of adiponectin and resistin",
+        "HbA1c levels"
+      ]
+    }
+  },
+  {
+    "pmid": "38190619",
+    "indication": "liraglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "GRADE study participants with type 2 diabetes on baseline metformin therapy",
+    "intervention": "Glimepiride added to metformin (n=1,254), Liraglutide added to metformin (n=1,262), Sitagliptin added to metformin (n=1,268)",
+    "comparison": "Three-arm comparison between glimepiride, liraglutide, and sitagliptin as add-on therapy to metformin",
+    "outcomes_primary": "Glycemic failure defined as HbA1c ≥7% (53 mmol/mol)",
+    "outcomes_secondary": "Glycemic failure defined as HbA1c >7.5% (58 mmol/mol)",
+    "extraction_notes": "This is a secondary analysis of the GRADE trial examining the relationship between insulin sensitivity (HOMA2-%S) and β-cell function (C-peptide responses) on treatment outcomes. Specific doses, routes, and frequencies of medications not provided in abstract.",
+    "pico_summary": {
+      "Population": [
+        "GRADE study participants with type 2 diabetes on baseline metformin therapy"
+      ],
+      "Intervention": [
+        "Glimepiride added to metformin (n=1,254), Liraglutide added to metformin (n=1,262), Sitagliptin added to metformin (n=1,268)"
+      ],
+      "Comparison": [
+        "Three-arm comparison between glimepiride, liraglutide, and sitagliptin as add-on therapy to metformin"
+      ],
+      "Outcome": [
+        "Glycemic failure defined as HbA1c ≥7% (53 mmol/mol)",
+        "Glycemic failure defined as HbA1c >7.5% (58 mmol/mol)"
+      ]
+    }
+  },
+  {
+    "pmid": "21340616",
+    "indication": "liraglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Adults with type 2 diabetes, aged 18-70 years, body mass index 18.5-40 kg/m², HbA1c 7.0%-9.5%",
+    "intervention": "Liraglutide once-daily subcutaneous injection at doses of 0.6 mg, 1.2 mg, and 1.8 mg for 3 weeks",
+    "comparison": "Placebo once-daily for 3 weeks",
+    "outcomes_primary": "Postprandial plasma glucose levels, fasting plasma glucose levels",
+    "outcomes_secondary": "Postprandial insulin levels, fasting insulin levels, gastric emptying (measured by paracetamol/acetaminophen concentrations)",
+    "extraction_notes": "Single-centre, randomized, placebo-controlled, double-blind, two-period crossover trial with 3-4 week washout period. Primary vs secondary outcomes not explicitly distinguished in abstract.",
+    "pico_summary": {
+      "Population": [
+        "Adults with type 2 diabetes, aged 18-70 years, body mass index 18.5-40 kg/m², HbA1c 7.0%-9.5%"
+      ],
+      "Intervention": [
+        "Liraglutide once-daily subcutaneous injection at doses of 0.6 mg, 1.2 mg, and 1.8 mg for 3 weeks"
+      ],
+      "Comparison": [
+        "Placebo once-daily for 3 weeks"
+      ],
+      "Outcome": [
+        "Postprandial plasma glucose levels, fasting plasma glucose levels",
+        "Postprandial insulin levels, fasting insulin levels, gastric emptying (measured by paracetamol/acetaminophen concentrations)"
+      ]
+    }
+  },
+  {
+    "pmid": "25359159",
+    "indication": "liraglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Adults with type 2 diabetes treated with metformin ± sulphonylurea, with HbA1c levels of 7.5-12%",
+    "intervention": "Insulin glargine, titrated to target fasting plasma glucose of 4.0-5.5 mmol/L, for 24 weeks",
+    "comparison": "Liraglutide, escalated to 1.8 mg daily, for 24 weeks",
+    "outcomes_primary": "Percentage of subjects reaching HbA1c <7%",
+    "outcomes_secondary": "HbA1c reduction; fasting plasma glucose; weight change; symptomatic hypoglycaemia; gastrointestinal treatment-emergent adverse events; withdrawal due to adverse events",
+    "extraction_notes": "Open-label trial design. Trial was powered to detect superiority of glargine over liraglutide.",
+    "pico_summary": {
+      "Population": [
+        "Adults with type 2 diabetes treated with metformin ± sulphonylurea, with HbA1c levels of 7.5-12%"
+      ],
+      "Intervention": [
+        "Insulin glargine, titrated to target fasting plasma glucose of 4.0-5.5 mmol/L, for 24 weeks"
+      ],
+      "Comparison": [
+        "Liraglutide, escalated to 1.8 mg daily, for 24 weeks"
+      ],
+      "Outcome": [
+        "Percentage of subjects reaching HbA1c <7%",
+        "HbA1c reduction; fasting plasma glucose; weight change; symptomatic hypoglycaemia; gastrointestinal treatment-emergent adverse events; withdrawal due to adverse events"
+      ]
+    }
+  },
+  {
+    "pmid": "28124817",
+    "indication": "liraglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Adults with type 2 diabetes uncontrolled on metformin ± pioglitazone, insulin-naïve",
+    "intervention": "Insulin degludec/liraglutide (IDegLira) titrated once weekly based on the mean of 2 pre-breakfast plasma glucose readings",
+    "comparison": "IDegLira titrated twice weekly based on the mean of 3 pre-breakfast plasma glucose readings",
+    "outcomes_primary": "HbA1c change; non-inferiority assessment",
+    "outcomes_secondary": "",
+    "extraction_notes": "Primary and secondary outcomes not explicitly distinguished in abstract. Trial duration was 32 weeks. Open-label design. IDegLira dose, route, and frequency not specified beyond titration schedule.",
+    "pico_summary": {
+      "Population": [
+        "Adults with type 2 diabetes uncontrolled on metformin ± pioglitazone, insulin-naïve"
+      ],
+      "Intervention": [
+        "Insulin degludec/liraglutide (IDegLira) titrated once weekly based on the mean of 2 pre-breakfast plasma glucose readings"
+      ],
+      "Comparison": [
+        "IDegLira titrated twice weekly based on the mean of 3 pre-breakfast plasma glucose readings"
+      ],
+      "Outcome": [
+        "HbA1c change; non-inferiority assessment",
+        ""
+      ]
+    }
+  },
+  {
+    "pmid": "30429357",
+    "indication": "semaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Not explicitly stated in abstract",
+    "intervention": "Orally delivered semaglutide (glucagon-like peptide-1 analog) coformulated with absorption enhancer sodium N-(8-[2-hydroxybenzoyl]amino)caprylate (SNAC)",
+    "comparison": "Not explicitly stated in abstract",
+    "outcomes_primary": "Not explicitly stated in abstract",
+    "outcomes_secondary": "Not explicitly stated in abstract",
+    "extraction_notes": "Abstract appears to be truncated/incomplete. Study type unclear but appears to be mechanistic investigation of transcellular stomach absorption rather than a clinical trial. Population, comparison groups, and outcomes cannot be determined from available text.",
+    "pico_summary": {
+      "Population": [
+        "Not explicitly stated in abstract"
+      ],
+      "Intervention": [
+        "Orally delivered semaglutide (glucagon-like peptide-1 analog) coformulated with absorption enhancer sodium N-(8-[2-hydroxybenzoyl]amino)caprylate (SNAC)"
+      ],
+      "Comparison": [
+        "Not explicitly stated in abstract"
+      ],
+      "Outcome": [
+        "Not explicitly stated in abstract",
+        "Not explicitly stated in abstract"
+      ]
+    }
+  },
+  {
+    "pmid": "29178519",
+    "indication": "semaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Patients with type 2 diabetes; subgroup analysis focused on patients with pre-existing diabetic retinopathy, poor glycaemic control at baseline, and treated with insulin",
+    "intervention": "Semaglutide, a glucagon-like peptide-1 analogue (dose, route, frequency not specified in abstract)",
+    "comparison": "Placebo (SUSTAIN 6); pooled analysis across SUSTAIN 1 to 5 and Japanese trials",
+    "outcomes_primary": "Diabetic retinopathy complications",
+    "outcomes_secondary": "Diabetic retinopathy adverse events; change in glycated haemoglobin (HbA1c) at week 16",
+    "extraction_notes": "This is a post hoc analysis of pooled data from SUSTAIN trials, not a single primary RCT. SUSTAIN 6 was a 2-year cardiovascular outcomes trial. Specific semaglutide doses not provided in abstract. Primary outcome of original SUSTAIN 6 trial was cardiovascular outcomes, not diabetic retinopathy.",
+    "pico_summary": {
+      "Population": [
+        "Patients with type 2 diabetes; subgroup analysis focused on patients with pre-existing diabetic retinopathy, poor glycaemic control at baseline, and treated with insulin"
+      ],
+      "Intervention": [
+        "Semaglutide, a glucagon-like peptide-1 analogue (dose, route, frequency not specified in abstract)"
+      ],
+      "Comparison": [
+        "Placebo (SUSTAIN 6); pooled analysis across SUSTAIN 1 to 5 and Japanese trials"
+      ],
+      "Outcome": [
+        "Diabetic retinopathy complications",
+        "Diabetic retinopathy adverse events; change in glycated haemoglobin (HbA1c) at week 16"
+      ]
+    }
+  },
+  {
+    "pmid": "39211948",
+    "indication": "semaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Adults with type 2 diabetes and chronic kidney disease, categorized by CKD severity using estimated glomerular filtration rate (< or ≥60 mL/min/1.73 m2), urine albumin-to-creatinine ratio (< or ≥300 mg/g), or Kidney Disease Improving Global Outcomes (KDIGO) risk classification",
+    "intervention": "Subcutaneous semaglutide 1 mg weekly",
+    "comparison": "Placebo weekly",
+    "outcomes_primary": "Composite of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (CV death/MI/stroke); death due to any cause",
+    "outcomes_secondary": "",
+    "extraction_notes": "This is a prespecified subgroup analysis of the FLOW trial examining CV outcomes by baseline CKD severity. Secondary outcomes not explicitly listed in abstract.",
+    "pico_summary": {
+      "Population": [
+        "Adults with type 2 diabetes and chronic kidney disease, categorized by CKD severity using estimated glomerular filtration rate (< or ≥60 mL/min/1.73 m2), urine albumin-to-creatinine ratio (< or ≥300 mg/g), or Kidney Disease Improving Global Outcomes (KDIGO) risk classification"
+      ],
+      "Intervention": [
+        "Subcutaneous semaglutide 1 mg weekly"
+      ],
+      "Comparison": [
+        "Placebo weekly"
+      ],
+      "Outcome": [
+        "Composite of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (CV death/MI/stroke); death due to any cause",
+        ""
+      ]
+    }
+  },
+  {
+    "pmid": "38073422",
+    "indication": "semaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "People with type 2 diabetes receiving dipeptidyl peptidase-4 inhibitors (DPP-4is)",
+    "intervention": "Switching to oral semaglutide 3-14 mg/day",
+    "comparison": "Continuation of dipeptidyl peptidase-4 inhibitors (DPP-4is)",
+    "outcomes_primary": "Change in glycated haemoglobin (HbA1c) over 24 weeks",
+    "outcomes_secondary": "Changes in metabolic parameters and biomarkers (body weight, lipid profiles, liver enzymes); occurrence of adverse events",
+    "extraction_notes": "Dose range for semaglutide specified as 3-14 mg/day but specific titration schedule not described; specific DPP-4i agents not named",
+    "pico_summary": {
+      "Population": [
+        "People with type 2 diabetes receiving dipeptidyl peptidase-4 inhibitors (DPP-4is)"
+      ],
+      "Intervention": [
+        "Switching to oral semaglutide 3-14 mg/day"
+      ],
+      "Comparison": [
+        "Continuation of dipeptidyl peptidase-4 inhibitors (DPP-4is)"
+      ],
+      "Outcome": [
+        "Change in glycated haemoglobin (HbA1c) over 24 weeks",
+        "Changes in metabolic parameters and biomarkers (body weight, lipid profiles, liver enzymes); occurrence of adverse events"
+      ]
+    }
+  },
+  {
+    "pmid": "37196421",
+    "indication": "semaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Adolescents with obesity",
+    "intervention": "Once-weekly subcutaneous semaglutide 2.4 mg plus lifestyle intervention (counseling in healthy nutrition and a goal of 60 minutes of moderate- to high-intensity physical activity per day)",
+    "comparison": "Placebo plus lifestyle intervention (counseling in healthy nutrition and a goal of 60 minutes of moderate- to high-intensity physical activity per day)",
+    "outcomes_primary": "Achievement of improvement in BMI category at week 68; attainment of normal-weight or overweight BMI by week 68",
+    "outcomes_secondary": "Proportion of participants in obesity class III; achievement of at least one BMI category improvement",
+    "extraction_notes": "This is a post hoc analysis of the STEP TEENS trial. The abstract does not clearly distinguish between primary and secondary outcomes; outcomes listed represent the endpoints analyzed in this post hoc analysis.",
+    "pico_summary": {
+      "Population": [
+        "Adolescents with obesity"
+      ],
+      "Intervention": [
+        "Once-weekly subcutaneous semaglutide 2.4 mg plus lifestyle intervention (counseling in healthy nutrition and a goal of 60 minutes of moderate- to high-intensity physical activity per day)"
+      ],
+      "Comparison": [
+        "Placebo plus lifestyle intervention (counseling in healthy nutrition and a goal of 60 minutes of moderate- to high-intensity physical activity per day)"
+      ],
+      "Outcome": [
+        "Achievement of improvement in BMI category at week 68; attainment of normal-weight or overweight BMI by week 68",
+        "Proportion of participants in obesity class III; achievement of at least one BMI category improvement"
+      ]
+    }
+  },
+  {
+    "pmid": "34514682",
+    "indication": "semaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Adults with overweight or obesity",
+    "intervention": "Once-weekly semaglutide 2.4 mg subcutaneous for 68 weeks (with dose escalation period); STEP 4 included 20 weeks of semaglutide run-in followed by maintenance",
+    "comparison": "Placebo",
+    "outcomes_primary": "Gastrointestinal adverse events (nausea, diarrhoea, vomiting, constipation); relationship between gastrointestinal adverse events and weight loss",
+    "outcomes_secondary": "Weight loss by presence/absence of gastrointestinal adverse events; mediation analysis of weight loss effects mediated by gastrointestinal adverse events; treatment discontinuation due to gastrointestinal adverse events; gastrointestinal tolerability with semaglutide maintenance and cessation",
+    "extraction_notes": "This is a pooled analysis of STEP 1-3 trials with additional analysis from STEP 4. Primary and secondary outcomes not explicitly labeled; categorization based on stated aims.",
+    "pico_summary": {
+      "Population": [
+        "Adults with overweight or obesity"
+      ],
+      "Intervention": [
+        "Once-weekly semaglutide 2.4 mg subcutaneous for 68 weeks (with dose escalation period); STEP 4 included 20 weeks of semaglutide run-in followed by maintenance"
+      ],
+      "Comparison": [
+        "Placebo"
+      ],
+      "Outcome": [
+        "Gastrointestinal adverse events (nausea, diarrhoea, vomiting, constipation); relationship between gastrointestinal adverse events and weight loss",
+        "Weight loss by presence/absence of gastrointestinal adverse events; mediation analysis of weight loss effects mediated by gastrointestinal adverse events; treatment discontinuation due to gastrointestinal adverse events; gastrointestinal tolerability with semaglutide maintenance and cessation"
+      ]
+    }
+  },
+  {
+    "pmid": "39756397",
+    "indication": "semaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Adults with overweight or obesity (STEP 1, 3, 6, 8) and adults with overweight or obesity and type 2 diabetes (STEP 2, 6)",
+    "intervention": "Semaglutide 2.4 mg",
+    "comparison": "Placebo",
+    "outcomes_primary": "",
+    "outcomes_secondary": "Changes in antihypertensive treatment intensity from randomization to end of treatment; changes in lipid-lowering treatment intensity from randomization to end of treatment; body weight change in participants receiving antihypertensive or lipid-lowering medications",
+    "extraction_notes": "Post hoc analysis pooling data from five STEP trials (STEP 1, 2, 3, 6, 8). Primary outcomes not explicitly distinguished from secondary outcomes in abstract. Route, frequency, and duration of semaglutide administration not specified in abstract.",
+    "pico_summary": {
+      "Population": [
+        "Adults with overweight or obesity (STEP 1, 3, 6, 8) and adults with overweight or obesity and type 2 diabetes (STEP 2, 6)"
+      ],
+      "Intervention": [
+        "Semaglutide 2.4 mg"
+      ],
+      "Comparison": [
+        "Placebo"
+      ],
+      "Outcome": []
+    }
+  },
+  {
+    "pmid": "40550013",
+    "indication": "semaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Adults with type 1 diabetes using an automated insulin delivery (AID) system and with a body mass index of 30 or higher",
+    "intervention": "Once-weekly semaglutide up to 1 mg",
+    "comparison": "Placebo",
+    "outcomes_primary": "Composite end point consisting of achieving all of the following: continuous glucose monitoring (CGM)-based time between 70 and 180 mg/dl of greater than 70% and time below 70 mg/dl of less than 4%; and weight reduction of at least 5%",
+    "outcomes_secondary": "Glycated hemoglobin change from baseline; percentage of time with CGM glucose levels between 70 and 180 mg/dl; body weight change; severe hypoglycemia events; diabetic ketoacidosis",
+    "extraction_notes": "Secondary outcomes inferred from results section as they were not explicitly labeled as secondary outcomes in the abstract. Trial duration was 26 weeks.",
+    "pico_summary": {
+      "Population": [
+        "Adults with type 1 diabetes using an automated insulin delivery (AID) system and with a body mass index of 30 or higher"
+      ],
+      "Intervention": [
+        "Once-weekly semaglutide up to 1 mg"
+      ],
+      "Comparison": [
+        "Placebo"
+      ],
+      "Outcome": [
+        "Composite end point consisting of achieving all of the following: continuous glucose monitoring (CGM)-based time between 70 and 180 mg/dl of greater than 70% and time below 70 mg/dl of less than 4%; and weight reduction of at least 5%",
+        "Glycated hemoglobin change from baseline; percentage of time with CGM glucose levels between 70 and 180 mg/dl; body weight change; severe hypoglycemia events; diabetic ketoacidosis"
+      ]
+    }
+  },
+  {
+    "pmid": "41879791",
+    "indication": "semaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Adults with type 2 diabetes and atherosclerotic cardiovascular disease (ASCVD) and/or chronic kidney disease (CKD) receiving standard of care",
+    "intervention": "Once-daily oral semaglutide (maximum dose 14 mg) in addition to standard care",
+    "comparison": "Placebo in addition to standard care",
+    "outcomes_primary": "Association of oral semaglutide vs placebo with glycated hemoglobin (HbA1c), body weight, blood pressure (BP), high-sensitivity C-reactive protein (hsCRP), and lipid plasma levels",
+    "outcomes_secondary": "",
+    "extraction_notes": "This is a post hoc secondary analysis of the SOUL trial. The primary outcome of the original SOUL trial was major adverse cardiovascular events, not the outcomes analyzed in this secondary analysis. No secondary outcomes were explicitly defined for this secondary analysis.",
+    "pico_summary": {
+      "Population": [
+        "Adults with type 2 diabetes and atherosclerotic cardiovascular disease (ASCVD) and/or chronic kidney disease (CKD) receiving standard of care"
+      ],
+      "Intervention": [
+        "Once-daily oral semaglutide (maximum dose 14 mg) in addition to standard care"
+      ],
+      "Comparison": [
+        "Placebo in addition to standard care"
+      ],
+      "Outcome": [
+        "Association of oral semaglutide vs placebo with glycated hemoglobin (HbA1c), body weight, blood pressure (BP), high-sensitivity C-reactive protein (hsCRP), and lipid plasma levels",
+        ""
+      ]
+    }
+  },
+  {
+    "pmid": "41138739",
+    "indication": "semaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Patients aged at least 45 years, with BMI of at least 27 kg/m², with overweight or obesity, with cardiovascular disease, without diabetes",
+    "intervention": "Semaglutide",
+    "comparison": "Placebo",
+    "outcomes_primary": "Major adverse cardiovascular events (MACE)",
+    "outcomes_secondary": "",
+    "extraction_notes": "This is a prespecified secondary analysis of the SELECT trial examining relationships between adiposity measures and MACE. Drug dose, route, frequency, and duration not specified in abstract. BMI threshold appears truncated in abstract text.",
+    "pico_summary": {
+      "Population": [
+        "Patients aged at least 45 years, with BMI of at least 27 kg/m², with overweight or obesity, with cardiovascular disease, without diabetes"
+      ],
+      "Intervention": [
+        "Semaglutide"
+      ],
+      "Comparison": [
+        "Placebo"
+      ],
+      "Outcome": [
+        "Major adverse cardiovascular events (MACE)",
+        ""
+      ]
+    }
+  },
+  {
+    "pmid": "21255526",
+    "indication": "exenatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Patients with Type 2 diabetes aged ≥75 years (elderly group) compared to control patients aged ≥45 to ≤65 years",
+    "intervention": "Single subcutaneous doses of exenatide 5 μg and exenatide 10 μg administered before a standardized breakfast",
+    "comparison": "Placebo; comparison between elderly patients (≥75 years) and control patients (≥45 to ≤65 years)",
+    "outcomes_primary": "Pharmacokinetics (plasma exenatide concentrations, maximum concentration, exposure, apparent clearance)",
+    "outcomes_secondary": "Pharmacodynamics (postprandial serum glucose excursions), safety, tolerability, hypoglycemia, adverse events",
+    "extraction_notes": "Crossover study design with two sequences. Integrated pharmacokinetic analysis also included data from six other clinical pharmacology studies (139 controls ≤65 years; 28 elderly patients >65 years). Primary vs secondary outcomes not explicitly distinguished in abstract.",
+    "pico_summary": {
+      "Population": [
+        "Patients with Type 2 diabetes aged ≥75 years (elderly group) compared to control patients aged ≥45 to ≤65 years"
+      ],
+      "Intervention": [
+        "Single subcutaneous doses of exenatide 5 μg and exenatide 10 μg administered before a standardized breakfast"
+      ],
+      "Comparison": [
+        "Placebo; comparison between elderly patients (≥75 years) and control patients (≥45 to ≤65 years)"
+      ],
+      "Outcome": [
+        "Pharmacokinetics (plasma exenatide concentrations, maximum concentration, exposure, apparent clearance)",
+        "Pharmacodynamics (postprandial serum glucose excursions), safety, tolerability, hypoglycemia, adverse events"
+      ]
+    }
+  },
+  {
+    "pmid": "22931974",
+    "indication": "exenatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Antidiabetic drug-naive obese patients aged >18 years with newly diagnosed type 2 diabetes",
+    "intervention": "Exenatide monotherapy for 26 weeks",
+    "comparison": "Metformin monotherapy for 26 weeks",
+    "outcomes_primary": "HbA1C reduction, oral glucose tolerance test (OGTT) 2-hour glycemia reduction, fasting plasma glucose (FPG) reduction",
+    "outcomes_secondary": "Weight reduction, proportion achieving HbA1C <7% and <6.5%, homeostasis model assessment of beta-cell function (HOMA-B), insulinogenic index, HOMA for insulin sensitivity (HOMA-S), adverse events including nausea and hypoglycemia",
+    "extraction_notes": "Specific doses and dosing regimens for exenatide and metformin not stated in abstract. Primary vs secondary outcomes not explicitly distinguished in the abstract.",
+    "pico_summary": {
+      "Population": [
+        "Antidiabetic drug-naive obese patients aged >18 years with newly diagnosed type 2 diabetes"
+      ],
+      "Intervention": [
+        "Exenatide monotherapy for 26 weeks"
+      ],
+      "Comparison": [
+        "Metformin monotherapy for 26 weeks"
+      ],
+      "Outcome": [
+        "HbA1C reduction, oral glucose tolerance test (OGTT) 2-hour glycemia reduction, fasting plasma glucose (FPG) reduction",
+        "Weight reduction, proportion achieving HbA1C <7% and <6.5%, homeostasis model assessment of beta-cell function (HOMA-B), insulinogenic index, HOMA for insulin sensitivity (HOMA-S), adverse events including nausea and hypoglycemia"
+      ]
+    }
+  },
+  {
+    "pmid": "36066977",
+    "indication": "exenatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Treatment-seeking patients with alcohol use disorder (AUD)",
+    "intervention": "Exenatide 2 mg subcutaneously once weekly for 26 weeks, in addition to standard cognitive-behavioral therapy",
+    "comparison": "Placebo once weekly for 26 weeks, in addition to standard cognitive-behavioral therapy",
+    "outcomes_primary": "Reduction in number of heavy drinking days",
+    "outcomes_secondary": "Functional MRI (fMRI) alcohol cue reactivity; dopamine transporter availability measured by single-photon emission CT (SPECT); adverse events",
+    "extraction_notes": "A subgroup completed fMRI and SPECT brain scans, but it is unclear if these were pre-specified secondary outcomes or exploratory. Exploratory analyses in obese patients (BMI > 30 kg/m2) were also mentioned but these appear to be post-hoc subgroup analyses.",
+    "pico_summary": {
+      "Population": [
+        "Treatment-seeking patients with alcohol use disorder (AUD)"
+      ],
+      "Intervention": [
+        "Exenatide 2 mg subcutaneously once weekly for 26 weeks, in addition to standard cognitive-behavioral therapy"
+      ],
+      "Comparison": [
+        "Placebo once weekly for 26 weeks, in addition to standard cognitive-behavioral therapy"
+      ],
+      "Outcome": [
+        "Reduction in number of heavy drinking days",
+        "Functional MRI (fMRI) alcohol cue reactivity; dopamine transporter availability measured by single-photon emission CT (SPECT); adverse events"
+      ]
+    }
+  },
+  {
+    "pmid": "22882281",
+    "indication": "exenatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Healthy subjects",
+    "intervention": "Intravenous exenatide infusion at therapeutic and supratherapeutic concentrations to achieve steady-state plasma concentrations",
+    "comparison": "Placebo, moxifloxacin (positive control)",
+    "outcomes_primary": "Placebo-corrected, baseline-adjusted QTcP (ΔΔQTcP); mean of three measures assessed at highest steady-state plasma exenatide concentration (ΔΔQTcP(avg))",
+    "outcomes_secondary": "Correlation between ΔΔQTcP and exenatide concentration; assay sensitivity confirmed with moxifloxacin",
+    "extraction_notes": "Sample size not specified in abstract. Specific doses/infusion rates not provided, only target plasma concentrations mentioned. Study design is randomized crossover thorough QT study.",
+    "pico_summary": {
+      "Population": [
+        "Healthy subjects"
+      ],
+      "Intervention": [
+        "Intravenous exenatide infusion at therapeutic and supratherapeutic concentrations to achieve steady-state plasma concentrations"
+      ],
+      "Comparison": [
+        "Placebo, moxifloxacin (positive control)"
+      ],
+      "Outcome": [
+        "Placebo-corrected, baseline-adjusted QTcP (ΔΔQTcP); mean of three measures assessed at highest steady-state plasma exenatide concentration (ΔΔQTcP(avg))",
+        "Correlation between ΔΔQTcP and exenatide concentration; assay sensitivity confirmed with moxifloxacin"
+      ]
+    }
+  },
+  {
+    "pmid": "34097062",
+    "indication": "exenatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Nondiabetic women aged 18-45 years with body mass index (BMI) greater than 30 and less than 45 and polycystic ovary syndrome (PCOS) diagnosed by National Institutes of Health criteria",
+    "intervention": "Once-weekly exenatide (EQW) 2 mg weekly combined with dapagliflozin (DAPA) 10 mg daily (EQW/DAPA) for 24 weeks",
+    "comparison": "EQW 2 mg weekly alone; DAPA 10 mg daily alone; DAPA 10 mg daily plus extended-release metformin 2000 mg XR daily (DAPA/MET); phentermine 7.5 mg plus topiramate 46 mg extended release daily (PHEN/TPM)",
+    "outcomes_primary": "Not explicitly specified",
+    "outcomes_secondary": "Weight, blood pressure, waist circumference, body composition by dual-energy x-ray absorptiometry (DXA), glycemia, mean blood glucose (MBG), insulin sensitivity (SI), insulin secretion (IS), sex steroids, free androgen index (FAI), lipid profiles",
+    "extraction_notes": "Primary outcomes not explicitly distinguished from secondary outcomes. Study described as single-blinded. All listed outcomes appear to be assessed but hierarchy not specified in abstract.",
+    "pico_summary": {
+      "Population": [
+        "Nondiabetic women aged 18-45 years with body mass index (BMI) greater than 30 and less than 45 and polycystic ovary syndrome (PCOS) diagnosed by National Institutes of Health criteria"
+      ],
+      "Intervention": [
+        "Once-weekly exenatide (EQW) 2 mg weekly combined with dapagliflozin (DAPA) 10 mg daily (EQW/DAPA) for 24 weeks"
+      ],
+      "Comparison": [
+        "EQW 2 mg weekly alone; DAPA 10 mg daily alone; DAPA 10 mg daily plus extended-release metformin 2000 mg XR daily (DAPA/MET); phentermine 7.5 mg plus topiramate 46 mg extended release daily (PHEN/TPM)"
+      ],
+      "Outcome": [
+        "Not explicitly specified",
+        "Weight, blood pressure, waist circumference, body composition by dual-energy x-ray absorptiometry (DXA), glycemia, mean blood glucose (MBG), insulin sensitivity (SI), insulin secretion (IS), sex steroids, free androgen index (FAI), lipid profiles"
+      ]
+    }
+  },
+  {
+    "pmid": "19194050",
+    "indication": "exenatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Japanese patients with type 2 diabetes suboptimally controlled despite therapeutic doses of sulfonylurea (SU), SU plus biguanide, or SU plus thiazolidinedione",
+    "intervention": "Exenatide 2.5 microg, 5 microg, or 10 microg administered subcutaneously twice daily (BID) for 12 weeks; patients assigned to 10 microg received 5 microg BID for the first 4 weeks then dose escalated to 10 microg BID for the final 8 weeks",
+    "comparison": "Placebo",
+    "outcomes_primary": "Change in hemoglobin A1c (HbA1c) from baseline to endpoint",
+    "outcomes_secondary": "Proportion of patients achieving HbA1c <7% at endpoint; change in fasting plasma glucose from baseline to endpoint; treatment-emergent adverse events including hypoglycemia, nausea, anorexia, decreased appetite, and diarrhea",
+    "extraction_notes": "Primary and secondary outcomes not explicitly distinguished in abstract; classification based on typical hierarchy. Journal name not provided in source.",
+    "pico_summary": {
+      "Population": [
+        "Japanese patients with type 2 diabetes suboptimally controlled despite therapeutic doses of sulfonylurea (SU), SU plus biguanide, or SU plus thiazolidinedione"
+      ],
+      "Intervention": [
+        "Exenatide 2.5 microg, 5 microg, or 10 microg administered subcutaneously twice daily (BID) for 12 weeks; patients assigned to 10 microg received 5 microg BID for the first 4 weeks then dose escalated to 10 microg BID for the final 8 weeks"
+      ],
+      "Comparison": [
+        "Placebo"
+      ],
+      "Outcome": [
+        "Change in hemoglobin A1c (HbA1c) from baseline to endpoint",
+        "Proportion of patients achieving HbA1c <7% at endpoint; change in fasting plasma glucose from baseline to endpoint; treatment-emergent adverse events including hypoglycemia, nausea, anorexia, decreased appetite, and diarrhea"
+      ]
+    }
+  },
+  {
+    "pmid": "31010875",
+    "indication": "exenatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Participants in the EXSCEL trial with type 2 diabetes; participants with baseline calcitonin >40 ng/L had trial medication discontinued",
+    "intervention": "Once-weekly exenatide 2 mg subcutaneous injection",
+    "comparison": "Placebo",
+    "outcomes_primary": "Changes in serum calcitonin concentrations; incidence of medullary thyroid carcinoma (MTC)",
+    "outcomes_secondary": "Impact of routine calcitonin concentration monitoring; thyroid malignancies",
+    "extraction_notes": "This is a post-hoc analysis of the EXSCEL cardiovascular outcomes trial focused on calcitonin and thyroid safety endpoints. The primary cardiovascular outcomes of the main EXSCEL trial are not the focus of this analysis. Calcitonin monitoring protocol specified: baseline measurement with discontinuation if >40 ng/L, annual monitoring with discontinuation if ≥50 ng/L.",
+    "pico_summary": {
+      "Population": [
+        "Participants in the EXSCEL trial with type 2 diabetes; participants with baseline calcitonin >40 ng/L had trial medication discontinued"
+      ],
+      "Intervention": [
+        "Once-weekly exenatide 2 mg subcutaneous injection"
+      ],
+      "Comparison": [
+        "Placebo"
+      ],
+      "Outcome": [
+        "Changes in serum calcitonin concentrations; incidence of medullary thyroid carcinoma (MTC)",
+        "Impact of routine calcitonin concentration monitoring; thyroid malignancies"
+      ]
+    }
+  },
+  {
+    "pmid": "34867786",
+    "indication": "exenatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Overweight and obese women with BMI 25-48 kg/m2",
+    "intervention": "Exenatide twice daily (alone)",
+    "comparison": "Matched placebo injections plus hypocaloric diet",
+    "outcomes_primary": "Long-term change in body weight among early high responders to either treatment",
+    "outcomes_secondary": "Proportion achieving ≥5% weight loss at 12 weeks (high responder status); proportion achieving ≥10% weight loss (super responder status); metabolomic analysis (exploratory)",
+    "extraction_notes": "Exenatide dose not specified in abstract. Study duration not explicitly stated. The abstract text appears truncated in the metabolomic results section.",
+    "pico_summary": {
+      "Population": [
+        "Overweight and obese women with BMI 25-48 kg/m2"
+      ],
+      "Intervention": [
+        "Exenatide twice daily (alone)"
+      ],
+      "Comparison": [
+        "Matched placebo injections plus hypocaloric diet"
+      ],
+      "Outcome": [
+        "Long-term change in body weight among early high responders to either treatment",
+        "Proportion achieving ≥5% weight loss at 12 weeks (high responder status); proportion achieving ≥10% weight loss (super responder status); metabolomic analysis (exploratory)"
+      ]
+    }
+  },
+  {
+    "pmid": "36894921",
+    "indication": "exenatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Adults with type 2 diabetes of less than 7 years duration",
+    "intervention": "Insulin glargine plus twice-daily exenatide (Glar/Exenatide) for 8 weeks",
+    "comparison": "Insulin glargine alone (Glar); Insulin glargine plus thrice-daily insulin lispro (Glar/Lispro)",
+    "outcomes_primary": "Fasting endothelial function assessed with reactive hyperemia index (RHI) measurement by peripheral arterial tonometry",
+    "outcomes_secondary": "Blood pressure (systolic and diastolic); heart rate",
+    "extraction_notes": "Trial duration was 20 weeks total (8 weeks treatment followed by 12 weeks washout). Primary outcome not explicitly distinguished from secondary outcomes in abstract.",
+    "pico_summary": {
+      "Population": [
+        "Adults with type 2 diabetes of less than 7 years duration"
+      ],
+      "Intervention": [
+        "Insulin glargine plus twice-daily exenatide (Glar/Exenatide) for 8 weeks"
+      ],
+      "Comparison": [
+        "Insulin glargine alone (Glar); Insulin glargine plus thrice-daily insulin lispro (Glar/Lispro)"
+      ],
+      "Outcome": [
+        "Fasting endothelial function assessed with reactive hyperemia index (RHI) measurement by peripheral arterial tonometry",
+        "Blood pressure (systolic and diastolic); heart rate"
+      ]
+    }
+  },
+  {
+    "pmid": "31392822",
+    "indication": "dulaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Adult patients with type 2 diabetes; analyzed by baseline BMI categories: <30, ≥30 to <35, and ≥35 kg/m²",
+    "intervention": "Dulaglutide 1.5 mg or 0.75 mg (route and frequency not specified in abstract)",
+    "comparison": "Active comparator or placebo (specific comparators varied across AWARD-1 to -6, -8 and -9 studies)",
+    "outcomes_primary": "Change from baseline in HbA1c",
+    "outcomes_secondary": "Treatment-by-BMI category interaction for HbA1c reductions",
+    "extraction_notes": "Post hoc analysis pooling data from eight AWARD studies (total n=5770). Route, frequency, and duration of dulaglutide administration not explicitly stated. Specific active comparators not named. Assessment timepoints varied: 26, 24, and 28 weeks across studies.",
+    "pico_summary": {
+      "Population": [
+        "Adult patients with type 2 diabetes; analyzed by baseline BMI categories: <30, ≥30 to <35, and ≥35 kg/m²"
+      ],
+      "Intervention": [
+        "Dulaglutide 1.5 mg or 0.75 mg (route and frequency not specified in abstract)"
+      ],
+      "Comparison": [
+        "Active comparator or placebo (specific comparators varied across AWARD-1 to -6, -8 and -9 studies)"
+      ],
+      "Outcome": [
+        "Change from baseline in HbA1c",
+        "Treatment-by-BMI category interaction for HbA1c reductions"
+      ]
+    }
+  },
+  {
+    "pmid": "33397768",
+    "indication": "dulaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Patients with type 2 diabetes inadequately controlled with metformin",
+    "intervention": "Dulaglutide 3.0 mg or 4.5 mg, once-weekly, for 52 weeks",
+    "comparison": "Dulaglutide 1.5 mg once-weekly",
+    "outcomes_primary": "HbA1c (superiority of dulaglutide 3.0 mg and/or 4.5 mg over 1.5 mg)",
+    "outcomes_secondary": "",
+    "extraction_notes": "Abstract appears truncated; primary outcome description is incomplete. Secondary outcomes not specified in available text. Safety mentioned in objective but specific safety outcomes not defined.",
+    "pico_summary": {
+      "Population": [
+        "Patients with type 2 diabetes inadequately controlled with metformin"
+      ],
+      "Intervention": [
+        "Dulaglutide 3.0 mg or 4.5 mg, once-weekly, for 52 weeks"
+      ],
+      "Comparison": [
+        "Dulaglutide 1.5 mg once-weekly"
+      ],
+      "Outcome": [
+        "HbA1c (superiority of dulaglutide 3.0 mg and/or 4.5 mg over 1.5 mg)",
+        ""
+      ]
+    }
+  },
+  {
+    "pmid": "29504812",
+    "indication": "dulaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Participants in a multi-center crossover study (specific eligibility criteria not stated in abstract)",
+    "intervention": "Dulaglutide single-use pen (SUP)",
+    "comparison": "Insulin degludec disposable prefilled pen (FlexTouch)",
+    "outcomes_primary": "Training time to achieve correct administration",
+    "outcomes_secondary": "Device preference",
+    "extraction_notes": "Abstract text appears truncated at multiple points (sentences end with '|'). Population eligibility criteria not specified. Crossover design noted. This is a device usability study, not a clinical efficacy trial.",
+    "pico_summary": {
+      "Population": [
+        "Participants in a multi-center crossover study (specific eligibility criteria not stated in abstract)"
+      ],
+      "Intervention": [
+        "Dulaglutide single-use pen (SUP)"
+      ],
+      "Comparison": [
+        "Insulin degludec disposable prefilled pen (FlexTouch)"
+      ],
+      "Outcome": [
+        "Training time to achieve correct administration",
+        "Device preference"
+      ]
+    }
+  },
+  {
+    "pmid": "26269615",
+    "indication": "dulaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Male Zucker diabetic fatty (ZDF) rats",
+    "intervention": "Dulaglutide 0.5, 1.5, and 5.0 mg/kg/dose administered subcutaneously twice weekly for 13 weeks",
+    "comparison": "Vehicle control",
+    "outcomes_primary": "",
+    "outcomes_secondary": "",
+    "extraction_notes": "This is a preclinical animal study, not a human clinical trial. Primary and secondary outcomes not explicitly designated. Outcomes assessed included: pancreatic histology, histomorphometry, pancreatic exocrine biomarkers (lipase activity, total and pancreatic amylase activities), glucose, hemoglobin A1c, ductal epithelium changes, acinar atrophy, pancreatic inflammation, ductal cell proliferation, and apoptosis markers.",
+    "pico_summary": {
+      "Population": [
+        "Male Zucker diabetic fatty (ZDF) rats"
+      ],
+      "Intervention": [
+        "Dulaglutide 0.5, 1.5, and 5.0 mg/kg/dose administered subcutaneously twice weekly for 13 weeks"
+      ],
+      "Comparison": [
+        "Vehicle control"
+      ],
+      "Outcome": []
+    }
+  },
+  {
+    "pmid": "32623637",
+    "indication": "dulaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Healthy volunteers",
+    "intervention": "Dulaglutide 1.5 mg subcutaneously once weekly for 3 weeks",
+    "comparison": "Placebo (0.9% sodium chloride) subcutaneously once weekly for 3 weeks",
+    "outcomes_primary": "Total fluid intake (ml) during the 8-hour evaluation visit",
+    "outcomes_secondary": "24-hour urine output; serum sodium levels; thirst perception",
+    "extraction_notes": "Crossover design with each participant receiving both treatments. Food intake was standardized; water intake was ad libitum during evaluation visits.",
+    "pico_summary": {
+      "Population": [
+        "Healthy volunteers"
+      ],
+      "Intervention": [
+        "Dulaglutide 1.5 mg subcutaneously once weekly for 3 weeks"
+      ],
+      "Comparison": [
+        "Placebo (0.9% sodium chloride) subcutaneously once weekly for 3 weeks"
+      ],
+      "Outcome": [
+        "Total fluid intake (ml) during the 8-hour evaluation visit",
+        "24-hour urine output; serum sodium levels; thirst perception"
+      ]
+    }
+  },
+  {
+    "pmid": "22804250",
+    "indication": "dulaglutide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Patients with Type 2 diabetes treated with lifestyle measures, who were anti-hyperglycaemic medication-naïve or had discontinued metformin monotherapy",
+    "intervention": "Dulaglutide 0.1 mg, 0.5 mg, 1.0 mg, or 1.5 mg once-weekly subcutaneous injection for 12 weeks",
+    "comparison": "Placebo once-weekly injection",
+    "outcomes_primary": "HbA1c change from baseline",
+    "outcomes_secondary": "Fasting plasma glucose, body weight change, adverse events",
+    "extraction_notes": "Primary outcome not explicitly labeled but appears to be HbA1c based on study aims. Secondary outcomes inferred from reported measures.",
+    "pico_summary": {
+      "Population": [
+        "Patients with Type 2 diabetes treated with lifestyle measures, who were anti-hyperglycaemic medication-naïve or had discontinued metformin monotherapy"
+      ],
+      "Intervention": [
+        "Dulaglutide 0.1 mg, 0.5 mg, 1.0 mg, or 1.5 mg once-weekly subcutaneous injection for 12 weeks"
+      ],
+      "Comparison": [
+        "Placebo once-weekly injection"
+      ],
+      "Outcome": [
+        "HbA1c change from baseline",
+        "Fasting plasma glucose, body weight change, adverse events"
+      ]
+    }
+  },
+  {
+    "pmid": "39551891",
+    "indication": "tirzepatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Patients with heart failure with preserved ejection fraction (HFpEF) and obesity",
+    "intervention": "Tirzepatide (long-acting glucose-dependent insulinotropic polypeptide receptor and glucagon-like peptide-1 receptor agonist)",
+    "comparison": "Placebo",
+    "outcomes_primary": "Cardiovascular death or worsening heart failure (reported separately in main SUMMIT trial)",
+    "outcomes_secondary": "Systolic blood pressure, estimated blood volume, C-reactive protein levels, estimated glomerular filtration rate",
+    "extraction_notes": "This is a secondary mechanistic analysis of the SUMMIT trial. Abstract appears truncated. Tirzepatide dose, route, frequency not specified in abstract. Primary outcome referenced as reported separately in main trial.",
+    "pico_summary": {
+      "Population": [
+        "Patients with heart failure with preserved ejection fraction (HFpEF) and obesity"
+      ],
+      "Intervention": [
+        "Tirzepatide (long-acting glucose-dependent insulinotropic polypeptide receptor and glucagon-like peptide-1 receptor agonist)"
+      ],
+      "Comparison": [
+        "Placebo"
+      ],
+      "Outcome": [
+        "Cardiovascular death or worsening heart failure (reported separately in main SUMMIT trial)",
+        "Systolic blood pressure, estimated blood volume, C-reactive protein levels, estimated glomerular filtration rate"
+      ]
+    }
+  },
+  {
+    "pmid": "31984598",
+    "indication": "tirzepatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Patients with type 2 diabetes",
+    "intervention": "Once-weekly subcutaneous tirzepatide with three dose-escalation regimens: (1) 12 mg group: 4 mg weeks 0-3, 8 mg weeks 4-7, 12 mg weeks 8-11; (2) 15 mg-1 group: 2.5 mg weeks 0-1, 5 mg weeks 2-3, 10 mg weeks 4-7, 15 mg weeks 8-11; (3) 15 mg-2 group: 2.5 mg weeks 0-3, 7.5 mg weeks 4-7, 15 mg weeks 8-11",
+    "comparison": "Placebo (once-weekly subcutaneous)",
+    "outcomes_primary": "HbA1c change from baseline at 12 weeks",
+    "outcomes_secondary": "",
+    "extraction_notes": "Secondary outcomes not explicitly stated in abstract. Journal name not provided.",
+    "pico_summary": {
+      "Population": [
+        "Patients with type 2 diabetes"
+      ],
+      "Intervention": [
+        "Once-weekly subcutaneous tirzepatide with three dose-escalation regimens: (1) 12 mg group: 4 mg weeks 0-3, 8 mg weeks 4-7, 12 mg weeks 8-11; (2) 15 mg-1 group: 2.5 mg weeks 0-1, 5 mg weeks 2-3, 10 mg weeks 4-7, 15 mg weeks 8-11; (3) 15 mg-2 group: 2.5 mg weeks 0-3, 7.5 mg weeks 4-7, 15 mg weeks 8-11"
+      ],
+      "Comparison": [
+        "Placebo (once-weekly subcutaneous)"
+      ],
+      "Outcome": [
+        "HbA1c change from baseline at 12 weeks",
+        ""
+      ]
+    }
+  },
+  {
+    "pmid": "38819983",
+    "indication": "tirzepatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Chinese adults aged ≥18 years with body mass index (BMI) ≥28, or BMI ≥24 with at least 1 weight-related comorbidity, excluding diabetes",
+    "intervention": "Tirzepatide 10 mg or 15 mg, once-weekly subcutaneous injection, plus lifestyle intervention, for 52 weeks",
+    "comparison": "Placebo (once-weekly subcutaneous injection) plus lifestyle intervention for 52 weeks",
+    "outcomes_primary": "Percent change in body weight from baseline at week 52; proportion of participants achieving weight reduction of at least 5% at week 52",
+    "outcomes_secondary": "",
+    "extraction_notes": "Secondary outcomes not explicitly stated in abstract. Randomization was 1:1:1 across three groups (tirzepatide 10 mg, tirzepatide 15 mg, placebo).",
+    "pico_summary": {
+      "Population": [
+        "Chinese adults aged ≥18 years with body mass index (BMI) ≥28, or BMI ≥24 with at least 1 weight-related comorbidity, excluding diabetes"
+      ],
+      "Intervention": [
+        "Tirzepatide 10 mg or 15 mg, once-weekly subcutaneous injection, plus lifestyle intervention, for 52 weeks"
+      ],
+      "Comparison": [
+        "Placebo (once-weekly subcutaneous injection) plus lifestyle intervention for 52 weeks"
+      ],
+      "Outcome": [
+        "Percent change in body weight from baseline at week 52; proportion of participants achieving weight reduction of at least 5% at week 52",
+        ""
+      ]
+    }
+  },
+  {
+    "pmid": "39555826",
+    "indication": "tirzepatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Patients with heart failure, ejection fraction of at least 50%, and body-mass index of at least 30",
+    "intervention": "Tirzepatide up to 15 mg subcutaneously once per week for at least 52 weeks",
+    "comparison": "Placebo",
+    "outcomes_primary": "Composite of adjudicated death from cardiovascular causes or a worsening heart-failure event (time-to-first-event analysis); Change from baseline to 52 weeks in Kansas City Cardiomyopathy Questionnaire clinical summary score (KCCQ-CSS)",
+    "outcomes_secondary": "",
+    "extraction_notes": "Secondary outcomes not explicitly specified in the abstract",
+    "pico_summary": {
+      "Population": [
+        "Patients with heart failure, ejection fraction of at least 50%, and body-mass index of at least 30"
+      ],
+      "Intervention": [
+        "Tirzepatide up to 15 mg subcutaneously once per week for at least 52 weeks"
+      ],
+      "Comparison": [
+        "Placebo"
+      ],
+      "Outcome": [
+        "Composite of adjudicated death from cardiovascular causes or a worsening heart-failure event (time-to-first-event analysis); Change from baseline to 52 weeks in Kansas City Cardiomyopathy Questionnaire clinical summary score (KCCQ-CSS)",
+        ""
+      ]
+    }
+  },
+  {
+    "pmid": "38530948",
+    "indication": "tirzepatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "People with type 2 diabetes, subgrouped by baseline glycemic patterns based on fasting serum glucose (FSG) and postprandial glucose (PPG) values: low FSG/low PPG, low FSG/high PPG, high FSG/low PPG, and high FSG/high PPG (defined according to median values)",
+    "intervention": "Tirzepatide 5 mg, 10 mg, or 15 mg",
+    "comparison": "Insulin degludec (SURPASS-3 trial), Insulin glargine (SURPASS-4 trial)",
+    "outcomes_primary": "Change from baseline to week 52 in glycemic parameters including HbA1c, fasting serum glucose (FSG), and postprandial glucose (PPG)",
+    "outcomes_secondary": "",
+    "extraction_notes": "Post hoc analysis of two trials (SURPASS-3 and SURPASS-4). Dose, route, frequency, and duration details for tirzepatide and insulin comparators not specified in abstract. Primary versus secondary outcome distinction not explicitly stated.",
+    "pico_summary": {
+      "Population": [
+        "People with type 2 diabetes, subgrouped by baseline glycemic patterns based on fasting serum glucose (FSG) and postprandial glucose (PPG) values: low FSG/low PPG, low FSG/high PPG, high FSG/low PPG, and high FSG/high PPG (defined according to median values)"
+      ],
+      "Intervention": [
+        "Tirzepatide 5 mg, 10 mg, or 15 mg"
+      ],
+      "Comparison": [
+        "Insulin degludec (SURPASS-3 trial), Insulin glargine (SURPASS-4 trial)"
+      ],
+      "Outcome": [
+        "Change from baseline to week 52 in glycemic parameters including HbA1c, fasting serum glucose (FSG), and postprandial glucose (PPG)",
+        ""
+      ]
+    }
+  },
+  {
+    "pmid": "28296201",
+    "indication": "lixisenatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Japanese patients with type 2 diabetes receiving multiple daily insulin injection (MDI) therapy for >3 months",
+    "intervention": "Switching from MDI to combination therapy with lixisenatide (LIX) and basal insulin",
+    "comparison": "Continued multiple daily insulin injection (MDI) therapy",
+    "outcomes_primary": "Change in Diabetes Treatment Satisfaction Questionnaire scores from baseline to 12 weeks",
+    "outcomes_secondary": "Glycated hemoglobin (HbA1c) change; body weight change",
+    "extraction_notes": "Lixisenatide dose, route, and frequency not specified in abstract. Basal insulin type and dosing not specified.",
+    "pico_summary": {
+      "Population": [
+        "Japanese patients with type 2 diabetes receiving multiple daily insulin injection (MDI) therapy for >3 months"
+      ],
+      "Intervention": [
+        "Switching from MDI to combination therapy with lixisenatide (LIX) and basal insulin"
+      ],
+      "Comparison": [
+        "Continued multiple daily insulin injection (MDI) therapy"
+      ],
+      "Outcome": [
+        "Change in Diabetes Treatment Satisfaction Questionnaire scores from baseline to 12 weeks",
+        "Glycated hemoglobin (HbA1c) change; body weight change"
+      ]
+    }
+  },
+  {
+    "pmid": "20722676",
+    "indication": "lixisenatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Patients with Type 2 diabetes inadequately controlled on metformin (≥1000 mg/day), with HbA1c ≥7.0% and <9.0% (≥53 and <75 mmol/mol)",
+    "intervention": "Subcutaneous lixisenatide (AVE0010) at doses of 5, 10, 20, or 30 microg administered once daily or twice daily for 13 weeks",
+    "comparison": "Placebo",
+    "outcomes_primary": "Change in HbA1c from baseline to 13 weeks",
+    "outcomes_secondary": "Achievement of target HbA1c <7.0% (53 mmol/mol); fasting blood glucose; postprandial blood glucose; average self-monitored seven-point blood glucose levels; weight change; adverse events including nausea",
+    "extraction_notes": "Multiple intervention arms with different doses and dosing frequencies. Secondary outcomes not explicitly labeled as such in abstract but listed as additional efficacy and safety measures.",
+    "pico_summary": {
+      "Population": [
+        "Patients with Type 2 diabetes inadequately controlled on metformin (≥1000 mg/day), with HbA1c ≥7.0% and <9.0% (≥53 and <75 mmol/mol)"
+      ],
+      "Intervention": [
+        "Subcutaneous lixisenatide (AVE0010) at doses of 5, 10, 20, or 30 microg administered once daily or twice daily for 13 weeks"
+      ],
+      "Comparison": [
+        "Placebo"
+      ],
+      "Outcome": [
+        "Change in HbA1c from baseline to 13 weeks",
+        "Achievement of target HbA1c <7.0% (53 mmol/mol); fasting blood glucose; postprandial blood glucose; average self-monitored seven-point blood glucose levels; weight change; adverse events including nausea"
+      ]
+    }
+  },
+  {
+    "pmid": "27267268",
+    "indication": "lixisenatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Patients with type 2 diabetes from the Phase 3 GetGoal-M and GetGoal-S clinical trials, stratified into quartiles by baseline β-cell function as measured by the secretory units of islet in transplantation (SUIT) index",
+    "intervention": "Lixisenatide 20μg once daily",
+    "comparison": "Not explicitly stated in this post hoc analysis (original trials were randomized but comparator not specified in abstract)",
+    "outcomes_primary": "Not explicitly distinguished as primary in abstract",
+    "outcomes_secondary": "Not explicitly distinguished as secondary in abstract; outcomes assessed included: glycated hemoglobin (HbA1c), postprandial plasma glucose (PPG), postprandial glucagon, insulinogenic index, severe symptomatic hypoglycemic events",
+    "extraction_notes": "This is a post hoc analysis of two Phase 3 trials (GetGoal-M and GetGoal-S). Only the lixisenatide arm is described; the comparator arm(s) from the original trials are not specified in this abstract. Primary and secondary outcomes are not explicitly distinguished.",
+    "pico_summary": {
+      "Population": [
+        "Patients with type 2 diabetes from the Phase 3 GetGoal-M and GetGoal-S clinical trials, stratified into quartiles by baseline β-cell function as measured by the secretory units of islet in transplantation (SUIT) index"
+      ],
+      "Intervention": [
+        "Lixisenatide 20μg once daily"
+      ],
+      "Comparison": [
+        "Not explicitly stated in this post hoc analysis (original trials were randomized but comparator not specified in abstract)"
+      ],
+      "Outcome": [
+        "Not explicitly distinguished as primary in abstract",
+        "Not explicitly distinguished as secondary in abstract; outcomes assessed included: glycated hemoglobin (HbA1c), postprandial plasma glucose (PPG), postprandial glucagon, insulinogenic index, severe symptomatic hypoglycemic events"
+      ]
+    }
+  },
+  {
+    "pmid": "28345162",
+    "indication": "lixisenatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Japanese patients with type 2 diabetes receiving insulin glargine U100",
+    "intervention": "Lixisenatide once daily via subcutaneous injection, 10 µg initially increased weekly by 5 µg up to 20 µg",
+    "comparison": "Sitagliptin 50 mg once daily oral",
+    "outcomes_primary": "Change in postprandial glucose (PPG) exposure 4 hours after a standardized breakfast, measured as PPG area under the plasma glucose concentration-time curve (AUC)",
+    "outcomes_secondary": "",
+    "extraction_notes": "Secondary outcomes not specified in abstract. Abstract text appears truncated at AUC mentions. Study design is open-label, phase IV, multicentre, randomized.",
+    "pico_summary": {
+      "Population": [
+        "Japanese patients with type 2 diabetes receiving insulin glargine U100"
+      ],
+      "Intervention": [
+        "Lixisenatide once daily via subcutaneous injection, 10 µg initially increased weekly by 5 µg up to 20 µg"
+      ],
+      "Comparison": [
+        "Sitagliptin 50 mg once daily oral"
+      ],
+      "Outcome": [
+        "Change in postprandial glucose (PPG) exposure 4 hours after a standardized breakfast, measured as PPG area under the plasma glucose concentration-time curve (AUC)",
+        ""
+      ]
+    }
+  },
+  {
+    "pmid": "26342556",
+    "indication": "lixisenatide",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Japanese patients with type 2 diabetes mellitus",
+    "intervention": "Lixisenatide monotherapy, once-daily, 2-step dose-increase regimen",
+    "comparison": "Lixisenatide monotherapy, once-daily, 1-step dose-increase regimen",
+    "outcomes_primary": "Safety of lixisenatide at week 24 assessed by descriptive comparison between 2-step and 1-step groups",
+    "outcomes_secondary": "Treatment-emergent adverse events (including nausea), serious treatment-emergent adverse events, symptomatic hypoglycemia, glycated hemoglobin, fasting plasma glucose, body weight",
+    "extraction_notes": "This is a 76-week open-label parallel-group study. Both arms receive lixisenatide; comparison is between dose-titration regimens rather than different drugs. Specific doses not stated in abstract. Primary outcome is safety-focused with descriptive comparison rather than formal statistical testing.",
+    "pico_summary": {
+      "Population": [
+        "Japanese patients with type 2 diabetes mellitus"
+      ],
+      "Intervention": [
+        "Lixisenatide monotherapy, once-daily, 2-step dose-increase regimen"
+      ],
+      "Comparison": [
+        "Lixisenatide monotherapy, once-daily, 1-step dose-increase regimen"
+      ],
+      "Outcome": [
+        "Safety of lixisenatide at week 24 assessed by descriptive comparison between 2-step and 1-step groups",
+        "Treatment-emergent adverse events (including nausea), serious treatment-emergent adverse events, symptomatic hypoglycemia, glycated hemoglobin, fasting plasma glucose, body weight"
+      ]
+    }
+  },
+  {
+    "pmid": "38874618",
+    "indication": "",
+    "error": null,
+    "extraction_status": "success",
+    "population": "People living with type 2 diabetes (T2D)",
+    "intervention": "GLP-1 receptor agonist (GLP-1RA) therapy",
+    "comparison": "SGLT2 inhibitor without GLP-1RA; neither GLP-1RA nor SGLT2 inhibitor therapy",
+    "outcomes_primary": "Circulating vascular regenerative (VR) progenitor cell content defined by high aldehyde dehydrogenase (ALDH) activity",
+    "outcomes_secondary": "",
+    "extraction_notes": "Abstract appears truncated. This is a post hoc subanalysis of the ORIGINS-RCE CardioLink-13 study. Sample sizes by group: GLP-1RA n=20, SGLT2 inhibitor n=42, neither therapy n=30. Specific GLP-1RA drug names, doses, and durations not provided in available text. Primary/secondary outcome distinction not explicitly stated.",
+    "pico_summary": {
+      "Population": [
+        "People living with type 2 diabetes (T2D)"
+      ],
+      "Intervention": [
+        "GLP-1 receptor agonist (GLP-1RA) therapy"
+      ],
+      "Comparison": [
+        "SGLT2 inhibitor without GLP-1RA; neither GLP-1RA nor SGLT2 inhibitor therapy"
+      ],
+      "Outcome": [
+        "Circulating vascular regenerative (VR) progenitor cell content defined by high aldehyde dehydrogenase (ALDH) activity",
+        ""
+      ]
+    }
+  },
+  {
+    "pmid": "27216492",
+    "indication": "",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Participants with type 2 diabetes. Study 1: 24 participants at two study sites. Study 2: 26 participants at a single study site.",
+    "intervention": "Study 1: Delayed-release metformin (Metformin DR) 500 mg twice-daily or 1,000 mg twice-daily for 5-day treatment periods. Study 2: Metformin DR 1,000 mg once-daily in the morning, 1,000 mg once-daily in the evening, or 500 mg twice-daily for 7-day treatment periods.",
+    "comparison": "Study 1: Immediate-release metformin (Metformin IR) 1,000 mg twice-daily. Study 2: Crossover comparison between the three Metformin DR dosing regimens (1,000 mg once-daily morning vs 1,000 mg once-daily evening vs 500 mg twice-daily).",
+    "outcomes_primary": "Bioavailability (plasma metformin exposure), plasma glucose (fasting and postprandial), circulating gut hormones (glucagon-like peptide-1 [GLP-1], peptide YY [PYY]).",
+    "outcomes_secondary": "Adverse events, tolerability, vital signs, physical examinations, laboratory values.",
+    "extraction_notes": "Two separate randomized crossover studies reported together. Study 1 was blinded; Study 2 was non-blinded. Primary vs secondary outcome distinction not explicitly stated; categorization inferred from study aims.",
+    "pico_summary": {
+      "Population": [
+        "Participants with type 2 diabetes. Study 1: 24 participants at two study sites. Study 2: 26 participants at a single study site."
+      ],
+      "Intervention": [
+        "Study 1: Delayed-release metformin (Metformin DR) 500 mg twice-daily or 1,000 mg twice-daily for 5-day treatment periods. Study 2: Metformin DR 1,000 mg once-daily in the morning, 1,000 mg once-daily in the evening, or 500 mg twice-daily for 7-day treatment periods."
+      ],
+      "Comparison": [
+        "Study 1: Immediate-release metformin (Metformin IR) 1,000 mg twice-daily. Study 2: Crossover comparison between the three Metformin DR dosing regimens (1,000 mg once-daily morning vs 1,000 mg once-daily evening vs 500 mg twice-daily)."
+      ],
+      "Outcome": [
+        "Bioavailability (plasma metformin exposure), plasma glucose (fasting and postprandial), circulating gut hormones (glucagon-like peptide-1 [GLP-1], peptide YY [PYY]).",
+        "Adverse events, tolerability, vital signs, physical examinations, laboratory values."
+      ]
+    }
+  },
+  {
+    "pmid": "24699248",
+    "indication": "",
+    "error": null,
+    "extraction_status": "success",
+    "population": "Subjects with type 2 diabetes mellitus; Study 1: drug-naive subjects or subjects who had stopped their diabetic medications; Study 2: subjects taking metformin",
+    "intervention": "GSK1292263 (GSK263), a selective GPR119 agonist, administered as single doses (25-800 mg) or multiple doses (100-600 mg/day for 14 days, including 300 mg BID); In Study 1, sitagliptin was co-administered with GSK263 on Day 14 of dosing",
+    "comparison": "Placebo; Sitagliptin 100 mg/day",
+    "outcomes_primary": "Effects on plasma glucose, insulin, C-peptide, glucagon levels assessed via oral glucose and meal challenges",
+    "outcomes_secondary": "Effects on gut hormone profiles including peptide tyrosine-tyrosine (PYY), glucagon-like peptide-1 (GLP-1) total and active, and glucose-dependent insulinotropic peptide (GIP) assessed via oral glucose and meal challenges",
+    "extraction_notes": "Two separate randomized studies reported together; exact sample sizes for single dose (n=45) and multiple dose (n=96) groups provided but allocation to specific treatment arms not detailed in abstract; primary vs secondary outcome distinction not explicitly stated",
+    "pico_summary": {
+      "Population": [
+        "Subjects with type 2 diabetes mellitus; Study 1: drug-naive subjects or subjects who had stopped their diabetic medications; Study 2: subjects taking metformin"
+      ],
+      "Intervention": [
+        "GSK1292263 (GSK263), a selective GPR119 agonist, administered as single doses (25-800 mg) or multiple doses (100-600 mg/day for 14 days, including 300 mg BID); In Study 1, sitagliptin was co-administered with GSK263 on Day 14 of dosing"
+      ],
+      "Comparison": [
+        "Placebo; Sitagliptin 100 mg/day"
+      ],
+      "Outcome": [
+        "Effects on plasma glucose, insulin, C-peptide, glucagon levels assessed via oral glucose and meal challenges",
+        "Effects on gut hormone profiles including peptide tyrosine-tyrosine (PYY), glucagon-like peptide-1 (GLP-1) total and active, and glucose-dependent insulinotropic peptide (GIP) assessed via oral glucose and meal challenges"
+      ]
+    }
+  }
+]
